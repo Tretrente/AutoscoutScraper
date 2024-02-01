@@ -39,16 +39,17 @@ def listPopulation(page):
 def printList(annunci):
     global totalResults
     totalResults += len(annunci)
-    for annuncio in annunci:
-        print("----------------------------------")
-        print("prezzo = " + str(annuncio.price))
-        print("marca = " + annuncio.make)
-        print("modello = " + annuncio.model)
-        print("km = " + str(annuncio.km))
-        print("anno = "+ annuncio.year)
-        print("link = " + annuncio.link)
-        print("score = " + str(annuncio.score))
-        print("----------------------------------")
+    with open('lista.txt', 'a') as file:  # Open the file for appending
+        for annuncio in annunci:
+            file.write("----------------------------------\n")
+            file.write("prezzo = " + str(annuncio.price) + "\n")
+            file.write("marca = " + annuncio.make + "\n")
+            file.write("modello = " + annuncio.model + "\n")
+            file.write("km = " + str(annuncio.km) + "\n")
+            file.write("anno = "+ str(annuncio.year) + "\n")
+            file.write("link = " + annuncio.link + "\n")
+            file.write("score = " + str(annuncio.score) + "\n")
+            file.write("----------------------------------\n")
 
 #Calculates how many pages are avabile for the search you made
 def pageCalculator(soup):
@@ -77,10 +78,12 @@ def categorization():
             new.append(a)
         else:
             old.append(a)
-    print("++++++++++++++++++++++++++++++++ NEW CARS ++++++++++++++++++++++++++++++++")
+    with open('lista.txt', 'w') as file:
+        file.write("++++++++++++++++++++++++++++++++ NEW CARS ++++++++++++++++++++++++++++++++")
     new = sorted(new, key=lambda x: x.score)
     printList(new)
-    print("++++++++++++++++++++++++++++++++ OLD CARS ++++++++++++++++++++++++++++++++")
+    with open('lista.txt', 'a') as file:
+        file.write("++++++++++++++++++++++++++++++++ OLD CARS ++++++++++++++++++++++++++++++++")
     old = sorted(old, key=lambda x: x.score)
     printList(old)
 
@@ -88,11 +91,11 @@ def categorization():
 #Start the program
 #TODO implemente the possibility tho choice wich make and model you want to search for
 def start():
-    link = linkCreator(make="nissan", model="micra", page=1)
+    link = linkCreator(make="hyundai", model="i20", page=1)
     soup = linkCall(link)
     pages = pageCalculator(soup)
     for n in range(pages+1):
-        link = linkCreator(make="nissan", model="micra", page=n)
+        link = linkCreator(make="hyundai", model="i20", page=n)
         soup = linkCall(link)
         pageResearch(soup)
         #print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"+str(n))
