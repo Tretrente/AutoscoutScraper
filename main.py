@@ -68,21 +68,35 @@ def linkCall(link):
     soup=bs4.BeautifulSoup(response.text, 'html.parser')
     return soup
 
+def categorization():
+    global annunci
+    new = []
+    old =[]
+    for a in annunci:
+        if a.category == "new":
+            new.append(a)
+        else:
+            old.append(a)
+    print("++++++++++++++++++++++++++++++++ NEW CARS ++++++++++++++++++++++++++++++++")
+    new = sorted(new, key=lambda x: x.score)
+    printList(new)
+    print("++++++++++++++++++++++++++++++++ OLD CARS ++++++++++++++++++++++++++++++++")
+    old = sorted(old, key=lambda x: x.score)
+    printList(old)
+
 
 #Start the program
 #TODO implemente the possibility tho choice wich make and model you want to search for
 def start():
-    link = linkCreator(make="toyota", model="prius", page=1)
+    link = linkCreator(make="nissan", model="micra", page=1)
     soup = linkCall(link)
     pages = pageCalculator(soup)
     for n in range(pages+1):
-        link = linkCreator(make="toyota", model="prius", page=n)
+        link = linkCreator(make="nissan", model="micra", page=n)
         soup = linkCall(link)
         pageResearch(soup)
         #print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"+str(n))
-    global annunci
-    annunci = sorted(annunci, key=lambda x: x.score)
-    printList(annunci)
+    categorization()
     #print (totalResults)
 
 start()

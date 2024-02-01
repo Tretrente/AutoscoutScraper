@@ -11,6 +11,7 @@ class Annuncio:
         self.link = "https://www.autoscout24.it/"+link
         self.year = year
         self.score = Annuncio.scoreCalculator(self.price, self.km, self.year)
+        self.category = Annuncio.categorization(self.km)    
 
     @staticmethod
     def numberReturn(input_string):
@@ -39,3 +40,12 @@ class Annuncio:
         km = int(km)
         score = (price / 1000) * km * (1 / (year))
         return score
+    
+    @staticmethod
+    def categorization(km):
+        category = ""
+        if int(km) < 100:
+            category = "new"
+        else:
+            category = "used"
+        return category
