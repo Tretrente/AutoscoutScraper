@@ -47,6 +47,7 @@ def printList(annunci):
         print("km = " + str(annuncio.km))
         print("anno = "+ annuncio.year)
         print("link = " + annuncio.link)
+        print("score = " + str(annuncio.score))
         print("----------------------------------")
 
 #Calculates how many pages are avabile for the search you made
@@ -67,12 +68,6 @@ def linkCall(link):
     soup=bs4.BeautifulSoup(response.text, 'html.parser')
     return soup
 
-#Compare the cars list to find the best km/price car
-def listCompare():
-    global annunci
-    sorted_annuncios = sorted(annunci, key=lambda x: (x.price / x.km if x.km != 0 else float('inf')))
-    printList(sorted_annuncios)
-
 
 #Start the program
 #TODO implemente the possibility tho choice wich make and model you want to search for
@@ -85,8 +80,9 @@ def start():
         soup = linkCall(link)
         pageResearch(soup)
         #print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"+str(n))
-    global totalResults
-    listCompare()
+    global annunci
+    annunci = sorted(annunci, key=lambda x: x.score)
+    printList(annunci)
     #print (totalResults)
 
 start()
