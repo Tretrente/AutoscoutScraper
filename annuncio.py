@@ -3,16 +3,19 @@ from datetime import date
 
 
 class Annuncio:
-    def __init__(self, make="", model = "", price = 0, km = 0, link = "", year = 0):
+    def __init__(self, make="", model = "", price = 0, km = 0, link = "", year = 0, fuel = "", region = ""):
         self.make = make
         self.model = model
         self.price = Annuncio.numberReturn(price)
         self.km = Annuncio.numberReturn(km)
         self.link = "https://www.autoscout24.it/"+link
         self.year = year
+        self.fuel = fuel
+        self.region = region
         self.score = Annuncio.scoreCalculator(self.price, self.km, self.year)
         self.category = Annuncio.categorization(self.km)    
 
+#This method return a string with only numbers
     @staticmethod
     def numberReturn(input_string):
         clean_string = re.sub(r'[^0-9]', '', input_string)
@@ -22,7 +25,8 @@ class Annuncio:
             return 1
         else:
             return int(clean_string)
-    
+
+#This method format the year to make it contain only numbers    
     @staticmethod 
     def yearFormatter(year):
         current_year = ""
@@ -38,9 +42,18 @@ class Annuncio:
         year = int(Annuncio.yearFormatter(year))
         price = int(price)
         km = int(km)
-        score = (price / 1000) * km * (1 / (year))
-        return score
+        year_factor = 2024 - year + 1
+        #LIVELLO IMPORTANZA:
+        #PREZZO: 0.6, 0.3, 0.1
+        #KM: 0.4, 0.4, 0.2
+        #ANNO: ?, ?, ?
+        convenience_score = (0.1 * price) + (0.1/(1/km)) + (0.8 * (1/year))
+        #convenience_score = (1 / price) * (2024 - year + 1) * (1 / (km + 1))
+        #convenience_score = year_factor / (price * km)
+        return convenience_score
+        
     
+#This method return the category based on the number of km
     @staticmethod
     def categorization(km):
         category = ""

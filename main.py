@@ -4,6 +4,8 @@ from annuncio import Annuncio
 
 totalResults=0
 annunci = []
+make = "ford"
+model = "fiesta"
 
 #Create the link for the search page
 #TODO implement more search filter
@@ -69,6 +71,7 @@ def linkCall(link):
     soup=bs4.BeautifulSoup(response.text, 'html.parser')
     return soup
 
+#This method split the list based on the "category" attribute
 def categorization():
     global annunci
     new = []
@@ -91,16 +94,16 @@ def categorization():
 #Start the program
 #TODO implemente the possibility tho choice wich make and model you want to search for
 def start():
-    link = linkCreator(make="hyundai", model="i20", page=1)
+    global make
+    global model
+    link = linkCreator(make, model, page=1)
     soup = linkCall(link)
     pages = pageCalculator(soup)
     for n in range(pages+1):
-        link = linkCreator(make="hyundai", model="i20", page=n)
+        link = linkCreator(make, model, page=n)
         soup = linkCall(link)
         pageResearch(soup)
-        #print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"+str(n))
     categorization()
-    #print (totalResults)
 
 start()
 
