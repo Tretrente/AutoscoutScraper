@@ -6,6 +6,12 @@ totalResults=0
 annunci = []
 make = "toyota"
 model = "prius"
+minPrice = 0
+maxPrice = 0
+minKm = 0
+maxKm = 0
+minYear = 0
+maxYear = 0
 
 #Create the link for the search page
 #TODO implement more search filter
@@ -81,6 +87,9 @@ def categorization():
             new.append(a)
         else:
             old.append(a)
+    minmax(old)
+    for a in old:
+        a.score = scoreCalculator(a.price, a.km, a.year)
     with open('lista.txt', 'w') as file:
         file.write("++++++++++++++++++++++++++++++++ NEW CARS ++++++++++++++++++++++++++++++++")
     new = sorted(new, key=lambda x: x.score, reverse=True)
@@ -89,6 +98,53 @@ def categorization():
         file.write("++++++++++++++++++++++++++++++++ OLD CARS ++++++++++++++++++++++++++++++++")
     old = sorted(old, key=lambda x: x.score, reverse=True)
     printList(old)
+
+def minmax(list):
+    global minPrice
+    global maxPrice
+    global minKm
+    global maxKm 
+    global minYear
+    global maxYear
+    minPrice = list[0].price
+    maxPrice = list[0].price
+    minKm = int(list[0].km)
+    maxKm = int(list[0].km)
+    minYear = int(list[0].year)
+    maxYear = int(list[0].year)
+    for a in list:
+        if a.price < minPrice:
+            minPrice = a.price
+        if a.price > maxPrice:
+            maxPrice = a.price
+        if int(a.km) < minKm:
+            minKm = a.km
+        if int(a.km) > maxKm:
+            maxKm = a.km
+        if int(a.year) < minYear:
+            minYear = a.year
+        if int(a.year) > maxYear:
+            maxYear = a.year
+
+def scoreCalculator(price: int, km: int, year):
+    global minPrice
+    global maxPrice
+    global minKm
+    global maxKm 
+    global minYear
+    global maxYear
+    year = int(year)
+    price = int(price)
+    km = int(km)
+    normalizedPrice = normalizedValue(price, minPrice, maxPrice)
+    normalizedKm = normalizedValue(km, minKm, maxKm)
+    normalizedYear = normalizedValue(year, minYear, maxYear)
+    convenience_score = (0.6 * normalizedPrice) + (0.2*normalizedKm) + (0.2 * normalizedYear)
+    return convenience_score
+
+def normalizedValue(value, min, max):
+    normalized = (value-min)/(max -min)
+    return normalized
 
 
 #Start the program

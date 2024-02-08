@@ -9,11 +9,11 @@ class Annuncio:
         self.price = Annuncio.numberReturn(price)
         self.km = Annuncio.numberReturn(km)
         self.link = "https://www.autoscout24.it/"+link
-        self.year = year
+        self.year = int(Annuncio.yearFormatter(year))
         self.fuel = fuel
         self.region = region
-        self.score = Annuncio.scoreCalculator(self.price, self.km, self.year)
-        self.category = Annuncio.categorization(self.km)    
+        self.score = 0 #Annuncio.scoreCalculator(self.price, self.km, self.year)
+        self.category = Annuncio.categorization(self.km)
 
 #This method return a string with only numbers
     @staticmethod
@@ -42,14 +42,7 @@ class Annuncio:
         year = int(Annuncio.yearFormatter(year))
         price = int(price)
         km = int(km)
-        year_factor = 2024 - year + 1
-        #LIVELLO IMPORTANZA:
-        #PREZZO: 0.6, 0.3, 0.1
-        #KM: 0.4, 0.4, 0.2
-        #ANNO: 0.1, 0.1, 0.8
         convenience_score = (0.6 * price) + (0.2*(1/km)) + (0.2 * (1/year))
-        #convenience_score = (1 / price) * (2024 - year + 1) * (1 / (km + 1))
-        #convenience_score = year_factor / (price * km)
         return convenience_score
         
     

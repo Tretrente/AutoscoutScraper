@@ -1,594 +1,612 @@
 ++++++++++++++++++++++++++++++++ NEW CARS ++++++++++++++++++++++++++++++++----------------------------------
-prezzo = 46760
-marca = toyota
-modello = prius
-km = 1
-anno = new
-link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-elettrica-benzina-argento-b3e52865-aff3-40a8-b6db-2c52b0517574
-score = 28056.20009881423
-----------------------------------
-----------------------------------
-prezzo = 46000
-marca = toyota
-modello = prius
-km = 1
-anno = new
-link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-elettrica-benzina-bianco-32c497d0-190e-4e8f-88ff-10882a406ce8
-score = 27600.20009881423
-----------------------------------
-----------------------------------
-prezzo = 43210
-marca = toyota
-modello = prius
-km = 1
-anno = new
-link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-elettrica-benzina-argento-b9972ce0-19ed-4896-946f-9061487e8781
-score = 25926.20009881423
-----------------------------------
-----------------------------------
-prezzo = 42160
-marca = toyota
-modello = prius
-km = 1
-anno = new
-link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-active-elettrica-benzina-argento-bc1dd017-abc5-4bf1-baf7-0ec9a584b2aa
-score = 25296.20009881423
-----------------------------------
-----------------------------------
-prezzo = 42000
-marca = toyota
-modello = prius
-km = 1
-anno = new
-link = https://www.autoscout24.it//annunci/toyota-prius-2-0-phev-lounge-elettrica-benzina-grigio-58a19a3f-64e1-4b4a-b5eb-3b8fd6e963bd
-score = 25200.20009881423
-----------------------------------
-----------------------------------
-prezzo = 38500
-marca = toyota
-modello = prius
-km = 40
-anno = 12-2023
-link = https://www.autoscout24.it//annunci/toyota-prius-2-0-phev-active-plug-in-hybrid-elettrica-benzina-grigio-4a012640-ad19-4959-937d-23984c9af849
-score = 23100.005098863076
-----------------------------------
-----------------------------------
-prezzo = 37000
-marca = toyota
-modello = prius
-km = 1
-anno = new
-link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-pronta-consegna-elettrica-benzina-grigio-c5f98d69-c346-4c0b-864c-cdb85b6259a1
-score = 22200.20009881423
-----------------------------------
-----------------------------------
 prezzo = 36300
 marca = toyota
 modello = prius
 km = 1
-anno = new
+anno = 2024
 link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-elettrica-benzina-nero-64fda34a-04d4-4468-8c82-228e76d7388d
-score = 21780.20009881423
+score = 0
 ----------------------------------
 ----------------------------------
 prezzo = 36000
 marca = toyota
 modello = prius
 km = 1
-anno = new
+anno = 2024
 link = https://www.autoscout24.it//annunci/toyota-prius-2-0-phev-lounge-elettrica-benzina-603c5a6e-e838-4137-917f-6f7309bed603
-score = 21600.20009881423
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 37000
+marca = toyota
+modello = prius
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-pronta-consegna-elettrica-benzina-grigio-c5f98d69-c346-4c0b-864c-cdb85b6259a1
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 38500
+marca = toyota
+modello = prius
+km = 40
+anno = 2023
+link = https://www.autoscout24.it//annunci/toyota-prius-2-0-phev-active-plug-in-hybrid-elettrica-benzina-grigio-4a012640-ad19-4959-937d-23984c9af849
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 46000
+marca = toyota
+modello = prius
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-elettrica-benzina-bianco-32c497d0-190e-4e8f-88ff-10882a406ce8
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 42160
+marca = toyota
+modello = prius
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-active-elettrica-benzina-argento-bc1dd017-abc5-4bf1-baf7-0ec9a584b2aa
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 42000
+marca = toyota
+modello = prius
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/toyota-prius-2-0-phev-lounge-elettrica-benzina-grigio-58a19a3f-64e1-4b4a-b5eb-3b8fd6e963bd
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 46760
+marca = toyota
+modello = prius
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-elettrica-benzina-argento-b3e52865-aff3-40a8-b6db-2c52b0517574
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 43210
+marca = toyota
+modello = prius
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-elettrica-benzina-argento-b9972ce0-19ed-4896-946f-9061487e8781
+score = 0
 ----------------------------------
 ++++++++++++++++++++++++++++++++ OLD CARS ++++++++++++++++++++++++++++++++----------------------------------
 prezzo = 33000
 marca = toyota
 modello = prius
 km = 5216
-anno = 06-2022
+anno = 2022
 link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-1-8h-ecvt-my22-elettrica-benzina-bianco-471fcaa1-ba38-4b01-99fa-d1c0ea6816b2
-score = 19800.000137255527
+score = 0.8
 ----------------------------------
 ----------------------------------
 prezzo = 26900
 marca = toyota
 modello = prius
 km = 21835
-anno = 10-2021
+anno = 2021
 link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-lounge-awd-i-ecvt-my20-elettrica-benzina-grigio-025595b6-9b06-4411-8e6d-106eeeef1570
-score = 16140.000108120517
+score = 0.6751321061905299
 ----------------------------------
 ----------------------------------
 prezzo = 25999
 marca = toyota
 modello = prius
 km = 24052
-anno = 06-2022
+anno = 2022
 link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-plug-in-234-elettrica-benzina-bianco-d97bfb83-fd2d-4460-b6c9-128e45b8927f
-score = 15599.400107227286
+score = 0.6693111635881155
 ----------------------------------
 ----------------------------------
 prezzo = 25500
 marca = toyota
 modello = prius
 km = 68000
-anno = 09-2019
+anno = 2019
 link = https://www.autoscout24.it//annunci/toyota-prius-1-8-awd-lounge-elettrica-benzina-blu-azzurro-1635407f-eaa6-4b47-8a46-b2d7787d5410
-score = 15300.000102000116
-----------------------------------
-----------------------------------
-prezzo = 24900
-marca = toyota
-modello = prius
-km = 20448
-anno = 10-2021
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-ecvt-awd-i-lou-my20-elettrica-benzina-bianco-61d2be43-234d-437a-9930-e8c16c5b7938
-score = 14940.000108741819
-----------------------------------
-----------------------------------
-prezzo = 23900
-marca = toyota
-modello = prius
-km = 47900
-anno = 09-2019
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-plug-in-elettrica-benzina-blu-azzurro-cc2e3361-0848-41ca-bf1d-e43c185f14d1
-score = 14340.000103234304
+score = 0.6498948182829207
 ----------------------------------
 ----------------------------------
 prezzo = 23900
 marca = toyota
 modello = prius
 km = 74413
-anno = 01-2021
+anno = 2021
 link = https://www.autoscout24.it//annunci/toyota-prius-1-8-awd-lounge-elettrica-benzina-argento-8e1bfe20-50bf-492e-983a-395165258b4f
-score = 14340.000101648613
+score = 0.6433991564025523
 ----------------------------------
 ----------------------------------
 prezzo = 23900
 marca = toyota
 modello = prius
 km = 89000
-anno = 02-2020
+anno = 2020
 link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-elettrica-benzina-bianco-b418f8e0-1bb0-48f4-be26-8755c8eb1bcb
-score = 14340.000101257092
+score = 0.6402420454659309
 ----------------------------------
 ----------------------------------
-prezzo = 23400
+prezzo = 24900
 marca = toyota
 modello = prius
-km = 62500
-anno = 02-2019
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-plug-in-elettrica-benzina-blu-azzurro-98d1829f-ec47-4000-a71a-c7fb9bd5b360
-score = 14040.00010225894
+km = 20448
+anno = 2021
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-ecvt-awd-i-lou-my20-elettrica-benzina-bianco-61d2be43-234d-437a-9930-e8c16c5b7938
+score = 0.6341073463772455
 ----------------------------------
 ----------------------------------
-prezzo = 23200
+prezzo = 23900
 marca = toyota
 modello = prius
-km = 28238
-anno = 11-2019
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-h-lounge-awd-i-ecvt-elettrica-benzina-verde-bf97563c-253c-4d86-aaa5-3373a3b40a4c
-score = 13920.000106141595
-----------------------------------
-----------------------------------
-prezzo = 22900
-marca = toyota
-modello = prius
-km = 94972
-anno = 06-2018
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-elettrica-benzina-bianco-bf73d8fc-6a26-4260-9890-128ca1673616
-score = 13740.000101213911
+km = 47900
+anno = 2019
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-plug-in-elettrica-benzina-blu-azzurro-cc2e3361-0848-41ca-bf1d-e43c185f14d1
+score = 0.6067199240599324
 ----------------------------------
 ----------------------------------
 prezzo = 22400
 marca = toyota
 modello = prius
 km = 59000
-anno = 01-2021
+anno = 2021
 link = https://www.autoscout24.it//annunci/toyota-prius-prius-iv-2019-1-8h-lounge-awd-i-ecvt-my20-elettrica-benzina-grigio-9395b368-f5b3-4a0d-8385-2371b74b9e1e
-score = 13440.000102350741
+score = 0.6047934126200625
 ----------------------------------
 ----------------------------------
-prezzo = 22000
+prezzo = 23400
 marca = toyota
 modello = prius
-km = 72000
-anno = 11-2018
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-2017-1-8h-plug-in-elettrica-benzina-bianco-0452d707-4c2d-413e-aeaa-25264e7124bf
-score = 13200.000101885804
+km = 62500
+anno = 2019
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-plug-in-elettrica-benzina-blu-azzurro-98d1829f-ec47-4000-a71a-c7fb9bd5b360
+score = 0.6046138987811881
 ----------------------------------
 ----------------------------------
-prezzo = 21500
+prezzo = 22900
 marca = toyota
 modello = prius
-km = 43210
-anno = 08-2020
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-lounge-awd-i-ecvt-my20-elettrica-benzina-blu-azzurro-b1431207-b2b0-413d-8697-5c62a218d9c0
-score = 12900.00010363846
-----------------------------------
-----------------------------------
-prezzo = 21400
-marca = toyota
-modello = prius
-km = 49911
-anno = 02-2018
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-style-elettrica-benzina-bianco-984fa333-d8c9-4348-8671-3cd74e901b01
-score = 12840.000103115159
-----------------------------------
-----------------------------------
-prezzo = 21350
-marca = toyota
-modello = prius
-km = 54076
-anno = 10-2019
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-active-elettrica-benzina-blu-azzurro-d5b2ff7e-5bb4-4799-b51d-cd52121b6ab5
-score = 12810.000102757438
+km = 94972
+anno = 2018
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-elettrica-benzina-bianco-bf73d8fc-6a26-4260-9890-128ca1673616
+score = 0.6011420075492457
 ----------------------------------
 ----------------------------------
 prezzo = 21000
 marca = toyota
 modello = prius
 km = 95000
-anno = 01-2020
+anno = 2020
 link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-i-1-8h-plug-in-elettrica-benzina-grigio-5006904e-b11a-4578-bf94-4d256af450be
-score = 12600.000101115165
+score = 0.5851244640559845
 ----------------------------------
 ----------------------------------
-prezzo = 20900
+prezzo = 23200
 marca = toyota
 modello = prius
-km = 47533
-anno = 06-2017
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-navigatore-fino-a-3-anni-di-garan-elettrica-benzina-verde-9708e1c7-cb7d-4ae8-9067-72c08345e522
-score = 12540.000103364766
+km = 28238
+anno = 2019
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-h-lounge-awd-i-ecvt-elettrica-benzina-verde-bf97563c-253c-4d86-aaa5-3373a3b40a4c
+score = 0.581904667870528
 ----------------------------------
 ----------------------------------
-prezzo = 20900
+prezzo = 22000
 marca = toyota
 modello = prius
-km = 56110
-anno = 07-2017
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-navigatore-elettrica-benzina-grigio-3f926a1d-2a87-4fa0-8666-d05022095c70
-score = 12540.00010272159
+km = 72000
+anno = 2018
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-2017-1-8h-plug-in-elettrica-benzina-bianco-0452d707-4c2d-413e-aeaa-25264e7124bf
+score = 0.5704950287374382
+----------------------------------
+----------------------------------
+prezzo = 21500
+marca = toyota
+modello = prius
+km = 43210
+anno = 2020
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-lounge-awd-i-ecvt-my20-elettrica-benzina-blu-azzurro-b1431207-b2b0-413d-8697-5c62a218d9c0
+score = 0.5669515240581626
+----------------------------------
+----------------------------------
+prezzo = 21350
+marca = toyota
+modello = prius
+km = 54076
+anno = 2019
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-active-elettrica-benzina-blu-azzurro-d5b2ff7e-5bb4-4799-b51d-cd52121b6ab5
+score = 0.5587452918055851
+----------------------------------
+----------------------------------
+prezzo = 21400
+marca = toyota
+modello = prius
+km = 49911
+anno = 2018
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-style-elettrica-benzina-bianco-984fa333-d8c9-4348-8671-3cd74e901b01
+score = 0.5463698006713101
 ----------------------------------
 ----------------------------------
 prezzo = 20000
 marca = toyota
 modello = prius
 km = 74000
-anno = 09-2019
+anno = 2019
 link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-plug-in-5posti-elettrica-benzina-grigio-ed4464e1-fb22-4b3a-a18a-ab9ce09804b4
-score = 12000.000101761643
-----------------------------------
-----------------------------------
-prezzo = 18900
-marca = toyota
-modello = prius
-km = 122000
-anno = 01-2016
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-style-elettrica-benzina-nero-acbfdf19-94cd-48b6-93a5-693ce07d63ed
-score = 11340.000100845693
-----------------------------------
-----------------------------------
-prezzo = 17900
-marca = toyota
-modello = prius
-km = 102177
-anno = 03-2017
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-style-elettrica-benzina-blu-azzurro-64c63ac6-2d72-4864-9139-b7978651cc63
-score = 10740.00010111455
+score = 0.5424282435843837
 ----------------------------------
 ----------------------------------
 prezzo = 17900
 marca = toyota
 modello = prius
 km = 170000
-anno = 03-2018
+anno = 2018
 link = https://www.autoscout24.it//annunci/toyota-prius-phv-prius-1-8h-plug-in-elettrica-benzina-rosso-41088782-d5ac-4ade-a682-b02c6adcf07b
-score = 10740.000100284498
+score = 0.5413821386389628
+----------------------------------
+----------------------------------
+prezzo = 20900
+marca = toyota
+modello = prius
+km = 70300
+anno = 2017
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-elettrica-benzina-blu-azzurro-87d4042b-194f-46c7-9dae-e01ec2529603
+score = 0.5363092905246932
+----------------------------------
+----------------------------------
+prezzo = 20900
+marca = toyota
+modello = prius
+km = 56110
+anno = 2017
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-navigatore-elettrica-benzina-grigio-3f926a1d-2a87-4fa0-8666-d05022095c70
+score = 0.5285717665323708
+----------------------------------
+----------------------------------
+prezzo = 20900
+marca = toyota
+modello = prius
+km = 47533
+anno = 2017
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-navigatore-fino-a-3-anni-di-garan-elettrica-benzina-verde-9708e1c7-cb7d-4ae8-9067-72c08345e522
+score = 0.5238948994934596
+----------------------------------
+----------------------------------
+prezzo = 18900
+marca = toyota
+modello = prius
+km = 122000
+anno = 2016
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-style-elettrica-benzina-nero-acbfdf19-94cd-48b6-93a5-693ce07d63ed
+score = 0.5131207019244994
+----------------------------------
+----------------------------------
+prezzo = 17900
+marca = toyota
+modello = prius
+km = 102177
+anno = 2017
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-style-elettrica-benzina-blu-azzurro-64c63ac6-2d72-4864-9139-b7978651cc63
+score = 0.49328849830084065
 ----------------------------------
 ----------------------------------
 prezzo = 16800
 marca = toyota
 modello = prius
 km = 109000
-anno = 07-2018
+anno = 2018
 link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-72-kw-ecvt-elettrica-benzina-grigio-c9d8e35f-a15b-48d0-883b-835ae5d1eed3
-score = 10080.000100942889
+score = 0.485972404226214
 ----------------------------------
 ----------------------------------
 prezzo = 16200
 marca = toyota
 modello = prius
 km = 146621
-anno = 04-2017
+anno = 2017
 link = https://www.autoscout24.it//annunci/toyota-prius-1-8-style-elettrica-benzina-bianco-686a62e5-b354-483c-a69b-ed8ae253491b
-score = 9720.000100521225
-----------------------------------
-----------------------------------
-prezzo = 15500
-marca = toyota
-modello = prius
-km = 35800
-anno = 04-2016
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iv-2016-1-8h-style-ecvt-e6-elettrica-benzina-blu-azzurro-73643b20-ba4f-485e-bb26-a2b547204d99
-score = 9300.000104792942
-----------------------------------
-----------------------------------
-prezzo = 15000
-marca = toyota
-modello = prius
-km = 80000
-anno = 09-2016
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iv-2016-1-8h-style-ecvt-elettrica-benzina-grigio-e96871a8-7b1b-4d52-ba31-e219bba084cf
-score = 9000.00010170635
-----------------------------------
-----------------------------------
-prezzo = 15000
-marca = toyota
-modello = prius
-km = 99950
-anno = 03-2016
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-active-elettrica-benzina-blu-azzurro-559cded3-e0e4-4e9d-a79b-2f30b753fe0d
-score = 9000.00010120735
-----------------------------------
-----------------------------------
-prezzo = 14900
-marca = toyota
-modello = prius
-km = 175400
-anno = 09-2016
-link = https://www.autoscout24.it//annunci/toyota-prius-elettrica-benzina-bianco-61b69053-1e4b-44a8-95e9-942cde7456a0
-score = 8940.0001003466
-----------------------------------
-----------------------------------
-prezzo = 14300
-marca = toyota
-modello = prius
-km = 175000
-anno = 12-2016
-link = https://www.autoscout24.it//annunci/toyota-prius-hybrid-elettrica-benzina-argento-0103a8b6-8df9-44b3-b037-7e702c132f9f
-score = 8580.000100349205
-----------------------------------
-----------------------------------
-prezzo = 14000
-marca = toyota
-modello = prius
-km = 119792
-anno = 04-2013
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8-active-plug-in-elettrica-benzina-blu-azzurro-f9287345-9b3a-48bb-a673-ca458c2f5ced
-score = 8400.00010102376
+score = 0.4832947371829829
 ----------------------------------
 ----------------------------------
 prezzo = 12900
 marca = toyota
 modello = prius
 km = 264700
-anno = 12-2017
+anno = 2017
 link = https://www.autoscout24.it//annunci/toyota-prius-prius-iv-2016-1-8h-active-ecvt-my18-elettrica-benzina-bianco-ce336f68-b4a9-4ad5-924e-f0dc86386e39
-score = 7740.000099912737
+score = 0.48123790787598775
 ----------------------------------
 ----------------------------------
-prezzo = 10990
+prezzo = 14900
 marca = toyota
 modello = prius
-km = 124600
-anno = 11-2012
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-100cv-hybrid-lounge-unip-full-elettrica-benzina-nero-61b62af2-1c95-4ea5-a420-2c741453d1d4
-score = 6594.000101008714
+km = 175400
+anno = 2016
+link = https://www.autoscout24.it//annunci/toyota-prius-elettrica-benzina-bianco-61b69053-1e4b-44a8-95e9-942cde7456a0
+score = 0.46170174415450016
 ----------------------------------
 ----------------------------------
-prezzo = 10900
+prezzo = 14300
 marca = toyota
 modello = prius
-km = 262704
-anno = 06-2013
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8-active-plug-in-elettrica-benzina-bianco-b6016f1d-151b-49ea-b9cc-80a1898ec461
-score = 6540.0001001155115
+km = 175000
+anno = 2016
+link = https://www.autoscout24.it//annunci/toyota-prius-hybrid-elettrica-benzina-argento-0103a8b6-8df9-44b3-b037-7e702c132f9f
+score = 0.4494030952194139
+----------------------------------
+----------------------------------
+prezzo = 15000
+marca = toyota
+modello = prius
+km = 99950
+anno = 2016
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-active-elettrica-benzina-blu-azzurro-559cded3-e0e4-4e9d-a79b-2f30b753fe0d
+score = 0.4225737867604148
+----------------------------------
+----------------------------------
+prezzo = 15000
+marca = toyota
+modello = prius
+km = 80000
+anno = 2016
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iv-2016-1-8h-style-ecvt-elettrica-benzina-grigio-e96871a8-7b1b-4d52-ba31-e219bba084cf
+score = 0.4116954496464731
 ----------------------------------
 ----------------------------------
 prezzo = 10500
 marca = toyota
 modello = prius
 km = 284000
-anno = 06-2013
+anno = 2013
 link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2012-1-8h-active-ecvt-elettrica-benzina-nero-e1767ae1-d0ff-4ad9-8f6c-8f7b245ea9db
-score = 6300.000100058423
+score = 0.3989952208581844
 ----------------------------------
 ----------------------------------
-prezzo = 9600
+prezzo = 15500
 marca = toyota
 modello = prius
-km = 270000
-anno = 10-2010
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2009-1-8-hsd-executive-elettrica-benzina-bianco-6a86590a-116c-433b-812e-20524b2805d4
-score = 5760.000100243228
-----------------------------------
-----------------------------------
-prezzo = 9500
-marca = toyota
-modello = prius
-km = 245000
-anno = 12-2009
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2009-1-8-hsd-elettrica-benzina-bianco-bced4726-6e86-4ddd-828d-0088240fa192
-score = 5700.000100368343
-----------------------------------
-----------------------------------
-prezzo = 9500
-marca = toyota
-modello = prius
-km = 267000
-anno = 11-2009
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2009-1-8-hsd-active-elettrica-benzina-bianco-e27984de-45a7-407f-8f13-fecba6f60457
-score = 5700.000100301079
-----------------------------------
-----------------------------------
-prezzo = 8900
-marca = toyota
-modello = prius
-km = 280000
-anno = 07-2009
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8-hsd-executive-elettrica-benzina-bianco-c992ab24-0858-4a25-ace6-deefdbbc34ad
-score = 5340.000100266301
-----------------------------------
-----------------------------------
-prezzo = 8500
-marca = toyota
-modello = prius
-km = 250000
-anno = 01-2010
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2010-1-8-hsd-executive-elettrica-benzina-bianco-a815d3f4-e315-4a83-8781-b3632b7b2956
-score = 5100.000100302487
-----------------------------------
-----------------------------------
-prezzo = 8500
-marca = toyota
-modello = prius
-km = 260000
-anno = 05-2010
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8-hybrid-doppio-acceleratore-per-disabili-elettrica-benzina-argento-718628f6-cd7e-41f5-9566-dbe5c01c4725
-score = 5100.000100271718
+km = 35800
+anno = 2016
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iv-2016-1-8h-style-ecvt-e6-elettrica-benzina-blu-azzurro-73643b20-ba4f-485e-bb26-a2b547204d99
+score = 0.39766118527245164
 ----------------------------------
 ----------------------------------
 prezzo = 8500
 marca = toyota
 modello = prius
 km = 334500
-anno = 09-2014
+anno = 2014
 link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-active-ecvt-elettrica-benzina-bianco-81b5f35b-4132-4892-8904-1429128c0d8a
-score = 5100.000099902773
+score = 0.39737451841320887
 ----------------------------------
 ----------------------------------
-prezzo = 8400
+prezzo = 10900
 marca = toyota
 modello = prius
-km = 246000
-anno = 06-2010
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-executive-elettrica-benzina-grigio-8aaedac9-e568-4cfa-8015-d6db039fb7c8
-score = 5040.000100315496
+km = 262704
+anno = 2013
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8-active-plug-in-elettrica-benzina-bianco-b6016f1d-151b-49ea-b9cc-80a1898ec461
+score = 0.3954366280642544
 ----------------------------------
 ----------------------------------
-prezzo = 8000
+prezzo = 11900
 marca = toyota
 modello = prius
-km = 199000
-anno = 10-2009
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2009-1-8-hsd-elettrica-benzina-argento-9abcd5bd-197f-46b2-aef7-72d54cfad7aa
-score = 4800.000100557041
+km = 180000
+anno = 2014
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-lounge-elettrica-benzina-bianco-f9569d0c-abb1-49bf-90ff-9f926acea8c0
+score = 0.38158512562536834
 ----------------------------------
 ----------------------------------
-prezzo = 7499
+prezzo = 14000
 marca = toyota
 modello = prius
-km = 175000
-anno = 05-2010
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-active-elettrica-benzina-argento-15f63c82-9721-4943-9823-2208b3e61352
-score = 4499.4001006453445
+km = 119792
+anno = 2013
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8-active-plug-in-elettrica-benzina-blu-azzurro-f9287345-9b3a-48bb-a673-ca458c2f5ced
+score = 0.3799256721070734
 ----------------------------------
 ----------------------------------
-prezzo = 7300
+prezzo = 9600
 marca = toyota
 modello = prius
-km = 135000
-anno = 03-2006
-link = https://www.autoscout24.it//annunci/toyota-prius-1-5i-16v-ok-neopatentati-garanzia-l-12-mesi-elettrica-benzina-grigio-5bead043-8a9b-4539-8925-1f468c5e7564
-score = 4380.000101182379
-----------------------------------
-----------------------------------
-prezzo = 7300
-marca = toyota
-modello = prius
-km = 285000
-anno = 07-2010
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-active-elettrica-benzina-bianco-c8a45437-2366-47c5-9547-be0b3fdb734e
-score = 4380.000100204242
-----------------------------------
-----------------------------------
-prezzo = 7200
-marca = toyota
-modello = prius
-km = 108000
-anno = 06-2009
-link = https://www.autoscout24.it//annunci/toyota-prius-1-5-ibrida-78cv-elettrica-benzina-nero-a9187ce1-1b74-4013-a107-27068b246fd9
-score = 4320.000101403868
-----------------------------------
-----------------------------------
-prezzo = 7000
-marca = toyota
-modello = prius
-km = 128000
-anno = 09-2009
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-active-elettrica-benzina-grigio-73ec6585-319c-40ed-b3f5-e3554c1d722d
-score = 4200.000101114516
-----------------------------------
-----------------------------------
-prezzo = 6900
-marca = toyota
-modello = prius
-km = 209000
-anno = 12-2012
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-active-ecvt-elettrica-benzina-bianco-09877880-448a-47c7-ac00-a7c23f5d4d54
-score = 4140.000100360516
-----------------------------------
-----------------------------------
-prezzo = 6800
-marca = toyota
-modello = prius
-km = 253132
-anno = 12-2007
-link = https://www.autoscout24.it//annunci/toyota-prius-1-5i-16v-elettrica-benzina-grigio-32753bbd-09f2-4424-a5a0-052542f4d4a5
-score = 4080.0001004413225
-----------------------------------
-----------------------------------
-prezzo = 6500
-marca = toyota
-modello = prius
-km = 217000
-anno = 09-2004
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-5-ibrida-elettrica-benzina-argento-5a77d7bc-7b60-411e-8d48-dbe5508c0368
-score = 3900.0001007220585
-----------------------------------
-----------------------------------
-prezzo = 6500
-marca = toyota
-modello = prius
-km = 372000
-anno = 07-2009
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-executive-elettrica-benzina-bianco-aa1b95b0-5bd1-4fb6-b124-dc241e1e703d
-score = 3900.0001000896505
-----------------------------------
-----------------------------------
-prezzo = 6250
-marca = toyota
-modello = prius
-km = 230000
-anno = 09-2007
-link = https://www.autoscout24.it//annunci/toyota-prius-1-5-ibrida-78cv-elettrica-benzina-grigio-af36bd74-f79e-4a9b-8a62-75f2ec41f482
-score = 3750.000100520786
+km = 270000
+anno = 2010
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2009-1-8-hsd-executive-elettrica-benzina-bianco-6a86590a-116c-433b-812e-20524b2805d4
+score = 0.33990716137401006
 ----------------------------------
 ----------------------------------
 prezzo = 6000
 marca = toyota
 modello = prius
 km = 318370
-anno = 08-2013
+anno = 2013
 link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-active-elettrica-benzina-bianco-b2f87828-4a95-4964-85b0-0124bd03c299
-score = 3600.0000999823974
+score = 0.3271324695316534
+----------------------------------
+----------------------------------
+prezzo = 9500
+marca = toyota
+modello = prius
+km = 267000
+anno = 2009
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2009-1-8-hsd-active-elettrica-benzina-bianco-e27984de-45a7-407f-8f13-fecba6f60457
+score = 0.32514678727659707
+----------------------------------
+----------------------------------
+prezzo = 6500
+marca = toyota
+modello = prius
+km = 372000
+anno = 2009
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-executive-elettrica-benzina-bianco-aa1b95b0-5bd1-4fb6-b124-dc241e1e703d
+score = 0.3219985085756898
+----------------------------------
+----------------------------------
+prezzo = 8900
+marca = toyota
+modello = prius
+km = 280000
+anno = 2009
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8-hsd-executive-elettrica-benzina-bianco-c992ab24-0858-4a25-ace6-deefdbbc34ad
+score = 0.32015489108972217
+----------------------------------
+----------------------------------
+prezzo = 9500
+marca = toyota
+modello = prius
+km = 245000
+anno = 2009
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2009-1-8-hsd-elettrica-benzina-bianco-bced4726-6e86-4ddd-828d-0088240fa192
+score = 0.3131506260481901
+----------------------------------
+----------------------------------
+prezzo = 8500
+marca = toyota
+modello = prius
+km = 260000
+anno = 2010
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8-hybrid-doppio-acceleratore-per-disabili-elettrica-benzina-argento-718628f6-cd7e-41f5-9566-dbe5c01c4725
+score = 0.31230670980893194
+----------------------------------
+----------------------------------
+prezzo = 10990
+marca = toyota
+modello = prius
+km = 124600
+anno = 2012
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-100cv-hybrid-lounge-unip-full-elettrica-benzina-nero-61b62af2-1c95-4ea5-a420-2c741453d1d4
+score = 0.31083224065878745
+----------------------------------
+----------------------------------
+prezzo = 8500
+marca = toyota
+modello = prius
+km = 250000
+anno = 2010
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2010-1-8-hsd-executive-elettrica-benzina-bianco-a815d3f4-e315-4a83-8781-b3632b7b2956
+score = 0.3068539092505651
+----------------------------------
+----------------------------------
+prezzo = 8400
+marca = toyota
+modello = prius
+km = 246000
+anno = 2010
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-executive-elettrica-benzina-grigio-8aaedac9-e568-4cfa-8015-d6db039fb7c8
+score = 0.30265936620842643
+----------------------------------
+----------------------------------
+prezzo = 7300
+marca = toyota
+modello = prius
+km = 285000
+anno = 2010
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-active-elettrica-benzina-bianco-c8a45437-2366-47c5-9547-be0b3fdb734e
+score = 0.3017776373793455
+----------------------------------
+----------------------------------
+prezzo = 6900
+marca = toyota
+modello = prius
+km = 209000
+anno = 2012
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-active-ecvt-elettrica-benzina-bianco-09877880-448a-47c7-ac00-a7c23f5d4d54
+score = 0.27450488408281243
+----------------------------------
+----------------------------------
+prezzo = 8000
+marca = toyota
+modello = prius
+km = 199000
+anno = 2009
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2009-1-8-hsd-elettrica-benzina-argento-9abcd5bd-197f-46b2-aef7-72d54cfad7aa
+score = 0.2578664011978238
+----------------------------------
+----------------------------------
+prezzo = 7499
+marca = toyota
+modello = prius
+km = 175000
+anno = 2010
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-active-elettrica-benzina-argento-15f63c82-9721-4943-9823-2208b3e61352
+score = 0.2458035426467069
+----------------------------------
+----------------------------------
+prezzo = 6800
+marca = toyota
+modello = prius
+km = 253132
+anno = 2007
+link = https://www.autoscout24.it//annunci/toyota-prius-1-5i-16v-elettrica-benzina-grigio-32753bbd-09f2-4424-a5a0-052542f4d4a5
+score = 0.2410002051326492
 ----------------------------------
 ----------------------------------
 prezzo = 5000
 marca = toyota
 modello = prius
 km = 285000
-anno = 09-2008
+anno = 2008
 link = https://www.autoscout24.it//annunci/toyota-prius-hybrid-executive-elettrica-benzina-nero-4181f418-790a-4691-ba9c-a00cd69b18a1
-score = 3000.000100303348
+score = 0.23324669032490852
+----------------------------------
+----------------------------------
+prezzo = 6250
+marca = toyota
+modello = prius
+km = 230000
+anno = 2007
+link = https://www.autoscout24.it//annunci/toyota-prius-1-5-ibrida-78cv-elettrica-benzina-grigio-af36bd74-f79e-4a9b-8a62-75f2ec41f482
+score = 0.21731296137767944
 ----------------------------------
 ----------------------------------
 prezzo = 3200
 marca = toyota
 modello = prius
 km = 323500
-anno = 09-2007
+anno = 2007
 link = https://www.autoscout24.it//annunci/toyota-prius-anno-2007-elettrica-benzina-bianco-785eaf8f-87c5-4837-9553-e3a941abe51a
-score = 1920.000100269459
+score = 0.20688725062525448
+----------------------------------
+----------------------------------
+prezzo = 7000
+marca = toyota
+modello = prius
+km = 128000
+anno = 2009
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-active-elettrica-benzina-grigio-73ec6585-319c-40ed-b3f5-e3554c1d722d
+score = 0.19901728904550015
+----------------------------------
+----------------------------------
+prezzo = 7200
+marca = toyota
+modello = prius
+km = 108000
+anno = 2009
+link = https://www.autoscout24.it//annunci/toyota-prius-1-5-ibrida-78cv-elettrica-benzina-nero-a9187ce1-1b74-4013-a107-27068b246fd9
+score = 0.1921385335663505
+----------------------------------
+----------------------------------
+prezzo = 6500
+marca = toyota
+modello = prius
+km = 217000
+anno = 2004
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-5-ibrida-elettrica-benzina-argento-5a77d7bc-7b60-411e-8d48-dbe5508c0368
+score = 0.1819245443654492
+----------------------------------
+----------------------------------
+prezzo = 7300
+marca = toyota
+modello = prius
+km = 135000
+anno = 2006
+link = https://www.autoscout24.it//annunci/toyota-prius-1-5i-16v-ok-neopatentati-garanzia-l-12-mesi-elettrica-benzina-grigio-5bead043-8a9b-4539-8925-1f468c5e7564
+score = 0.1755411845593994
 ----------------------------------
