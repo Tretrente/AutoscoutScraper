@@ -46,8 +46,8 @@ class Annuncio:
         #LIVELLO IMPORTANZA:
         #PREZZO: 0.6, 0.3, 0.1
         #KM: 0.4, 0.4, 0.2
-        #ANNO: ?, ?, ?
-        convenience_score = (0.1 * price) + (0.1/(1/km)) + (0.8 * (1/year))
+        #ANNO: 0.1, 0.1, 0.8
+        convenience_score = (0.6 * price) + (0.2*(1/km)) + (0.2 * (1/year))
         #convenience_score = (1 / price) * (2024 - year + 1) * (1 / (km + 1))
         #convenience_score = year_factor / (price * km)
         return convenience_score

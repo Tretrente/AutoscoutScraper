@@ -1,3420 +1,594 @@
 ++++++++++++++++++++++++++++++++ NEW CARS ++++++++++++++++++++++++++++++++----------------------------------
-prezzo = 18300
-marca = ford
-modello = fiesta
+prezzo = 46760
+marca = toyota
+modello = prius
 km = 1
+anno = new
+link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-elettrica-benzina-argento-b3e52865-aff3-40a8-b6db-2c52b0517574
+score = 28056.20009881423
+----------------------------------
+----------------------------------
+prezzo = 46000
+marca = toyota
+modello = prius
+km = 1
+anno = new
+link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-elettrica-benzina-bianco-32c497d0-190e-4e8f-88ff-10882a406ce8
+score = 27600.20009881423
+----------------------------------
+----------------------------------
+prezzo = 43210
+marca = toyota
+modello = prius
+km = 1
+anno = new
+link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-elettrica-benzina-argento-b9972ce0-19ed-4896-946f-9061487e8781
+score = 25926.20009881423
+----------------------------------
+----------------------------------
+prezzo = 42160
+marca = toyota
+modello = prius
+km = 1
+anno = new
+link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-active-elettrica-benzina-argento-bc1dd017-abc5-4bf1-baf7-0ec9a584b2aa
+score = 25296.20009881423
+----------------------------------
+----------------------------------
+prezzo = 42000
+marca = toyota
+modello = prius
+km = 1
+anno = new
+link = https://www.autoscout24.it//annunci/toyota-prius-2-0-phev-lounge-elettrica-benzina-grigio-58a19a3f-64e1-4b4a-b5eb-3b8fd6e963bd
+score = 25200.20009881423
+----------------------------------
+----------------------------------
+prezzo = 38500
+marca = toyota
+modello = prius
+km = 40
 anno = 12-2023
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-st-line-125cv-elettrica-benzina-bianco-d5a4bd47-e584-4228-abc2-c168cc714d2f
-score = 1830.1003954522985
+link = https://www.autoscout24.it//annunci/toyota-prius-2-0-phev-active-plug-in-hybrid-elettrica-benzina-grigio-4a012640-ad19-4959-937d-23984c9af849
+score = 23100.005098863076
 ----------------------------------
 ----------------------------------
-prezzo = 18400
-marca = ford
-modello = fiesta
-km = 10
-anno = 05-2023
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-75-cv-5-porte-titanium-benzina-rosso-711689ef-be84-4327-bd3b-0181a64cecda
-score = 1841.0003954522986
-----------------------------------
-----------------------------------
-prezzo = 19250
-marca = ford
-modello = fiesta
+prezzo = 37000
+marca = toyota
+modello = prius
 km = 1
-anno = 11-2023
-link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-0-ecoboost-hybrid-125cv-benzina-bianco-8b153fbb-4ef8-453f-94fe-92aa5efc5611
-score = 1925.1003954522985
+anno = new
+link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-pronta-consegna-elettrica-benzina-grigio-c5f98d69-c346-4c0b-864c-cdb85b6259a1
+score = 22200.20009881423
 ----------------------------------
 ----------------------------------
-prezzo = 19990
-marca = ford
-modello = fiesta
-km = 6
-anno = 03-2023
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-st-line-s-s-100cv-st-line-promo-benzina-nero-7a5a7fb3-3c58-4d2d-ad65-de68b001f5ba
-score = 1999.6003954522985
+prezzo = 36300
+marca = toyota
+modello = prius
+km = 1
+anno = new
+link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-elettrica-benzina-nero-64fda34a-04d4-4468-8c82-228e76d7388d
+score = 21780.20009881423
 ----------------------------------
 ----------------------------------
-prezzo = 19990
-marca = ford
-modello = fiesta
-km = 13
-anno = 03-2023
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-st-line-s-s-100cv-st-line-promo-benzina-nero-1e471a3b-2fec-4e5d-be40-addb2542c52c
-score = 2000.3003954522985
-----------------------------------
-----------------------------------
-prezzo = 20800
-marca = ford
-modello = fiesta
-km = 10
-anno = 04-2023
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125-cv-5-porte-titanium-elettrica-benzina-rosso-6da5e0bc-17d3-499a-873b-237c1b6c7f21
-score = 2081.0003954522986
-----------------------------------
-----------------------------------
-prezzo = 20800
-marca = ford
-modello = fiesta
-km = 10
-anno = 04-2023
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125-cv-5-porte-titanium-benzina-rosso-7d984910-c6b7-4459-ad65-f5534b816b3a
-score = 2081.0003954522986
-----------------------------------
-----------------------------------
-prezzo = 21800
-marca = ford
-modello = fiesta
-km = 10
-anno = 05-2023
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125-cv-5-porte-active-benzina-bianco-efb86ac8-08d8-4a68-b0e6-1d39547e8fb7
-score = 2181.0003954522986
-----------------------------------
-----------------------------------
-prezzo = 21800
-marca = ford
-modello = fiesta
-km = 10
-anno = 05-2023
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125-cv-5-porte-active-elettrica-benzina-bianco-a14c4b0a-c98c-4983-b3cd-51bca972e4c8
-score = 2181.0003954522986
+prezzo = 36000
+marca = toyota
+modello = prius
+km = 1
+anno = new
+link = https://www.autoscout24.it//annunci/toyota-prius-2-0-phev-lounge-elettrica-benzina-603c5a6e-e838-4137-917f-6f7309bed603
+score = 21600.20009881423
 ----------------------------------
 ++++++++++++++++++++++++++++++++ OLD CARS ++++++++++++++++++++++++++++++++----------------------------------
-prezzo = 13500
-marca = ford
-modello = fiesta
-km = 5000
-anno = 12-2023
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-75cv-benzina-blu-azzurro-b207c2bc-2f4b-45fd-b3bd-abf5e3e8f50d
-score = 1850.0003954522986
-----------------------------------
-----------------------------------
-prezzo = 18300
-marca = ford
-modello = fiesta
-km = 1300
-anno = 02-2023
-link = https://www.autoscout24.it//annunci/ford-fiesta-vii-5p-1-0-ecoboost-h-st-line-125cv-elettrica-benzina-rosso-d46f0785-bd76-4e75-8e00-d29f3861591c
-score = 1960.0003954522986
-----------------------------------
-----------------------------------
-prezzo = 15600
-marca = ford
-modello = fiesta
-km = 4591
-anno = 11-2022
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125cv-titanium-5p-4-600-km-elettrica-benzina-nero-7b5245ea-090b-443c-bae7-f35c420e8eaa
-score = 2019.1003956478733
-----------------------------------
-----------------------------------
-prezzo = 18900
-marca = ford
-modello = fiesta
-km = 2649
-anno = 11-2022
-link = https://www.autoscout24.it//annunci/ford-fiesta-5-porte-1-0-ecoboost-hybrid-st-line-benzina-grigio-7a1700ec-2cb2-4bc1-96db-b80698463fee
-score = 2154.9003956478737
-----------------------------------
-----------------------------------
-prezzo = 14300
-marca = ford
-modello = fiesta
-km = 7323
-anno = 10-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-5-porte-connect-benzina-blu-azzurro-2a76b145-4bb8-4737-b32a-17039b43e82e
-score = 2162.300396039604
-----------------------------------
-----------------------------------
-prezzo = 15200
-marca = ford
-modello = fiesta
-km = 6991
-anno = 06-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-1-connect-s-s-75cv-my20-75-benzina-04e2955a-2115-4fb3-92ca-1be958b985d6
-score = 2219.1003960396038
-----------------------------------
-----------------------------------
-prezzo = 13800
-marca = ford
-modello = fiesta
-km = 9237
-anno = 08-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-100-cv-5-porte-titanium-benzina-grigio-517e83c3-68f4-4cd2-8efb-83de481b177c
-score = 2303.7003964321107
-----------------------------------
-----------------------------------
-prezzo = 8600
-marca = ford
-modello = fiesta
-km = 14900
-anno = 03-2013
-link = https://www.autoscout24.it//annunci/ford-fiesta-ja8-1-0-benzina-argento-a2e8e35b-9b97-4bdc-b224-90bd98cb8ef0
-score = 2350.0003974167907
-----------------------------------
-----------------------------------
-prezzo = 12800
-marca = ford
-modello = fiesta
-km = 11000
-anno = 01-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vii-2017-5p-5p-1-1-connect-s-acc-carplay-benzina-grigio-4329497b-4d95-4ff4-b33a-de29dad898b6
-score = 2380.000395843642
-----------------------------------
-----------------------------------
-prezzo = 12900
-marca = ford
-modello = fiesta
-km = 11800
-anno = 01-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-85-cv-5-porte-plus-benzina-32f8213e-3d8a-4c1d-a07d-efe6d4aa2a67
-score = 2470.0003962357605
-----------------------------------
-----------------------------------
-prezzo = 15000
-marca = ford
-modello = fiesta
-km = 10100
-anno = 05-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-0-ecoboost-hybrid-connect-s-elettrica-benzina-bianco-f4262295-f3b7-4895-9091-6380aef33562
-score = 2510.000395843642
-----------------------------------
-----------------------------------
-prezzo = 17700
-marca = ford
-modello = fiesta
-km = 7466
-anno = 06-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-0-ecoboost-hybrid-125-cv-5p-titanium-benzina-nero-2430ed60-7bdd-49eb-9408-4215f0dfbf9e
-score = 2516.6003958436418
-----------------------------------
-----------------------------------
-prezzo = 17500
-marca = ford
-modello = fiesta
-km = 7822
-anno = 05-2023
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-0-ecoboost-hybrid-125-cv-dct-5-porte-st-benzina-rosso-1cf78ede-2a5a-4814-85a7-b822cd441b72
-score = 2532.2003954522984
-----------------------------------
-----------------------------------
-prezzo = 500
-marca = ford
-modello = fiesta
-km = 25434
-anno = 04-2002
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-8-tddi-zetec-diesel-grigio-d0e290a7-ed8d-435b-b04e-0d7ebba11258
-score = 2593.4003996004
-----------------------------------
-----------------------------------
-prezzo = 15500
-marca = ford
-modello = fiesta
-km = 12200
-anno = 06-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vii-2017-5p-5p-1-0-ecoboost-st-line-s-benzina-rosso-34d97e4d-1057-482b-ba38-8070df09f341
-score = 2770.000395843642
-----------------------------------
-----------------------------------
-prezzo = 12950
-marca = ford
-modello = fiesta
-km = 16477
-anno = 10-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-plus-85cv-my19-benzina-bianco-3d0de553-af46-4412-a103-a76348d34dc7
-score = 2942.7003960396037
-----------------------------------
-----------------------------------
-prezzo = 13900
-marca = ford
-modello = fiesta
-km = 15890
-anno = 09-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-vii-2017-5p-5p-1-5-ecoblue-titanium-85cv-s-s-my20-diesel-blu-azzurro-ac181e72-d8d0-4769-abac-eaf0778ae4b1
-score = 2979.000396039604
-----------------------------------
-----------------------------------
-prezzo = 12450
-marca = ford
-modello = fiesta
-km = 18267
-anno = 08-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-5-porte-connect-benzina-blu-azzurro-b3bca04f-198c-49d2-9709-4f281716bff6
-score = 3071.7003960396037
-----------------------------------
-----------------------------------
-prezzo = 14620
-marca = ford
-modello = fiesta
-km = 19483
-anno = 03-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-titanium-s-s-125cv-my20-75-elettrica-benzina-grigio-b3b754ed-05c3-4d8f-90d3-b6629e848e6b
-score = 3410.300395843642
-----------------------------------
-----------------------------------
-prezzo = 16200
-marca = ford
-modello = fiesta
-km = 17993
+prezzo = 33000
+marca = toyota
+modello = prius
+km = 5216
 anno = 06-2022
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-0-ecoboost-hybrid-125-cv-5-porte-titani-elettrica-benzina-bianco-c4d39c9b-a8db-4545-a021-9847e48bd66f
-score = 3419.3003956478738
-----------------------------------
-----------------------------------
-prezzo = 16900
-marca = ford
-modello = fiesta
-km = 17430
-anno = 01-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-active-1-0-automatica-s-s-garanzia-ford-benzina-bianco-460ec0c3-29b8-437c-8f62-9ca665e786a1
-score = 3433.000395843642
-----------------------------------
-----------------------------------
-prezzo = 15400
-marca = ford
-modello = fiesta
-km = 18979
-anno = 01-2022
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-5-porte-titanium-benzina-bianco-a980ade2-3753-45e1-a71a-e703ba2ab2c1
-score = 3437.900395647874
-----------------------------------
-----------------------------------
-prezzo = 12300
-marca = ford
-modello = fiesta
-km = 23000
-anno = 09-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-benzina-titanium-navigatore-benzina-blu-azzurro-f600b228-c74c-4ee1-9b2b-d7dc029c4e2f
-score = 3530.000396432111
-----------------------------------
-----------------------------------
-prezzo = 17200
-marca = ford
-modello = fiesta
-km = 18412
-anno = 12-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-0-ecoboost-hybrid-st-line-s-elettrica-benzina-blu-azzurro-6c3d23b7-b7d7-4bf8-b473-1c7441d6d94e
-score = 3561.200396039604
-----------------------------------
-----------------------------------
-prezzo = 15500
-marca = ford
-modello = fiesta
-km = 20800
-anno = 07-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-100-cv-5-porte-st-line-benzina-blu-azzurro-753c94f0-ce0e-4c65-a26a-c51062812edc
-score = 3630.0003962357605
-----------------------------------
-----------------------------------
-prezzo = 12400
-marca = ford
-modello = fiesta
-km = 24300
-anno = 03-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-0-ecoboost-s-automatic-100-hp-benzina-bianco-1a6632a3-e763-4f1c-bbd5-f28b4db4b2fd
-score = 3670.0003962357605
-----------------------------------
-----------------------------------
-prezzo = 12899
-marca = ford
-modello = fiesta
-km = 24000
-anno = 05-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-neopatentati-pochi-km-perfette-condizioni-carplay-benzina-rosso-e5d8247b-5482-40e0-81f9-759cd0904ea8
-score = 3689.9003962357606
-----------------------------------
-----------------------------------
-prezzo = 16300
-marca = ford
-modello = fiesta
-km = 20712
-anno = 06-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-0-ecoboost-st-line-s-s-95cv-my20-75-benzina-blu-azzurro-468393b5-c06e-40c7-bbd9-66a9a1dc2e6e
-score = 3701.200395843642
-----------------------------------
-----------------------------------
-prezzo = 15920
-marca = ford
-modello = fiesta
-km = 21167
-anno = 07-2022
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-h-titanium-125cv-elettrica-benzina-nero-8863af89-1c17-4938-9950-22c9d152dfae
-score = 3708.700395647874
-----------------------------------
-----------------------------------
-prezzo = 13020
-marca = ford
-modello = fiesta
-km = 24682
-anno = 02-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-titanium-s-s-125cv-my20-75-elettrica-benzina-bianco-096b9739-5f7f-424c-aec5-0ea63b751d2a
-score = 3770.200395843642
-----------------------------------
-----------------------------------
-prezzo = 19000
-marca = ford
-modello = fiesta
-km = 20000
-anno = 02-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-st-mk7-5-1-6-182cv-offerta-fino-al-14-2-24-benzina-bianco-1231b618-728e-4abf-a7be-a80b7b269dec
-score = 3900.0003966286563
-----------------------------------
-----------------------------------
-prezzo = 15920
-marca = ford
-modello = fiesta
-km = 23500
-anno = 02-2022
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-h-titanium-125cv-elettrica-benzina-nero-8f3cd5f0-86da-40d8-8d69-920485e8f92c
-score = 3942.0003956478736
-----------------------------------
-----------------------------------
-prezzo = 16900
-marca = ford
-modello = fiesta
-km = 22672
-anno = 07-2022
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125-cv-5-porte-st-line-elettrica-benzina-bianco-ab515d9d-7ac7-4341-98d9-e680563a208a
-score = 3957.2003956478734
-----------------------------------
-----------------------------------
-prezzo = 11920
-marca = ford
-modello = fiesta
-km = 27758
-anno = 01-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-connect-s-s-75cv-my20-75-benzina-grigio-1843aa31-b882-451d-b00a-2e024fee7aa4
-score = 3967.8003958436416
-----------------------------------
-----------------------------------
-prezzo = 10920
-marca = ford
-modello = fiesta
-km = 28947
-anno = 12-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-connect-s-s-75cv-my20-75-benzina-bianco-b5abc228-1551-4cce-86f5-c795e158f056
-score = 3986.700396039604
-----------------------------------
-----------------------------------
-prezzo = 15750
-marca = ford
-modello = fiesta
-km = 24252
-anno = 04-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-0-ecoboost-95-cv-5-porte-st-line-benzina-nero-8bdac3b5-2637-4ad0-a185-ca0574132a68
-score = 4000.200395843642
-----------------------------------
-----------------------------------
-prezzo = 14900
-marca = ford
-modello = fiesta
-km = 25160
-anno = 03-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-125cv-hybrid5p-business-super-promo-elettrica-benzina-grigio-0bcc22a8-7ebf-46d7-9cc9-eb5ac725c9ed
-score = 4006.000395843642
-----------------------------------
-----------------------------------
-prezzo = 14000
-marca = ford
-modello = fiesta
-km = 26451
-anno = 06-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-75-cv-5-porte-connect-benzina-grigio-15678941-d49d-43ad-a67e-b156d6e25f46
-score = 4045.100396039604
-----------------------------------
-----------------------------------
-prezzo = 14200
-marca = ford
-modello = fiesta
-km = 26500
-anno = 11-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-85cv-neopatentati-garanz-perfetta-benzina-bianco-722c138c-70c5-4238-ba85-ac1a8627c083
-score = 4070.0003962357605
-----------------------------------
-----------------------------------
-prezzo = 14720
-marca = ford
-modello = fiesta
-km = 26713
-anno = 12-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-0-ecoboost-h-s-s-125cv-my20-75-elettrica-benzina-grigio-650bef25-efd8-404b-85c6-5eee2fd6834c
-score = 4143.3003960396045
-----------------------------------
-----------------------------------
-prezzo = 14500
-marca = ford
-modello = fiesta
-km = 27500
-anno = 09-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-5-porte-titanium-benzina-grigio-ea0f8310-a464-4bef-b4d1-83ec20f9bce5
-score = 4200.000395843642
-----------------------------------
-----------------------------------
-prezzo = 15990
-marca = ford
-modello = fiesta
-km = 26235
-anno = 02-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-st-line-s-s-95cv-my20-75-benzina-bianco-90eb5d53-be73-4a17-9989-7cc9897f8d61
-score = 4222.500395843642
-----------------------------------
-----------------------------------
-prezzo = 9990
-marca = ford
-modello = fiesta
-km = 33000
-anno = 11-2016
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-titanium-80cv-bluetooth-benzina-bianco-338449e0-93db-42ad-8180-d35d160e7185
-score = 4299.000396825397
-----------------------------------
-----------------------------------
-prezzo = 16120
-marca = ford
-modello = fiesta
-km = 26930
-anno = 01-2023
-link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-0-ecoboost-h-125cv-elettrica-benzina-bianco-6d6625bd-d811-45ae-8735-ccedaa090b5d
-score = 4305.000395452299
-----------------------------------
-----------------------------------
-prezzo = 9098
-marca = ford
-modello = fiesta
-km = 33973
-anno = 08-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-1-5-tdci-85-cv-3-porte-van-trend-diesel-bianco-a9fcffba-e521-4231-a104-75afd9a18e79
-score = 4307.100396235761
-----------------------------------
-----------------------------------
-prezzo = 14420
-marca = ford
-modello = fiesta
-km = 29293
-anno = 04-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-titanium-s-s-125cv-my20-75-elettrica-benzina-blu-azzurro-34148be0-3f06-4b14-9f23-cc057e5abf45
-score = 4371.300395843642
-----------------------------------
-----------------------------------
-prezzo = 16920
-marca = ford
-modello = fiesta
-km = 26905
-anno = 07-2022
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-h-titanium-125cv-powershift-elettrica-benzina-grigio-2d3c868f-b45e-448a-9efc-5c078ccd434d
-score = 4382.500395647873
-----------------------------------
-----------------------------------
-prezzo = 13900
-marca = ford
-modello = fiesta
-km = 30000
-anno = 01-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-connect-s-s-125cv-my20-75-elettrica-benzina-nero-5ae157f0-1909-487e-8071-2b241134afa4
-score = 4390.000395843642
-----------------------------------
-----------------------------------
-prezzo = 12900
-marca = ford
-modello = fiesta
-km = 31076
-anno = 06-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-125-cv-titanium-benzina-grigio-65351981-45b5-4e13-8006-d0c07cbc921c
-score = 4397.600395843642
-----------------------------------
-----------------------------------
-prezzo = 13990
-marca = ford
-modello = fiesta
-km = 30000
-anno = 01-2022
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-1-plus-75cv-benzina-blu-azzurro-959dccb2-952c-4c9b-9f3d-57f3a174f2bd
-score = 4399.000395647873
-----------------------------------
-----------------------------------
-prezzo = 16400
-marca = ford
-modello = fiesta
-km = 28000
-anno = 02-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-0-ecoboost-hybrid-125-cv-5-porte-titani-elettrica-benzina-grigio-aa0e5037-c58a-4685-bc07-57d1c8d60040
-score = 4440.000395843642
-----------------------------------
-----------------------------------
-prezzo = 13490
-marca = ford
-modello = fiesta
-km = 31118
-anno = 12-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-5-porte-titanium-benzina-grigio-72e09493-a66f-4bee-aa8d-3c5f93d70720
-score = 4460.800396039605
-----------------------------------
-----------------------------------
-prezzo = 13950
-marca = ford
-modello = fiesta
-km = 31127
-anno = 04-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-85-cv-5-porte-titanium-benzina-nero-438c3704-5317-4dc4-a92b-5f06ab93f6bc
-score = 4507.700396235761
-----------------------------------
-----------------------------------
-prezzo = 15950
-marca = ford
-modello = fiesta
-km = 29440
-anno = 04-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-0-ecoboost-hybrid-125-cv-elettrica-benzina-grigio-fc996cde-4489-4e21-aa50-4495d0db6c59
-score = 4539.000395843642
-----------------------------------
-----------------------------------
-prezzo = 7990
-marca = ford
-modello = fiesta
-km = 38000
-anno = 02-2014
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-titanium-100cv-sensori-parcheggio-benzina-argento-b1c01b9d-6674-4582-9d2c-89e4e557e60d
-score = 4599.000397219464
-----------------------------------
-----------------------------------
-prezzo = 21400
-marca = ford
-modello = fiesta
-km = 24600
-anno = 04-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-st-3p-performance-benzina-grigio-47b289a5-19ea-47a4-9a3e-abf0fcc1dddc
-score = 4600.000396039604
-----------------------------------
-----------------------------------
-prezzo = 6500
-marca = ford
-modello = fiesta
-km = 40154
-anno = 06-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-si-ztl-roma-tit-possibilita-di-gpl-benzina-grigio-272d2df9-1e41-4adf-9181-bc92fc57ad13
-score = 4665.400398208063
-----------------------------------
-----------------------------------
-prezzo = 13900
-marca = ford
-modello = fiesta
-km = 33500
-anno = 09-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-vii-2017-5p-5p-1-0-ecoboost-hybrid-titanium-s-s-1-elettrica-benzina-nero-ff47b0ad-a9e1-49dc-b85f-d01a5311faa8
-score = 4740.000396039604
-----------------------------------
-----------------------------------
-prezzo = 13850
-marca = ford
-modello = fiesta
-km = 33590
-anno = 10-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-100cv-titanium-benzina-grigio-d0d198f8-a726-46f7-807f-26f7dff31c6d
-score = 4744.000396628657
-----------------------------------
-----------------------------------
-prezzo = 2200
-marca = ford
-modello = fiesta
-km = 46000
-anno = 01-2005
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-ambiente-benzina-grigio-553b95b4-1bc8-45c7-b447-1827b37ab0b8
-score = 4820.000399002493
-----------------------------------
-----------------------------------
-prezzo = 16920
-marca = ford
-modello = fiesta
-km = 32722
-anno = 07-2022
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-h-titanium-125cv-powershift-elettrica-benzina-bianco-60590df6-96a8-4b05-be53-0f4b1f8fae65
-score = 4964.200395647873
-----------------------------------
-----------------------------------
-prezzo = 12800
-marca = ford
-modello = fiesta
-km = 37001
-anno = 12-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0cc-connect-ecoboost-125cv-bluetooth-cruise-elettrica-benzina-grigio-1022841f-d59b-4749-a709-862a35741b76
-score = 4980.100396039605
-----------------------------------
-----------------------------------
-prezzo = 13500
-marca = ford
-modello = fiesta
-km = 36325
-anno = 11-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-75-cv-5-porte-connect-benzina-rosso-6d45570f-3116-48e1-94ca-8630a141f5f1
-score = 4982.500396039604
-----------------------------------
-----------------------------------
-prezzo = 15000
-marca = ford
-modello = fiesta
-km = 35000
-anno = 08-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-95-cv-5-porte-titanium-benzina-beige-587f0660-5a98-4e35-88f7-71448e8a5f9f
-score = 5000.000396039604
-----------------------------------
-----------------------------------
-prezzo = 11490
-marca = ford
-modello = fiesta
-km = 39000
-anno = 03-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-1-titanium-85cv-benzina-grigio-88369fba-0b7d-4fae-bce3-6c70e678b833
-score = 5049.000396432111
-----------------------------------
-----------------------------------
-prezzo = 7700
-marca = ford
-modello = fiesta
-km = 43000
-anno = 04-2014
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-80cv-3-porte-titanium-benzina-argento-b4ee3498-73a8-453e-90eb-7c9360d7bd1e
-score = 5070.0003972194645
-----------------------------------
-----------------------------------
-prezzo = 8900
-marca = ford
-modello = fiesta
-km = 42484
-anno = 05-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-0-ecoboost-100cv-benzina-bianco-ed762729-a4b1-4d91-91d8-44094caad6a5
-score = 5138.400397022333
-----------------------------------
-----------------------------------
-prezzo = 13900
-marca = ford
-modello = fiesta
-km = 37600
-anno = 05-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-0-ecoboost-100cv-promo-parisi40-benzina-bianco-b146d600-f813-4d75-8ead-ae75237a97fd
-score = 5150.0003962357605
-----------------------------------
-----------------------------------
-prezzo = 14900
-marca = ford
-modello = fiesta
-km = 37519
-anno = 06-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-0-ecoboost-100cv-promo-parisi40-benzina-grigio-02348535-cb39-44c2-8333-4b44c23dcdb1
-score = 5241.900396039604
-----------------------------------
-----------------------------------
-prezzo = 16950
-marca = ford
-modello = fiesta
-km = 35568
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-1-8h-ecvt-my22-elettrica-benzina-bianco-471fcaa1-ba38-4b01-99fa-d1c0ea6816b2
+score = 19800.000137255527
+----------------------------------
+----------------------------------
+prezzo = 26900
+marca = toyota
+modello = prius
+km = 21835
+anno = 10-2021
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-lounge-awd-i-ecvt-my20-elettrica-benzina-grigio-025595b6-9b06-4411-8e6d-106eeeef1570
+score = 16140.000108120517
+----------------------------------
+----------------------------------
+prezzo = 25999
+marca = toyota
+modello = prius
+km = 24052
 anno = 06-2022
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125cv-st-line-5p-36-x-187-43-elettrica-benzina-argento-3a807b57-d185-4aee-84bd-d16299eb43b0
-score = 5251.800395647873
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-plug-in-234-elettrica-benzina-bianco-d97bfb83-fd2d-4460-b6c9-128e45b8927f
+score = 15599.400107227286
 ----------------------------------
 ----------------------------------
-prezzo = 13020
-marca = ford
-modello = fiesta
-km = 39726
-anno = 01-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-titanium-s-s-125cv-my20-75-elettrica-benzina-bianco-294a8a27-6b4c-486c-971c-4a2fd21426d8
-score = 5274.600395843642
-----------------------------------
-----------------------------------
-prezzo = 12490
-marca = ford
-modello = fiesta
-km = 40665
-anno = 01-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-ecoblue-titanium-85cv-s-s-my20-25-promo-diesel-blu-azzurro-9c1326f9-392b-405c-b89d-743f9506a01c
-score = 5315.500396039604
-----------------------------------
-----------------------------------
-prezzo = 13420
-marca = ford
-modello = fiesta
-km = 39770
-anno = 02-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-connect-s-s-125cv-my20-75-elettrica-benzina-rosso-90f8355c-eb0e-4061-b41d-3f856e00e23c
-score = 5319.000395843642
-----------------------------------
-----------------------------------
-prezzo = 11900
-marca = ford
-modello = fiesta
-km = 42168
-anno = 06-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-vii-2017-5p-5p-1-5-ecoblue-titanium-85cv-my19-5-diesel-blu-azzurro-0738fbd7-3e24-4ad0-82d5-936ada9ed4b0
-score = 5406.8003960396045
-----------------------------------
-----------------------------------
-prezzo = 15490
-marca = ford
-modello = fiesta
-km = 38850
-anno = 01-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-95cv-st-line-benzina-grigio-2eb118f3-1b38-4fa4-ac79-d1c8a3fbe7e7
-score = 5434.000395843642
-----------------------------------
-----------------------------------
-prezzo = 14900
-marca = ford
-modello = fiesta
-km = 40000
-anno = 10-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-vii-2017-5p-5p-1-0-ecoboost-hybrid-st-line-s-s-12-elettrica-benzina-blu-azzurro-8c03e196-2aea-4bbd-a50c-dda03ec17c33
-score = 5490.000396039604
-----------------------------------
-----------------------------------
-prezzo = 10000
-marca = ford
-modello = fiesta
-km = 45000
-anno = 07-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-5p-plus-diesel-grigio-5003e4e0-02ca-43a4-ab17-93a7d5c60a12
-score = 5500.000396432111
-----------------------------------
-----------------------------------
-prezzo = 7500
-marca = ford
-modello = fiesta
-km = 48000
-anno = 12-2013
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-0-80cv-benzina-rosso-408fc2e1-cd8b-4b44-ab78-9e0322a603f5
-score = 5550.000397416791
-----------------------------------
-----------------------------------
-prezzo = 11000
-marca = ford
-modello = fiesta
-km = 45000
-anno = 11-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-1-plus-70cv-my19-benzina-nero-23af7cce-af7b-4068-b317-2ae2889c9860
-score = 5600.000396432111
-----------------------------------
-----------------------------------
-prezzo = 15000
-marca = ford
-modello = fiesta
-km = 41167
-anno = 02-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-gpl-5-porte-business-gpl-blu-azzurro-ceb368ca-cbeb-457b-ba81-66821a543aa5
-score = 5616.700395843643
-----------------------------------
-----------------------------------
-prezzo = 10922
-marca = ford
-modello = fiesta
-km = 45290
-anno = 03-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-82cv-business-benzina-rosso-daad7c7e-8e66-406c-820d-9d52a1d8dcae
-score = 5621.200396628657
-----------------------------------
-----------------------------------
-prezzo = 10922
-marca = ford
-modello = fiesta
-km = 45290
-anno = 03-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-82cv-business-benzina-rosso-857cdcc4-cf38-4562-a61c-b8f27304a484
-score = 5621.200396628657
-----------------------------------
-----------------------------------
-prezzo = 11490
-marca = ford
-modello = fiesta
-km = 45000
-anno = 03-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-connect-sensori-di-parcheggio-benzina-argento-68b55b53-2250-42d7-9c12-1920543b840e
-score = 5649.000395843642
-----------------------------------
-----------------------------------
-prezzo = 11990
-marca = ford
-modello = fiesta
-km = 44500
-anno = 02-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-connected-s-s-75cv-my20-25-benzina-blu-azzurro-7fdf5e26-749c-42a2-91c5-6e862a6cf793
-score = 5649.000396039604
-----------------------------------
-----------------------------------
-prezzo = 14900
-marca = ford
-modello = fiesta
-km = 42000
-anno = 11-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-5-porte-titanium-benzina-rosso-bef5572f-b29f-4752-b6ef-59cb52cd8ade
-score = 5690.000396039604
-----------------------------------
-----------------------------------
-prezzo = 14520
-marca = ford
-modello = fiesta
-km = 42410
-anno = 11-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-0-ecoboost-h-s-s-125cv-my20-75-elettrica-benzina-grigio-a7a0625d-f4e0-4596-af3f-05fa53b65a57
-score = 5693.000396039604
-----------------------------------
-----------------------------------
-prezzo = 15900
-marca = ford
-modello = fiesta
-km = 41400
-anno = 06-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-1-st-line-85cv-chilometri-certificati-benzina-rosso-d61d42f0-ad0e-4289-94f4-b48af3aadb8d
-score = 5730.0003962357605
-----------------------------------
-----------------------------------
-prezzo = 14600
-marca = ford
-modello = fiesta
-km = 43000
-anno = 04-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-st-line-125cv-benzina-bianco-a187ff0d-3d97-4545-a174-4583347b1c4a
-score = 5760.000396432112
-----------------------------------
-----------------------------------
-prezzo = 10200
-marca = ford
-modello = fiesta
-km = 47402
-anno = 07-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-plus-85cv-benzina-grigio-32726453-023b-4377-bfbe-6c1714fa94e4
-score = 5760.200396628657
-----------------------------------
-----------------------------------
-prezzo = 18990
-marca = ford
-modello = fiesta
-km = 39000
-anno = 09-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-st-line-performance-navigatore-benzina-nero-1576b95c-03cb-47cc-8e5c-7522b7fdd85c
-score = 5799.0003962357605
-----------------------------------
-----------------------------------
-prezzo = 12990
-marca = ford
-modello = fiesta
-km = 45000
-anno = 12-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-vignale-benzina-nero-e9ee9c4b-5288-4ce4-af00-6b4850412cb7
-score = 5799.000396628657
-----------------------------------
-----------------------------------
-prezzo = 18000
-marca = ford
-modello = fiesta
-km = 40000
-anno = 02-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-ecoblue-5p-st-line-diesel-794ae9c0-f0c0-4084-8405-91be1fe42e30
-score = 5800.000396039604
-----------------------------------
-----------------------------------
-prezzo = 14900
-marca = ford
-modello = fiesta
-km = 43279
-anno = 09-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-0-ecoboost-95-cv-5-porte-st-line-benzina-argento-a602c2ff-8023-4c8c-8edb-74398e47c8de
-score = 5817.900396039605
-----------------------------------
-----------------------------------
-prezzo = 14900
-marca = ford
-modello = fiesta
-km = 43315
-anno = 02-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-0-ecoboost-hybrid-125-cv-5-porte-titani-elettrica-benzina-bianco-a4379380-56f9-407c-8495-d7b607273040
-score = 5821.500395843642
-----------------------------------
-----------------------------------
-prezzo = 16720
-marca = ford
-modello = fiesta
-km = 42205
-anno = 07-2022
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-h-titanium-125cv-powershift-elettrica-benzina-grigio-18b4f7f3-84b7-4356-9a52-b92b3c53b6c0
-score = 5892.500395647873
-----------------------------------
-----------------------------------
-prezzo = 10000
-marca = ford
-modello = fiesta
-km = 49000
-anno = 07-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-75cv-5-porte-titanium-diesel-grigio-5dc5a2a9-096f-4c3c-aafc-1aed1788cdb0
-score = 5900.000396628657
-----------------------------------
-----------------------------------
-prezzo = 13500
-marca = ford
-modello = fiesta
-km = 45576
-anno = 05-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-85-cv-5-porte-st-line-benzina-rosso-9d9aec73-50e6-46c3-9c2b-ae67caf95947
-score = 5907.600396432112
-----------------------------------
-----------------------------------
-prezzo = 7500
-marca = ford
-modello = fiesta
-km = 52000
-anno = 05-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-16v-titanium-business-gpl-gpl-blu-azzurro-dcfde6a3-e79c-41c3-98e5-69f5f8acb6ef
-score = 5950.000397022332
-----------------------------------
-----------------------------------
-prezzo = 11900
-marca = ford
-modello = fiesta
-km = 48000
-anno = 10-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-connect-s-s-125cv-my20-75-elettrica-benzina-grigio-f552d6da-1570-4b45-82f1-28b3f4f703b7
-score = 5990.000396039604
-----------------------------------
-----------------------------------
-prezzo = 12820
-marca = ford
-modello = fiesta
-km = 47103
-anno = 04-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-gpl-s-s-75cv-my20-75-gpl-gpl-grigio-49930b49-e7d2-42a3-8d40-ba3aab1af6a0
-score = 5992.300395843642
-----------------------------------
-----------------------------------
-prezzo = 7700
-marca = ford
-modello = fiesta
-km = 52500
-anno = 03-2012
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-2-16v-titanium-c-esp-82cv-e5-benzina-grigio-ea3382be-357e-4558-a9ff-56ea88554640
-score = 6020.000397614315
-----------------------------------
-----------------------------------
-prezzo = 23450
-marca = ford
-modello = fiesta
-km = 36759
-anno = 09-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-st-performance-pack-full-led-benzina-grigio-ff530bed-c399-4c34-a0c6-d7a7e31b1e20
-score = 6020.90039623576
-----------------------------------
-----------------------------------
-prezzo = 14800
-marca = ford
-modello = fiesta
-km = 45500
-anno = 05-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-gpl-s-s-75cv-my20-25-gpl-nero-d18bf760-c31f-4e3c-84de-5339675f13f9
-score = 6030.000396039604
-----------------------------------
-----------------------------------
-prezzo = 8400
-marca = ford
-modello = fiesta
-km = 51992
-anno = 04-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-titanium-80cv-e6-benzina-argento-6ec552b2-04dd-46c7-a729-95d395a08851
-score = 6039.200397022333
-----------------------------------
-----------------------------------
-prezzo = 8500
-marca = ford
-modello = fiesta
-km = 52000
-anno = 06-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-tdci-st-line-75cv-diesel-grigio-5c415531-1ddb-4b58-9e76-c1b766f3522d
-score = 6050.000396628657
-----------------------------------
-----------------------------------
-prezzo = 17300
-marca = ford
-modello = fiesta
-km = 43227
-anno = 01-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-0-ecoboost-hybrid-125-cv-5-porte-active-benzina-blu-azzurro-0a43e0f6-59cf-4ee0-9b0f-f22bc06060e7
-score = 6052.700395843643
-----------------------------------
-----------------------------------
-prezzo = 13990
-marca = ford
-modello = fiesta
-km = 46665
-anno = 01-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-connect-s-s-75cv-benzina-bianco-9f7899aa-2d59-47a7-8bf8-b2fb2c908226
-score = 6065.500395843642
-----------------------------------
-----------------------------------
-prezzo = 8600
-marca = ford
-modello = fiesta
-km = 52200
-anno = 06-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2013-5p-1-5-tdci-titanium-75cv-e6-diesel-nero-095d40d7-7ccd-4b5f-9b4a-10ad34329ca9
-score = 6080.000396628658
-----------------------------------
-----------------------------------
-prezzo = 5800
-marca = ford
-modello = fiesta
-km = 55000
-anno = 12-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-titanium-82cv-benzina-blu-azzurro-9f011151-df59-4aed-bf5f-b6f04e9c2428
-score = 6080.000398208063
-----------------------------------
-----------------------------------
-prezzo = 2900
-marca = ford
-modello = fiesta
-km = 58000
-anno = 07-2008
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-collection-benzina-nero-d78e13c0-b241-4460-ae48-700d13b9686a
-score = 6090.000398406374
-----------------------------------
-----------------------------------
-prezzo = 6500
-marca = ford
-modello = fiesta
-km = 54450
-anno = 03-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-2-16v-82cv-benzina-blu-azzurro-1d46a269-c32d-4890-ac85-1d8296b29702
-score = 6095.000398208063
-----------------------------------
-----------------------------------
-prezzo = 22900
-marca = ford
-modello = fiesta
-km = 38500
-anno = 02-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-bollo-pagato-e-impianto-frenante-maggiorato-benzina-blu-azzurro-bfbae676-1673-486e-8d08-80335e0effe2
-score = 6140.000396039604
-----------------------------------
-----------------------------------
-prezzo = 26500
-marca = ford
-modello = fiesta
-km = 35000
-anno = 09-2022
-link = https://www.autoscout24.it//annunci/ford-fiesta-st-3-porte-e-tettuccio-pnoramico-apribile-benzina-nero-798d6492-5add-416b-8cd9-a6749f1db71a
-score = 6150.000395647873
-----------------------------------
-----------------------------------
-prezzo = 9800
-marca = ford
-modello = fiesta
-km = 51700
-anno = 05-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-5-tdci-85-cv-3-porte-van-autocarro-diesel-bianco-6a4a80d7-8683-479e-a6a9-c1d2e2b05f72
-score = 6150.000396039605
-----------------------------------
-----------------------------------
-prezzo = 7650
-marca = ford
-modello = fiesta
-km = 54000
-anno = 09-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-neopatentati-km-54000-benzina-nero-deef3842-d458-4875-b138-826299e14569
-score = 6165.000397812034
-----------------------------------
-----------------------------------
-prezzo = 11900
-marca = ford
-modello = fiesta
-km = 51000
-anno = 12-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-gpl-s-s-75cv-my20-25-gpl-argento-04f7ad01-4417-4c47-803c-1f7090440b87
-score = 6290.0003962357605
-----------------------------------
-----------------------------------
-prezzo = 7900
-marca = ford
-modello = fiesta
-km = 55000
-anno = 03-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-ben-3p-unico-proprietario-benzina-grigio-e36ccb4a-a092-4a5a-a1f4-6afd7c3c96b1
-score = 6290.000397022332
-----------------------------------
-----------------------------------
-prezzo = 13950
-marca = ford
-modello = fiesta
-km = 49006
-anno = 12-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-75-cv-gpl-5-porte-plus-neopatentati-gpl-blu-azzurro-f910a5bb-d853-40b8-b12d-8c03acae3bf8
-score = 6295.600396235761
-----------------------------------
-----------------------------------
-prezzo = 13000
-marca = ford
-modello = fiesta
-km = 50000
-anno = 11-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-ecoblue-tdci-st-line-s-s-120cv-my19-diesel-grigio-ec7ff722-99e8-4b14-9b0c-8fe207205059
-score = 6300.000396432111
-----------------------------------
-----------------------------------
-prezzo = 14800
-marca = ford
-modello = fiesta
-km = 48398
-anno = 03-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-0-ecoboost-hybrid-125-cv-5-porte-titani-elettrica-benzina-argento-c12cf96c-928b-47bd-9d2a-676c6c5650e0
-score = 6319.800395843642
-----------------------------------
-----------------------------------
-prezzo = 11200
-marca = ford
-modello = fiesta
-km = 52000
-anno = 02-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vii-2017-5p-5p-1-1-titanium-85cv-benzina-nero-5e673855-675b-496a-93e2-1d0afe40aa84
-score = 6320.000396432111
-----------------------------------
-----------------------------------
-prezzo = 16900
-marca = ford
-modello = fiesta
-km = 46700
-anno = 11-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-st-apple-car-play-sens-park-cruise-android-auto-benzina-grigio-1f310911-c1a8-4eae-9391-4f419f1477b3
-score = 6360.000396432111
-----------------------------------
-----------------------------------
-prezzo = 6700
-marca = ford
-modello = fiesta
-km = 58000
-anno = 01-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-tdci-ikon-business-70cv-diesel-lilla-a1a612a8-fa58-4428-893b-21815012702a
-score = 6470.000397812034
-----------------------------------
-----------------------------------
-prezzo = 15900
-marca = ford
-modello = fiesta
-km = 49074
-anno = 07-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-75-cv-5-porte-titanium-gpl-grigio-55175630-3b6f-4a08-a1cc-62a97a7533a6
-score = 6497.400396039605
-----------------------------------
-----------------------------------
-prezzo = 24990
-marca = ford
-modello = fiesta
-km = 40000
-anno = 01-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-ecoboost-st-200-cv-benzina-bianco-15df0382-b54c-4e69-bc21-c38a287352a2
-score = 6499.000395843642
-----------------------------------
-----------------------------------
-prezzo = 13490
-marca = ford
-modello = fiesta
-km = 51800
-anno = 05-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-business-s-s-75-cv-carplay-navigatore-benzina-nero-529335ef-7c9d-45ad-a800-bd0857305282
-score = 6529.000395843642
-----------------------------------
-----------------------------------
-prezzo = 12820
-marca = ford
-modello = fiesta
-km = 52896
-anno = 02-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-titanium-s-s-125cv-my20-75-elettrica-benzina-blu-azzurro-29e974a7-df4d-4941-92f8-c1297bb5193e
-score = 6571.600395843641
-----------------------------------
-----------------------------------
-prezzo = 11400
-marca = ford
-modello = fiesta
-km = 54866
-anno = 09-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-plus-70cv-my18-prezzo-reale-ok-neopat-benzina-argento-f70174f8-3f47-4e3a-be29-a9bcf03a1b0a
-score = 6626.600396432112
-----------------------------------
-----------------------------------
-prezzo = 8990
-marca = ford
-modello = fiesta
-km = 57438
-anno = 07-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-85-cv-3-p-van-trend-diesel-bianco-ec89746d-fcdc-4695-8218-d8cbc7a18f62
-score = 6642.800396235762
-----------------------------------
-----------------------------------
-prezzo = 12500
-marca = ford
-modello = fiesta
-km = 54307
-anno = 12-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-95cv-s-s-titanium-x-full-optional-benzina-grigio-b663b2aa-01cd-425c-bf3f-a70a457364fa
-score = 6680.700395843642
-----------------------------------
-----------------------------------
-prezzo = 12500
-marca = ford
-modello = fiesta
-km = 54307
-anno = 12-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-95cv-s-s-titanium-x-full-optional-benzina-grigio-1189fa46-bb25-4577-a37a-6d948ebb69cd
-score = 6680.700395843642
-----------------------------------
-----------------------------------
-prezzo = 22500
-marca = ford
-modello = fiesta
-km = 44735
-anno = 12-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-ecoboost-200-cv-5-porte-st-benzina-bianco-d19970d5-215e-43fc-97a9-4bea40619aba
-score = 6723.500396039604
-----------------------------------
-----------------------------------
-prezzo = 12950
-marca = ford
-modello = fiesta
-km = 54501
-anno = 12-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-titanium-s-s-125cv-my20-75-elettrica-benzina-grigio-48a7694d-b3ff-4d2b-b616-92547129f664
-score = 6745.100396039605
-----------------------------------
-----------------------------------
-prezzo = 14500
-marca = ford
-modello = fiesta
-km = 53000
-anno = 05-2016
-link = https://www.autoscout24.it//annunci/ford-fiesta-st-vetri-scuri-pack-2-pronta-consegna-benzina-nero-60edc9a3-ade7-41dd-9935-86bed954a8c5
-score = 6750.000396825397
-----------------------------------
-----------------------------------
-prezzo = 6500
-marca = ford
-modello = fiesta
-km = 61000
-anno = 10-2013
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-80cv-5-porte-business-benzina-rosso-34a0d53d-904b-47d1-b91e-5302309fefb8
-score = 6750.000397416791
-----------------------------------
-----------------------------------
-prezzo = 7500
-marca = ford
-modello = fiesta
-km = 60000
-anno = 01-2006
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-2-0-st-benzina-bianco-be070288-cfaf-4a54-893a-6b2e3b6fa394
-score = 6750.00039880359
-----------------------------------
-----------------------------------
-prezzo = 12500
-marca = ford
-modello = fiesta
-km = 55085
-anno = 12-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-95cv-s-s-titanium-x-full-optional-benzina-blu-azzurro-9a62b3fd-24e8-40a9-ae0e-b512de1c8e76
-score = 6758.500395843642
-----------------------------------
-----------------------------------
-prezzo = 12500
-marca = ford
-modello = fiesta
-km = 55085
-anno = 12-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-95cv-s-s-titanium-x-full-optional-benzina-blu-azzurro-23596a6f-7d93-41bb-80eb-5f593cfabb7a
-score = 6758.500395843642
-----------------------------------
-----------------------------------
-prezzo = 8700
-marca = ford
-modello = fiesta
-km = 58960
-anno = 11-2014
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-1-2-60-cv-5p-adatta-ai-neopatentati-benzina-bianco-d27b8b0e-9e91-4f55-b51c-dc6d323962cd
-score = 6766.000397219464
-----------------------------------
-----------------------------------
-prezzo = 12500
-marca = ford
-modello = fiesta
-km = 55227
-anno = 10-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-active-1-0-ecoboost-s-s-benzina-argento-6f2a14f7-9006-4d66-b4ac-69498af28c08
-score = 6772.70039623576
-----------------------------------
-----------------------------------
-prezzo = 11800
-marca = ford
-modello = fiesta
-km = 56000
-anno = 12-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vii-2017-5p-5p-1-1-st-line-85cv-my19-5-benzina-bianco-415ed27c-24f1-42bb-b107-cba9615dc452
-score = 6780.0003962357605
-----------------------------------
-----------------------------------
-prezzo = 15900
-marca = ford
-modello = fiesta
-km = 52000
-anno = 03-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-gpl-5-porte-titanium-gpl-bianco-5fbddfa4-d387-4e70-8ae0-51e7d0eb8a82
-score = 6790.000395843642
-----------------------------------
-----------------------------------
-prezzo = 4900
-marca = ford
-modello = fiesta
-km = 64000
-anno = 01-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2008-5p-1-6-tdci-titanium-c-esp-95cv-e5-diesel-bianco-c7fa5496-3f16-48a5-9d92-49524badafed
-score = 6890.000397812034
-----------------------------------
-----------------------------------
-prezzo = 3990
-marca = ford
-modello = fiesta
-km = 65466
-anno = 09-2007
-link = https://www.autoscout24.it//annunci/ford-fiesta-diesel-695ea370-7b3c-4e19-82f3-26fc1d52bc39
-score = 6945.600398604884
-----------------------------------
-----------------------------------
-prezzo = 700
-marca = ford
-modello = fiesta
-km = 69000
-anno = 02-1997
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-iv-1995-3p-1-2-ghia-benzina-nero-41128319-2641-42da-911a-d0cd5c964fd2
-score = 6970.000400600902
-----------------------------------
-----------------------------------
-prezzo = 10500
-marca = ford
-modello = fiesta
-km = 59500
-anno = 12-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-titanium-1-4-96-cv-gpl-gpl-grigio-c1cd833f-7c16-4fea-ac3e-c4527abe50ab
-score = 7000.000396628657
-----------------------------------
-----------------------------------
-prezzo = 15400
-marca = ford
-modello = fiesta
-km = 55000
-anno = 06-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-active-1-5-ecoblue-diesel-grigio-4f346aee-e66d-410f-b1b3-ed20012e4f06
-score = 7040.000396039604
-----------------------------------
-----------------------------------
-prezzo = 14900
-marca = ford
-modello = fiesta
-km = 56000
-anno = 04-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125-cv-5-porte-connec-elettrica-benzina-bianco-0bc268fa-e4ed-4944-a1a4-da0be2ad3b5f
-score = 7090.000395843642
-----------------------------------
-----------------------------------
-prezzo = 13800
-marca = ford
-modello = fiesta
-km = 57617
-anno = 11-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125-cv-5-porte-titanium-elettrica-benzina-blu-azzurro-555697e0-b494-4bc4-bf89-e93ea6f1e9ad
-score = 7141.700396039604
-----------------------------------
-----------------------------------
-prezzo = 11990
-marca = ford
-modello = fiesta
-km = 59708
-anno = 10-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-connect-s-s-75cv-my20-75-promo-benzina-grigio-eb077f8a-ed9a-42aa-9bda-ff05b34bee9a
-score = 7169.800396039605
-----------------------------------
-----------------------------------
-prezzo = 13950
-marca = ford
-modello = fiesta
-km = 58000
-anno = 09-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-fuori-tutto-1-0-eco-hybrid-125-cv-5p-st-line-elettrica-benzina-argento-5f09771d-db0c-4af4-af7c-92e01e903bf0
-score = 7195.000395843642
-----------------------------------
-----------------------------------
-prezzo = 13950
-marca = ford
-modello = fiesta
-km = 58000
-anno = 09-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-fuori-tutto-1-0-eco-hybrid-125-cv-5p-st-line-benzina-argento-d37ed262-cdcb-42d8-9a23-5ef9459ec456
-score = 7195.000395843642
-----------------------------------
-----------------------------------
-prezzo = 15400
-marca = ford
-modello = fiesta
-km = 56600
-anno = 02-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-gpl-5-porte-titanium-gpl-bianco-b311c0e8-cc78-4472-89e5-33e7b992cf6e
-score = 7200.000395843642
-----------------------------------
-----------------------------------
-prezzo = 5500
-marca = ford
-modello = fiesta
-km = 67000
-anno = 01-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-100cv-5-porte-powershift-benzina-argento-16e71aa3-c834-4eb1-9f3f-2497c96a9da0
-score = 7250.000397022332
-----------------------------------
-----------------------------------
-prezzo = 13900
-marca = ford
-modello = fiesta
-km = 58789
-anno = 02-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-benzina-100cv-5-porte-st-line-navi-led-benzina-bianco-8c94dd2f-3fb2-4275-a916-886ade946ac7
-score = 7268.900396432111
-----------------------------------
-----------------------------------
-prezzo = 10690
-marca = ford
-modello = fiesta
-km = 62000
-anno = 08-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-100-cv-5p-titanium-benzina-grigio-4e118f9d-7fe7-4cdf-8c71-042c70680105
-score = 7269.000396432111
-----------------------------------
-----------------------------------
-prezzo = 22750
-marca = ford
-modello = fiesta
-km = 49990
-anno = 03-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-st-5p-1-5-200cv-perf-pack-winter-pack-benzina-rosso-2303a38b-83ff-41e6-b8d5-5bc411bfe4ef
-score = 7274.0003962357605
-----------------------------------
-----------------------------------
-prezzo = 1200
-marca = ford
-modello = fiesta
-km = 72000
-anno = 01-1997
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-2-ghia-c-abs-ac-benzina-blu-azzurro-d215b6f4-1cce-4287-964c-38ba0ebc5a3c
-score = 7320.000400600901
-----------------------------------
-----------------------------------
-prezzo = 5500
-marca = ford
-modello = fiesta
+prezzo = 25500
+marca = toyota
+modello = prius
 km = 68000
-anno = 06-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-82cv-5-porte-benzina-bianco-832bf8b2-7966-4843-964b-c09983929e1b
-score = 7350.000398208063
+anno = 09-2019
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-awd-lounge-elettrica-benzina-blu-azzurro-1635407f-eaa6-4b47-8a46-b2d7787d5410
+score = 15300.000102000116
 ----------------------------------
 ----------------------------------
-prezzo = 5500
-marca = ford
-modello = fiesta
-km = 68000
-anno = 04-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-2-16v-titanium-82cv-benzina-bianco-b413e47f-7724-424f-be7e-09b99c258e3d
-score = 7350.000398208063
+prezzo = 24900
+marca = toyota
+modello = prius
+km = 20448
+anno = 10-2021
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-ecvt-awd-i-lou-my20-elettrica-benzina-bianco-61d2be43-234d-437a-9930-e8c16c5b7938
+score = 14940.000108741819
+----------------------------------
+----------------------------------
+prezzo = 23900
+marca = toyota
+modello = prius
+km = 47900
+anno = 09-2019
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-plug-in-elettrica-benzina-blu-azzurro-cc2e3361-0848-41ca-bf1d-e43c185f14d1
+score = 14340.000103234304
+----------------------------------
+----------------------------------
+prezzo = 23900
+marca = toyota
+modello = prius
+km = 74413
+anno = 01-2021
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-awd-lounge-elettrica-benzina-argento-8e1bfe20-50bf-492e-983a-395165258b4f
+score = 14340.000101648613
+----------------------------------
+----------------------------------
+prezzo = 23900
+marca = toyota
+modello = prius
+km = 89000
+anno = 02-2020
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-elettrica-benzina-bianco-b418f8e0-1bb0-48f4-be26-8755c8eb1bcb
+score = 14340.000101257092
+----------------------------------
+----------------------------------
+prezzo = 23400
+marca = toyota
+modello = prius
+km = 62500
+anno = 02-2019
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-plug-in-elettrica-benzina-blu-azzurro-98d1829f-ec47-4000-a71a-c7fb9bd5b360
+score = 14040.00010225894
 ----------------------------------
 ----------------------------------
 prezzo = 23200
-marca = ford
-modello = fiesta
-km = 50831
-anno = 08-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-5-st-benzina-blu-azzurro-a95bfd70-ecce-473e-884e-627fdf5b8d90
-score = 7403.100396235761
-----------------------------------
-----------------------------------
-prezzo = 12820
-marca = ford
-modello = fiesta
-km = 61278
-anno = 01-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-titanium-s-s-125cv-my20-75-elettrica-benzina-blu-azzurro-13e6fd7d-b9c0-41cd-a4a6-0070c15581ac
-score = 7409.800395843642
-----------------------------------
-----------------------------------
-prezzo = 11900
-marca = ford
-modello = fiesta
-km = 62286
-anno = 01-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-5-porte-titanium-diesel-bianco-bb759891-3ca5-467d-a7a4-6abc5f957319
-score = 7418.600396432112
-----------------------------------
-----------------------------------
-prezzo = 14800
-marca = ford
-modello = fiesta
-km = 59875
-anno = 02-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-3-porte-1-0-ecoboost-st-line-benzina-blu-azzurro-7fc8a035-f6eb-4f0b-97db-70990f3edabb
-score = 7467.500396432111
-----------------------------------
-----------------------------------
-prezzo = 6900
-marca = ford
-modello = fiesta
-km = 68050
-anno = 01-2012
-link = https://www.autoscout24.it//annunci/ford-fiesta-6-serie-1-2-60cv-3p-tit-benzina-blu-azzurro-bdb7656f-08c8-42db-9a1e-d23663d8eb1f
-score = 7495.000397614315
-----------------------------------
-----------------------------------
-prezzo = 12800
-marca = ford
-modello = fiesta
-km = 63500
-anno = 05-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vii-2021-5p-5p-1-0-ecoboost-st-line-s-benzina-rosso-4025a01d-84e4-49c7-a37e-bf5f6e21ff20
-score = 7630.000395843642
-----------------------------------
-----------------------------------
-prezzo = 3400
-marca = ford
-modello = fiesta
-km = 73000
-anno = 07-2003
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-2-16v-unico-proprietario-ok-neopatentati-benzina-nero-9f2d554f-91d2-4e11-9351-83b1f3d9de1f
-score = 7640.0003994008985
-----------------------------------
-----------------------------------
-prezzo = 2000
-marca = ford
-modello = fiesta
-km = 75000
-anno = 06-1998
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-2-techno-c-abs-ac-ss-benzina-f7d007b4-bb8b-4604-a905-d4a211816c18
-score = 7700.0004004004
-----------------------------------
-----------------------------------
-prezzo = 8999
-marca = ford
-modello = fiesta
-km = 68299
-anno = 10-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-85-cv-3-porte-van-trend-iva-diesel-bianco-ce59d4c0-8684-4dad-8799-21a520b3b20d
-score = 7729.800396039605
-----------------------------------
-----------------------------------
-prezzo = 12600
-marca = ford
-modello = fiesta
-km = 65000
-anno = 03-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-1-titanium-s-benzina-blu-azzurro-376a54e6-aa70-495b-b8e8-7660e9c934b9
-score = 7760.000395843643
-----------------------------------
-----------------------------------
-prezzo = 13900
-marca = ford
-modello = fiesta
-km = 64000
-anno = 12-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-95-cv-ecoboost-st-line-s-benzina-blu-azzurro-65f3b0dc-5caf-40ff-b8d8-9fd2805be1a9
-score = 7790.000396039604
-----------------------------------
-----------------------------------
-prezzo = 4300
-marca = ford
-modello = fiesta
-km = 75000
-anno = 10-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2008-3p-1-4-16v-titanium-gpl-gpl-bianco-f1a2ea70-7b7f-4934-9cf6-4cd479cf36aa
-score = 7930.000398208063
-----------------------------------
-----------------------------------
-prezzo = 12500
-marca = ford
-modello = fiesta
-km = 67000
-anno = 09-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-active-2019-active-1-5-86cv-ecoblue-my19-diesel-grigio-116513dc-6f86-47e9-ba63-998072896bbf
-score = 7950.0003962357605
-----------------------------------
-----------------------------------
-prezzo = 15500
-marca = ford
-modello = fiesta
-km = 64320
-anno = 01-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-gpl-5-porte-titanium-gpl-grigio-1a25bc37-5c18-43e4-a5af-75af2655eead
-score = 7982.000395843643
-----------------------------------
-----------------------------------
-prezzo = 5490
-marca = ford
-modello = fiesta
-km = 75000
-anno = 12-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-tdci-2010-diesel-grigio-63d399a7-10d9-4193-9fdb-593dbd90c6e5
-score = 8049.00039800995
-----------------------------------
-----------------------------------
-prezzo = 6500
-marca = ford
-modello = fiesta
-km = 74000
-anno = 01-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-cambio-automatico-benzina-blu-azzurro-13b2eb79-3d7c-48f0-a7c1-a52dae418db0
-score = 8050.000397812035
-----------------------------------
-----------------------------------
-prezzo = 11500
-marca = ford
-modello = fiesta
-km = 69300
+marca = toyota
+modello = prius
+km = 28238
 anno = 11-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-plus-85cv-my19-benzina-54fae9ef-343b-45a0-8514-5e6da784d360
-score = 8080.0003962357605
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-h-lounge-awd-i-ecvt-elettrica-benzina-verde-bf97563c-253c-4d86-aaa5-3373a3b40a4c
+score = 13920.000106141595
 ----------------------------------
 ----------------------------------
-prezzo = 9950
-marca = ford
-modello = fiesta
-km = 71010
-anno = 04-2016
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-titanium-95cv-diesel-nero-dd748c15-3b15-4c57-aac5-cebacd42d264
-score = 8096.000396825398
+prezzo = 22900
+marca = toyota
+modello = prius
+km = 94972
+anno = 06-2018
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-elettrica-benzina-bianco-bf73d8fc-6a26-4260-9890-128ca1673616
+score = 13740.000101213911
 ----------------------------------
 ----------------------------------
-prezzo = 5500
-marca = ford
-modello = fiesta
-km = 76000
-anno = 06-2012
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-82-cv-5-porte-titanium-benzina-grigio-61d0107e-3d56-42f5-9c1c-bb6d04faa4f7
-score = 8150.000397614314
+prezzo = 22400
+marca = toyota
+modello = prius
+km = 59000
+anno = 01-2021
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iv-2019-1-8h-lounge-awd-i-ecvt-my20-elettrica-benzina-grigio-9395b368-f5b3-4a0d-8385-2371b74b9e1e
+score = 13440.000102350741
 ----------------------------------
 ----------------------------------
-prezzo = 12900
-marca = ford
-modello = fiesta
-km = 68897
-anno = 05-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-75-cv-gpl-5-porte-titanium-gpl-grigio-6fc4096b-a74e-4ee6-89d8-aa1e2da6266e
-score = 8179.700396039604
+prezzo = 22000
+marca = toyota
+modello = prius
+km = 72000
+anno = 11-2018
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-2017-1-8h-plug-in-elettrica-benzina-bianco-0452d707-4c2d-413e-aeaa-25264e7124bf
+score = 13200.000101885804
 ----------------------------------
 ----------------------------------
-prezzo = 10720
-marca = ford
-modello = fiesta
-km = 72300
-anno = 09-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-plus-85cv-my19-5-benzina-blu-azzurro-f83caa7b-9216-4fa1-b9d6-06f46fee8611
-score = 8302.00039623576
+prezzo = 21500
+marca = toyota
+modello = prius
+km = 43210
+anno = 08-2020
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-lounge-awd-i-ecvt-my20-elettrica-benzina-blu-azzurro-b1431207-b2b0-413d-8697-5c62a218d9c0
+score = 12900.00010363846
 ----------------------------------
 ----------------------------------
-prezzo = 7499
-marca = ford
-modello = fiesta
-km = 76000
-anno = 03-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-60cv-3-porte-neopatentati-benzina-blu-azzurro-01e1a981-d823-46d5-b383-9ffdd52056cc
-score = 8349.900397022333
+prezzo = 21400
+marca = toyota
+modello = prius
+km = 49911
+anno = 02-2018
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-style-elettrica-benzina-bianco-984fa333-d8c9-4348-8671-3cd74e901b01
+score = 12840.000103115159
 ----------------------------------
 ----------------------------------
-prezzo = 12500
-marca = ford
-modello = fiesta
-km = 71000
-anno = 06-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-connect-gpl-s-gpl-argento-a321049b-ab83-41ef-84a4-e2471a698c04
-score = 8350.000396039604
+prezzo = 21350
+marca = toyota
+modello = prius
+km = 54076
+anno = 10-2019
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-active-elettrica-benzina-blu-azzurro-d5b2ff7e-5bb4-4799-b51d-cd52121b6ab5
+score = 12810.000102757438
 ----------------------------------
 ----------------------------------
-prezzo = 3500
-marca = ford
-modello = fiesta
-km = 80000
-anno = 11-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-gpl-benzina-grigio-a09feb69-7c23-4943-8990-6fb0fa1165a1
-score = 8350.000398208063
-----------------------------------
-----------------------------------
-prezzo = 13990
-marca = ford
-modello = fiesta
-km = 70000
-anno = 06-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-ecoblue-tdci-st-line-85cv-my19-diesel-grigio-f9b50019-f431-4013-b981-917d1330e6fd
-score = 8399.00039623576
-----------------------------------
-----------------------------------
-prezzo = 8300
-marca = ford
-modello = fiesta
-km = 76000
-anno = 09-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-6-tdci-95cv-3-porte-van-econetic-diesel-argento-89a642d0-ccc0-4488-aee8-7b92c24fae90
-score = 8430.000397022333
-----------------------------------
-----------------------------------
-prezzo = 14400
-marca = ford
-modello = fiesta
-km = 70000
-anno = 07-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-ecoboost-hybrid-125cv-st-line-androidauto-carplay-elettrica-benzina-bianco-76cc6c6c-dc5a-48d3-848f-920934416eac
-score = 8440.000395843641
-----------------------------------
-----------------------------------
-prezzo = 13500
-marca = ford
-modello = fiesta
-km = 71000
-anno = 03-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-tdci-st-line-120cv-diesel-grigio-572e99ad-90bc-4a29-b266-704476c3a2ea
-score = 8450.000396432111
-----------------------------------
-----------------------------------
-prezzo = 12020
-marca = ford
-modello = fiesta
-km = 72637
-anno = 09-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-gpl-75cv-gpl-gpl-grigio-eb2bb77f-b4eb-4d85-8b20-6b07c1968576
-score = 8465.700396235761
-----------------------------------
-----------------------------------
-prezzo = 15750
-marca = ford
-modello = fiesta
-km = 69184
-anno = 07-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-140cv-st-line-benzina-grigio-374e3c50-fd84-4d96-a95c-abb4b5f4dda9
-score = 8493.400396039604
-----------------------------------
-----------------------------------
-prezzo = 4500
-marca = ford
-modello = fiesta
-km = 81200
-anno = 09-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2008-5p-1-2-16v-titanium-82cv-benzina-bianco-7fb0ea5c-4bf2-4068-887e-ac714311c2bf
-score = 8570.000398208063
-----------------------------------
-----------------------------------
-prezzo = 14900
-marca = ford
-modello = fiesta
-km = 71000
-anno = 07-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-gpl-5-porte-titanium-gpl-grigio-5a790d11-9584-454c-ab5d-b88d034c96fd
-score = 8590.000396039604
+prezzo = 21000
+marca = toyota
+modello = prius
+km = 95000
+anno = 01-2020
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-i-1-8h-plug-in-elettrica-benzina-grigio-5006904e-b11a-4578-bf94-4d256af450be
+score = 12600.000101115165
 ----------------------------------
 ----------------------------------
 prezzo = 20900
-marca = ford
-modello = fiesta
-km = 66000
-anno = 03-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-st-5p-1-5-200cv-performance-pack-led-molle-h-r-benzina-nero-0a988d97-5715-4943-9f2e-219f8798a52f
-score = 8690.00039623576
+marca = toyota
+modello = prius
+km = 47533
+anno = 06-2017
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-navigatore-fino-a-3-anni-di-garan-elettrica-benzina-verde-9708e1c7-cb7d-4ae8-9067-72c08345e522
+score = 12540.000103364766
 ----------------------------------
 ----------------------------------
-prezzo = 6900
-marca = ford
-modello = fiesta
-km = 80000
-anno = 03-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-titanium-82cv-unico-proprietario-benzina-grigio-3ac390c1-2993-4ded-b8e8-444e0a16ed8b
-score = 8690.00039800995
+prezzo = 20900
+marca = toyota
+modello = prius
+km = 56110
+anno = 07-2017
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-navigatore-elettrica-benzina-grigio-3f926a1d-2a87-4fa0-8666-d05022095c70
+score = 12540.00010272159
 ----------------------------------
 ----------------------------------
-prezzo = 7000
-marca = ford
-modello = fiesta
-km = 80000
-anno = 11-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-business-75cv-diesel-nero-5f7848f1-76f9-4110-9f8e-8782fe751f25
-score = 8700.000397022333
+prezzo = 20000
+marca = toyota
+modello = prius
+km = 74000
+anno = 09-2019
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-plug-in-5posti-elettrica-benzina-grigio-ed4464e1-fb22-4b3a-a18a-ab9ce09804b4
+score = 12000.000101761643
 ----------------------------------
 ----------------------------------
-prezzo = 10500
-marca = ford
-modello = fiesta
-km = 76783
-anno = 04-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-85cv-prezzo-reale-benzina-argento-0c1c9b7a-24fd-4d0b-bd8c-b7ba8011a435
-score = 8728.300396432112
+prezzo = 18900
+marca = toyota
+modello = prius
+km = 122000
+anno = 01-2016
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-style-elettrica-benzina-nero-acbfdf19-94cd-48b6-93a5-693ce07d63ed
+score = 11340.000100845693
 ----------------------------------
 ----------------------------------
-prezzo = 17500
-marca = ford
-modello = fiesta
-km = 69900
-anno = 11-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-st-s-s-200cv-benzina-grigio-d140ad37-9de0-4c74-92c0-ce4d0153d901
-score = 8740.000396432111
+prezzo = 17900
+marca = toyota
+modello = prius
+km = 102177
+anno = 03-2017
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-style-elettrica-benzina-blu-azzurro-64c63ac6-2d72-4864-9139-b7978651cc63
+score = 10740.00010111455
 ----------------------------------
 ----------------------------------
-prezzo = 8500
-marca = ford
-modello = fiesta
-km = 79000
-anno = 08-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-85-cv-2-posti-van-3-porte-furgone-iva-e6d-diesel-bianco-097a031f-e693-4548-8579-69673eb5e0c5
-score = 8750.00039623576
+prezzo = 17900
+marca = toyota
+modello = prius
+km = 170000
+anno = 03-2018
+link = https://www.autoscout24.it//annunci/toyota-prius-phv-prius-1-8h-plug-in-elettrica-benzina-rosso-41088782-d5ac-4ade-a682-b02c6adcf07b
+score = 10740.000100284498
 ----------------------------------
 ----------------------------------
-prezzo = 13800
-marca = ford
-modello = fiesta
-km = 73773
-anno = 03-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-s-s-75cv-my20-75-benzina-blu-azzurro-0f9ef1bc-78a2-49e1-801e-789e972c1a71
-score = 8757.30039584364
+prezzo = 16800
+marca = toyota
+modello = prius
+km = 109000
+anno = 07-2018
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-72-kw-ecvt-elettrica-benzina-grigio-c9d8e35f-a15b-48d0-883b-835ae5d1eed3
+score = 10080.000100942889
 ----------------------------------
 ----------------------------------
-prezzo = 12800
-marca = ford
-modello = fiesta
-km = 75044
-anno = 06-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-5-porte-1-5-tdci-st-line-diesel-grigio-40f369d1-8205-45aa-af31-863007cc9367
-score = 8784.400396235762
-----------------------------------
-----------------------------------
-prezzo = 12990
-marca = ford
-modello = fiesta
-km = 75000
-anno = 06-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-st-line-100cv-benzina-nero-b646f11f-42e6-498b-b656-79c5798ed225
-score = 8799.000396432111
-----------------------------------
-----------------------------------
-prezzo = 13800
-marca = ford
-modello = fiesta
-km = 74730
-anno = 09-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-active-2018-active-1-5-tdci-120cv-diesel-bianco-04c2e433-4402-4962-8c0d-84146f34432f
-score = 8853.000396432111
-----------------------------------
-----------------------------------
-prezzo = 13020
-marca = ford
-modello = fiesta
-km = 75809
-anno = 11-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-titanium-s-s-125cv-my20-75-elettrica-benzina-grigio-b665afad-3335-44c2-aafa-2d4311c92dc9
-score = 8882.900396039606
-----------------------------------
-----------------------------------
-prezzo = 8990
-marca = ford
-modello = fiesta
-km = 80000
+prezzo = 16200
+marca = toyota
+modello = prius
+km = 146621
 anno = 04-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-neopatentati-euro-6b-diesel-diesel-nero-8ccca4f3-20e0-4fed-ace8-adc15a38b6ec
-score = 8899.000396628657
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-style-elettrica-benzina-bianco-686a62e5-b354-483c-a69b-ed8ae253491b
+score = 9720.000100521225
 ----------------------------------
 ----------------------------------
-prezzo = 9000
-marca = ford
-modello = fiesta
+prezzo = 15500
+marca = toyota
+modello = prius
+km = 35800
+anno = 04-2016
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iv-2016-1-8h-style-ecvt-e6-elettrica-benzina-blu-azzurro-73643b20-ba4f-485e-bb26-a2b547204d99
+score = 9300.000104792942
+----------------------------------
+----------------------------------
+prezzo = 15000
+marca = toyota
+modello = prius
 km = 80000
-anno = 09-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-business-gpl-92cv-gpl-blu-azzurro-2036da6f-65ab-4da2-91cc-c3e11698151a
-score = 8900.000397022333
+anno = 09-2016
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iv-2016-1-8h-style-ecvt-elettrica-benzina-grigio-e96871a8-7b1b-4d52-ba31-e219bba084cf
+score = 9000.00010170635
 ----------------------------------
 ----------------------------------
-prezzo = 14200
-marca = ford
-modello = fiesta
-km = 75000
-anno = 07-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125-cv-st-line-xenon-volante-elettrica-benzina-1ef8f3af-ef49-4b49-9004-7c68ce432c13
-score = 8920.000395843641
-----------------------------------
-----------------------------------
-prezzo = 12300
-marca = ford
-modello = fiesta
-km = 77119
-anno = 01-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-5-ecoblue-5-porte-plus-diesel-blu-azzurro-8f197138-109b-4f65-9b4c-441f97105f9f
-score = 8941.900396235762
-----------------------------------
-----------------------------------
-prezzo = 8200
-marca = ford
-modello = fiesta
-km = 82140
-anno = 02-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-plus-1-5-tdci-75cv-5-porte-promozione-del-mese-diesel-grigio-ec5d375c-6109-4506-9966-f51f1d812f85
-score = 9034.000396628657
-----------------------------------
-----------------------------------
-prezzo = 12500
-marca = ford
-modello = fiesta
-km = 78513
-anno = 01-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-tdci-plus-85cv-diesel-bianco-7aa1b42c-9cd2-46f0-8725-a17ab622b3a2
-score = 9101.300396432112
-----------------------------------
-----------------------------------
-prezzo = 11190
-marca = ford
-modello = fiesta
-km = 79843
-anno = 06-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-plus-1-5-diesel-86cv-diesel-argento-c813a28d-0a4b-42d6-aa5c-751673ee8449
-score = 9103.300396235762
-----------------------------------
-----------------------------------
-prezzo = 11190
-marca = ford
-modello = fiesta
-km = 79843
-anno = 06-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-plus-1-5-diesel-86cv-diesel-argento-96d132ab-a34a-49c9-82e5-7ae732150ca0
-score = 9103.300396235762
-----------------------------------
-----------------------------------
-prezzo = 5200
-marca = ford
-modello = fiesta
-km = 86000
-anno = 02-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2008-5p-1-2-16v-c-esp-82cv-e5-benzina-nero-2e69597a-13eb-4a22-9b39-8772e22640fe
-score = 9120.000397812035
-----------------------------------
-----------------------------------
-prezzo = 14400
-marca = ford
-modello = fiesta
-km = 77190
-anno = 05-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-100-cv-5-porte-st-line-benzina-rosso-693d749c-46d0-43b4-a1e2-b7c7710fd9fd
-score = 9159.00039623576
-----------------------------------
-----------------------------------
-prezzo = 9290
-marca = ford
-modello = fiesta
-km = 82929
-anno = 04-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-business-1-5-diesel-75cv-diesel-bianco-5a45e9c2-c6f8-4010-a9da-7c4156a6b3bd
-score = 9221.900396628656
-----------------------------------
-----------------------------------
-prezzo = 9290
-marca = ford
-modello = fiesta
-km = 82929
-anno = 04-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-business-1-5-diesel-75cv-diesel-bianco-a3f89ba4-b3cf-49e5-9fc2-c88c94b8a7fe
-score = 9221.900396628656
+prezzo = 15000
+marca = toyota
+modello = prius
+km = 99950
+anno = 03-2016
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-active-elettrica-benzina-blu-azzurro-559cded3-e0e4-4e9d-a79b-2f30b753fe0d
+score = 9000.00010120735
 ----------------------------------
 ----------------------------------
 prezzo = 14900
-marca = ford
-modello = fiesta
-km = 77600
-anno = 09-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-5-ecoblue-5-porte-st-line-diesel-blu-azzurro-3c9315c3-7209-4fbc-9f29-0e3b489a1081
-score = 9250.000396039604
-----------------------------------
-----------------------------------
-prezzo = 5499
-marca = ford
-modello = fiesta
-km = 87800
-anno = 01-2001
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-6-16v-zetec-s-sport-benzina-argento-b0c1c60b-e49f-4d37-b163-46aa091e4a18
-score = 9329.900399800099
-----------------------------------
-----------------------------------
-prezzo = 8490
-marca = ford
-modello = fiesta
-km = 84900
-anno = 01-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-0-business-80cv-benzina-bianco-f39e0dc8-28cb-48a3-b8b4-9bacd7591138
-score = 9339.000397022335
-----------------------------------
-----------------------------------
-prezzo = 12900
-marca = ford
-modello = fiesta
-km = 80710
-anno = 01-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-active-1-0-ecoboost-100-cv-benzina-bianco-c4b171ed-6825-4cc2-8cc0-0f3bd55e4dd2
-score = 9361.00039623576
-----------------------------------
-----------------------------------
-prezzo = 15300
-marca = ford
-modello = fiesta
-km = 78462
-anno = 10-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-5-ecoblue-5-porte-titanium-diesel-blu-azzurro-18ffd8a0-f48c-4315-9e9c-1fa5437d777a
-score = 9376.200396039605
-----------------------------------
-----------------------------------
-prezzo = 11500
-marca = ford
-modello = fiesta
-km = 82500
-anno = 05-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-plus-1-1-gpl-grigio-73e8ec6d-d8bf-45bd-b3b5-0c61688d8564
-score = 9400.000396039604
-----------------------------------
-----------------------------------
-prezzo = 7800
-marca = ford
-modello = fiesta
-km = 86408
-anno = 01-2014
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-gpl-92cv-gpl-argento-9c4a5b0d-5dbb-464e-b968-55c4d33e4a59
-score = 9420.800397219464
-----------------------------------
-----------------------------------
-prezzo = 8900
-marca = ford
-modello = fiesta
-km = 85800
-anno = 05-2014
-link = https://www.autoscout24.it//annunci/ford-fiesta-6-serie-1-4-5-porte-bz-gpl-gpl-nero-a349df92-6b3e-4ba2-af0e-bbd38d225d2c
-score = 9470.000397219465
-----------------------------------
-----------------------------------
-prezzo = 13900
-marca = ford
-modello = fiesta
-km = 81000
-anno = 07-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125-cv-5-porte-st-line-elettrica-benzina-argento-a0599068-a2ad-4049-b84e-0bcb1ba7eee2
-score = 9490.000395843641
-----------------------------------
-----------------------------------
-prezzo = 4990
-marca = ford
-modello = fiesta
-km = 90000
-anno = 04-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-tdci-70cv-ok-neopatentati-pronta-consegna-full-diesel-blu-azzurro-206865e3-92da-49df-94ff-d037d33395b5
-score = 9499.000397812033
-----------------------------------
-----------------------------------
-prezzo = 13399
-marca = ford
-modello = fiesta
-km = 82000
-anno = 05-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-6-st-182cv-benzina-rosso-32c93ecc-0df2-4518-893f-9bd895aba56e
-score = 9539.900397022333
-----------------------------------
-----------------------------------
-prezzo = 7300
-marca = ford
-modello = fiesta
-km = 89000
-anno = 03-2014
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-0-titanium-80cv-solo-89-000-km-benzina-nero-7cf7a9e0-0ce3-495a-ba60-f2af7cca79a4
-score = 9630.000397219465
-----------------------------------
-----------------------------------
-prezzo = 6490
-marca = ford
-modello = fiesta
-km = 90000
-anno = 02-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-16v-5p-benzina-rosso-d06bdc70-346c-4a1e-b441-4f83ba97dbcc
-score = 9649.00039800995
-----------------------------------
-----------------------------------
-prezzo = 13953
-marca = ford
-modello = fiesta
-km = 82776
-anno = 01-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-100cv-st-line-auto-benzina-grigio-83b17f47-2ce1-42de-a738-017f0da83f0b
-score = 9672.900396432113
-----------------------------------
-----------------------------------
-prezzo = 13953
-marca = ford
-modello = fiesta
-km = 82776
-anno = 01-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-100cv-st-line-auto-benzina-grigio-adfe6d98-b5c7-4321-925f-f84f985af5c6
-score = 9672.900396432113
-----------------------------------
-----------------------------------
-prezzo = 13953
-marca = ford
-modello = fiesta
-km = 82776
-anno = 01-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-100cv-st-line-auto-benzina-grigio-4068d857-aaaa-4a9f-a05c-1d870011a737
-score = 9672.900396432113
-----------------------------------
-----------------------------------
-prezzo = 8950
-marca = ford
-modello = fiesta
-km = 88000
-anno = 01-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-gpl-plus-gpl-579fbcc1-33a5-4829-a064-6238312b951e
-score = 9695.000396628659
-----------------------------------
-----------------------------------
-prezzo = 3500
-marca = ford
-modello = fiesta
-km = 93510
-anno = 05-2014
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-82cv-5-porte-benzina-grigio-0d802b30-7424-4412-b8af-ecdeb58f64f2
-score = 9701.000397219465
-----------------------------------
-----------------------------------
-prezzo = 5700
-marca = ford
-modello = fiesta
-km = 92000
-anno = 03-2012
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-60cv-3-porte-ambiente-benzina-blu-azzurro-9363e6fd-57b2-4dd7-9e5f-10a609aa0cda
-score = 9770.000397614314
-----------------------------------
-----------------------------------
-prezzo = 12400
-marca = ford
-modello = fiesta
-km = 85582
-anno = 03-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-85cv-ok-neopatentati-benzina-bianco-79273d77-2131-43a5-b5b5-b1482effb541
-score = 9798.200396235761
-----------------------------------
-----------------------------------
-prezzo = 10500
-marca = ford
-modello = fiesta
-km = 89000
-anno = 06-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-0-ecoboost-titanium-100cv-e6-benzina-grigio-4b91580d-119a-4ff3-bda4-02a2032e7934
-score = 9950.000396628657
-----------------------------------
-----------------------------------
-prezzo = 4900
-marca = ford
-modello = fiesta
-km = 95000
-anno = 08-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-titanium-c-esp-82cv-e5-benzina-lilla-e9fdb87a-5983-442e-98bf-d9b42e08d64e
-score = 9990.000397812033
-----------------------------------
-----------------------------------
-prezzo = 8500
-marca = ford
-modello = fiesta
-km = 91806
-anno = 05-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-tdci-titanium-75cv-e6-diesel-argento-d3cba2ff-2722-48e9-84e8-33e4a09969ed
-score = 10030.600396628657
-----------------------------------
-----------------------------------
-prezzo = 19900
-marca = ford
-modello = fiesta
-km = 80792
-anno = 08-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-200cv-st-navi-far-led-sedili-recaro-benzina-blu-azzurro-243a897a-d775-454f-9ed3-6157c7252e0d
-score = 10069.200396432112
-----------------------------------
-----------------------------------
-prezzo = 10300
-marca = ford
-modello = fiesta
-km = 91000
-anno = 04-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-82-cv-5-porte-benzina-argento-2d0342ec-f207-4c42-befe-f0822d5a898d
-score = 10130.000396628657
-----------------------------------
-----------------------------------
-prezzo = 2300
-marca = ford
-modello = fiesta
-km = 100000
-anno = 04-2007
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-2-titanium-benzina-nero-8a03d8d9-4ea6-4ac9-b294-148e6bf1fa7a
-score = 10230.000398604883
-----------------------------------
-----------------------------------
-prezzo = 9900
-marca = ford
-modello = fiesta
-km = 92600
-anno = 02-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-5-porte-1-1-titanium-benzina-rosso-0a2e9363-bbca-459f-965a-167b0362f77f
-score = 10250.000396432111
-----------------------------------
-----------------------------------
-prezzo = 12220
-marca = ford
-modello = fiesta
-km = 90442
-anno = 08-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-connect-gpl-s-s-75cv-my20-75-gpl-gpl-bianco-2bb07856-b1ea-4fd5-96c1-eb96ccee68a1
-score = 10266.200396039605
-----------------------------------
-----------------------------------
-prezzo = 13820
-marca = ford
-modello = fiesta
-km = 89836
-anno = 06-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-ecoblue-st-line-s-s-85cv-my20-25-diesel-rosso-78f9fa65-1a17-41a7-882c-79531faa1ddf
-score = 10365.600396039605
+marca = toyota
+modello = prius
+km = 175400
+anno = 09-2016
+link = https://www.autoscout24.it//annunci/toyota-prius-elettrica-benzina-bianco-61b69053-1e4b-44a8-95e9-942cde7456a0
+score = 8940.0001003466
 ----------------------------------
 ----------------------------------
 prezzo = 14300
-marca = ford
-modello = fiesta
-km = 89548
-anno = 03-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-vii-2017-5p-5p-1-1-titanium-gpl-s-s-75cv-my20-75-gpl-bianco-9dc1469c-0088-472a-b22c-913101cb482f
-score = 10384.800395843642
-----------------------------------
-----------------------------------
-prezzo = 6000
-marca = ford
-modello = fiesta
-km = 98000
-anno = 03-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-16v-titanium-gpl-gpl-bianco-ffff1730-b7f5-483f-96a5-1ef2f8c65deb
-score = 10400.00039800995
-----------------------------------
-----------------------------------
-prezzo = 5500
-marca = ford
-modello = fiesta
-km = 99000
-anno = 08-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-2010-5p-1-6-tdci-titanium-c-esp-95cv-e5-diesel-0212889c-504e-4eb4-ab77-e0189fbf853a
-score = 10450.00039800995
-----------------------------------
-----------------------------------
-prezzo = 13300
-marca = ford
-modello = fiesta
-km = 91400
-anno = 10-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-st-line-85cv-diesel-blu-azzurro-22b6e346-c3bd-4344-ae23-847529fe04a1
-score = 10470.000396628657
-----------------------------------
-----------------------------------
-prezzo = 4950
-marca = ford
-modello = fiesta
-km = 100000
-anno = 04-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-60cv-neopatentati-euro5-benzina-benzina-blu-azzurro-bf8dd3ae-991f-49a6-94fb-086c674a73e8
-score = 10495.000397812033
-----------------------------------
-----------------------------------
-prezzo = 9900
-marca = ford
-modello = fiesta
-km = 96000
-anno = 10-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-5-porte-1-5-tdci-plus-diesel-grigio-ca00c148-8433-49db-a626-30666583f99c
-score = 10590.000396628657
-----------------------------------
-----------------------------------
-prezzo = 3300
-marca = ford
-modello = fiesta
-km = 104900
-anno = 04-2006
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-ambiente-neopatentati-benzina-argento-a1dce44c-d263-410b-aed1-fd58e6292e45
-score = 10820.00039880359
-----------------------------------
-----------------------------------
-prezzo = 13500
-marca = ford
-modello = fiesta
-km = 96000
-anno = 06-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-active-1-5-tdci-diesel-bianco-bae728da-4c98-4e05-8254-e2d5ef2dcae2
-score = 10950.00039623576
-----------------------------------
-----------------------------------
-prezzo = 7500
-marca = ford
-modello = fiesta
-km = 102000
-anno = 10-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-25-sync-edition-benzina-bianco-1a90e086-32f5-46b3-9c7d-24ddcfcdc2ee
-score = 10950.000397022333
-----------------------------------
-----------------------------------
-prezzo = 12920
-marca = ford
-modello = fiesta
-km = 97252
-anno = 07-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-5-ecoblue-tdci-85cv-my19-diesel-grigio-b1a72978-fac0-495c-ae42-2a58cd88e078
-score = 11017.200396039605
-----------------------------------
-----------------------------------
-prezzo = 6000
-marca = ford
-modello = fiesta
-km = 105000
-anno = 05-2014
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0cc-80cv-neopatentati-benzina-blu-azzurro-53fdd09a-3efc-4445-b397-a513a8538d3c
-score = 11100.000397219466
-----------------------------------
-----------------------------------
-prezzo = 16499
-marca = ford
-modello = fiesta
-km = 95000
-anno = 02-2016
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-6-st-182cv-e6-benzina-giallo-97b51007-40cd-4357-9ec9-51468c73fd63
-score = 11149.900396825396
-----------------------------------
-----------------------------------
-prezzo = 13500
-marca = ford
-modello = fiesta
-km = 98000
-anno = 01-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-0-ecoboost-st-line-140cv-benzina-grigio-257037e1-0339-4958-b277-88e7779fab74
-score = 11150.000396432111
-----------------------------------
-----------------------------------
-prezzo = 10000
-marca = ford
-modello = fiesta
-km = 102000
-anno = 03-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-5-tdci-st-line-85cv-diesel-bianco-fe280ff8-e536-4c82-804f-b1aaebb3bbfa
-score = 11200.000396432111
-----------------------------------
-----------------------------------
-prezzo = 8490
-marca = ford
-modello = fiesta
-km = 104000
-anno = 07-2016
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-tdci-titanium-75cv-e6-neopatentato-diesel-nero-a8f474b5-3fc5-4df1-be2e-5a87b8992b1b
-score = 11249.000396825397
-----------------------------------
-----------------------------------
-prezzo = 2999
-marca = ford
-modello = fiesta
-km = 110000
-anno = 09-2013
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2013-5p-1-0-business-80cv-benzina-nero-064e9f44-fe8e-4aa1-9d3f-d61a225323c1
-score = 11299.90039741679
-----------------------------------
-----------------------------------
-prezzo = 2999
-marca = ford
-modello = fiesta
-km = 110000
-anno = 09-2013
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2013-5p-1-0-business-80cv-benzina-c237bc57-0675-4b97-88c5-91c443bc8b57
-score = 11299.90039741679
-----------------------------------
-----------------------------------
-prezzo = 5600
-marca = ford
-modello = fiesta
-km = 107500
-anno = 06-2013
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-2-16v-ikon-82cv-benzina-blu-azzurro-88567e3b-c5c0-4a91-9828-8d9b6543872b
-score = 11310.00039741679
-----------------------------------
-----------------------------------
-prezzo = 11720
-marca = ford
-modello = fiesta
-km = 101517
-anno = 09-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-ecoblue-titanium-85cv-s-s-my20-25-diesel-grigio-933929cc-1fe8-4f7e-a331-9ba1c76f01e9
-score = 11323.700396039605
-----------------------------------
-----------------------------------
-prezzo = 6800
-marca = ford
-modello = fiesta
-km = 107337
-anno = 01-2014
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-0-titanium-80cv-benzina-blu-azzurro-f349ebd1-2578-4880-8ba5-7d83d20afc18
-score = 11413.700397219465
-----------------------------------
-----------------------------------
-prezzo = 2249
-marca = ford
-modello = fiesta
-km = 112000
-anno = 03-2006
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-tdci-titanium-diesel-blu-azzurro-251af467-58b3-4184-a4ec-1cf47887a069
-score = 11424.90039880359
-----------------------------------
-----------------------------------
-prezzo = 4490
-marca = ford
-modello = fiesta
-km = 110000
-anno = 05-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-60cv-3p-tit-cerchi-clima-automatico-benzina-grigio-7cb6300d-bd64-44e0-93e9-756331500d09
-score = 11449.000398208063
-----------------------------------
-----------------------------------
-prezzo = 8900
-marca = ford
-modello = fiesta
-km = 106000
-anno = 11-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-85cv-my19-benzina-grigio-fad3fdc8-b14d-457e-a386-3750d8b7d789
-score = 11490.000396432111
-----------------------------------
-----------------------------------
-prezzo = 9990
-marca = ford
-modello = fiesta
-km = 106619
-anno = 03-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-titanium-1-1-benzina-85cv-benzina-argento-6d92ffb0-79cb-44db-8518-d4a4878fbc90
-score = 11660.900396432113
-----------------------------------
-----------------------------------
-prezzo = 9990
-marca = ford
-modello = fiesta
-km = 106619
-anno = 03-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-titanium-1-1-benzina-85cv-benzina-argento-676c140f-6794-4458-9b0c-e8e097296f9a
-score = 11660.900396432113
-----------------------------------
-----------------------------------
-prezzo = 9990
-marca = ford
-modello = fiesta
-km = 106619
-anno = 03-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-titanium-1-1-benzina-85cv-benzina-argento-b6dade75-ab4e-4a77-bb6e-6e21a8d07ccc
-score = 11660.900396432113
-----------------------------------
-----------------------------------
-prezzo = 8850
-marca = ford
-modello = fiesta
-km = 110000
-anno = 10-2014
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-tdci-75cv-diesel-blu-azzurro-f5837d0e-5a25-4f82-8a0a-3074c65733a5
-score = 11885.000397219465
-----------------------------------
-----------------------------------
-prezzo = 13900
-marca = ford
-modello = fiesta
-km = 105000
-anno = 07-2021
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-hybrid-6m-125cv-st-line-navi-app-cruise-sensor-elettrica-benzina-grigio-7e748e91-aa8f-4397-a7f1-0afda59efa0f
-score = 11890.000395843643
-----------------------------------
-----------------------------------
-prezzo = 4900
-marca = ford
-modello = fiesta
-km = 115000
-anno = 12-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-diesel-b6edacd8-2d25-41d3-8600-e3c55923bd7b
-score = 11990.000398009952
-----------------------------------
-----------------------------------
-prezzo = 10500
-marca = ford
-modello = fiesta
-km = 110000
-anno = 04-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-4-tdci-c-esp-diesel-rosso-9009b863-8566-4e06-a097-a05e2a73057c
-score = 12050.000396628657
-----------------------------------
-----------------------------------
-prezzo = 6800
-marca = ford
-modello = fiesta
-km = 115000
-anno = 11-2016
-link = https://www.autoscout24.it//annunci/ford-fiesta-ford-fiesta-plus-1-5-tdci-95cv-3p-diesel-euro-6b-diesel-nero-c787a250-0fe0-42df-b6ca-2694fe56dfe1
-score = 12180.000396825399
-----------------------------------
-----------------------------------
-prezzo = 5990
-marca = ford
-modello = fiesta
-km = 116000
-anno = 01-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-3p-bz-gpl-benzina-grigio-295169b1-cc15-4c50-acc2-f91b1c686293
-score = 12199.00039800995
-----------------------------------
-----------------------------------
-prezzo = 8800
-marca = ford
-modello = fiesta
-km = 113526
-anno = 11-2016
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-75cv-titanium-diesel-grigio-6559a0bd-f829-4f06-84ba-df5794052e3d
-score = 12232.600396825397
-----------------------------------
-----------------------------------
-prezzo = 6900
-marca = ford
-modello = fiesta
-km = 116000
-anno = 03-2012
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-titanium-gpl-pronta-consegna-gpl-grigio-d03d5fa7-a67f-4dad-9ae6-ef3790be3ecb
-score = 12290.000397614314
-----------------------------------
-----------------------------------
-prezzo = 10400
-marca = ford
-modello = fiesta
-km = 112900
-anno = 12-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-euro-6-neopatentati-ok-2018-diesel-bianco-9c1a317e-a2bc-4c54-b936-a3af44e86e19
-score = 12330.000396432111
-----------------------------------
-----------------------------------
-prezzo = 11500
-marca = ford
-modello = fiesta
-km = 112000
-anno = 02-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-tdci-titanium-85cv-diesel-grigio-eda5da41-016f-4098-b314-e0cffdc40590
-score = 12350.000396432111
-----------------------------------
-----------------------------------
-prezzo = 11500
-marca = ford
-modello = fiesta
-km = 112000
-anno = 02-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-st-line-85cv-diesel-bianco-9db124e4-202d-44ec-a84e-44483a014d4c
-score = 12350.000396432111
-----------------------------------
-----------------------------------
-prezzo = 10900
-marca = ford
-modello = fiesta
-km = 112616
-anno = 10-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-tdci-vignale-85cv-diesel-nero-12859bb4-2af3-43d5-8bfd-af6dbf99c185
-score = 12351.600396432112
-----------------------------------
-----------------------------------
-prezzo = 4000
-marca = ford
-modello = fiesta
-km = 120000
-anno = 06-2014
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-5-tdci-75cv-diesel-grigio-081e83b6-a6a7-482c-ad23-2fd161701ffc
-score = 12400.000397219465
-----------------------------------
-----------------------------------
-prezzo = 4800
-marca = ford
-modello = fiesta
-km = 120000
-anno = 12-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-82cv-benzina-bianco-f7d28bfd-c1b8-4c6a-92c2-951df5301e98
-score = 12480.000398208063
-----------------------------------
-----------------------------------
-prezzo = 4950
-marca = ford
-modello = fiesta
-km = 120000
-anno = 01-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-4-tdci-titanium-diesel-nero-e2f6be9d-912c-40bd-b740-3dfb3a4cc06e
-score = 12495.00039800995
-----------------------------------
-----------------------------------
-prezzo = 13200
-marca = ford
-modello = fiesta
-km = 112200
-anno = 09-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-gpl-5-porte-titanium-gpl-argento-a59a399f-b80e-4336-8b62-31b30efd9bca
-score = 12540.000396039604
-----------------------------------
-----------------------------------
-prezzo = 11700
-marca = ford
-modello = fiesta
-km = 113797
-anno = 09-2016
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-6-st-182cv-e6-benzina-bianco-01252250-4663-4cbe-8164-5f2d03370480
-score = 12549.700396825396
-----------------------------------
-----------------------------------
-prezzo = 6500
-marca = ford
-modello = fiesta
-km = 119000
-anno = 05-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-85-cv-3-porte-van-trend-diesel-bianco-385ff6dd-6905-4f40-a405-0ff14d575c73
-score = 12550.00039623576
-----------------------------------
-----------------------------------
-prezzo = 5500
-marca = ford
-modello = fiesta
-km = 120000
-anno = 10-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-benzina-16v-titanium-ideale-neopatentati-benzina-blu-azzurro-dceca19c-0149-453e-ab9a-2459bf695925
-score = 12550.000397812033
-----------------------------------
-----------------------------------
-prezzo = 5600
-marca = ford
-modello = fiesta
-km = 120000
-anno = 07-2012
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-tdci-70cv-5-porte-titanium-diesel-nero-58b8f555-b192-4042-9141-7507a5ebf87c
-score = 12560.000397614314
-----------------------------------
-----------------------------------
-prezzo = 11900
-marca = ford
-modello = fiesta
-km = 114828
-anno = 04-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-vii-2017-5p-5p-1-5-tdci-vignale-120cv-diesel-nero-12cb22d9-3a6a-457b-b0fa-03a5802e5405
-score = 12672.800396432112
-----------------------------------
-----------------------------------
-prezzo = 3350
-marca = ford
-modello = fiesta
-km = 123450
-anno = 09-2007
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-2-plus-benzina-grigio-226752d1-14cd-41d8-bcf0-3f9436eec572
-score = 12680.000398604885
-----------------------------------
-----------------------------------
-prezzo = 2300
-marca = ford
-modello = fiesta
-km = 124947
-anno = 09-2008
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-tdci-diesel-nero-cf1617a8-d1b5-4f3e-8304-db2e6b60cc72
-score = 12724.700398406376
-----------------------------------
-----------------------------------
-prezzo = 9500
-marca = ford
-modello = fiesta
-km = 118000
-anno = 02-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-75cv-5-porte-titanium-diesel-nero-c68a32de-90d0-4f49-98e9-bf9f7ac81102
-score = 12750.000396628657
-----------------------------------
-----------------------------------
-prezzo = 7500
-marca = ford
-modello = fiesta
-km = 120000
-anno = 03-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-4-plus-gpl-95cv-e6-gpl-bianco-b619e2d5-5b18-4396-8c17-5aaf8af40c83
-score = 12750.000396628657
-----------------------------------
-----------------------------------
-prezzo = 5200
-marca = ford
-modello = fiesta
-km = 123000
-anno = 10-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-tdci-70cv-5p-titanium-bs-diesel-nero-9125d8e6-75fa-44cf-935a-0ab010086fb0
-score = 12820.000397812035
-----------------------------------
-----------------------------------
-prezzo = 8900
-marca = ford
-modello = fiesta
-km = 120000
-anno = 07-2014
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-5-porte-bz-gpl-gpl-blu-azzurro-beb43f34-9bb3-47bd-b728-feafa579d593
-score = 12890.000397219465
-----------------------------------
-----------------------------------
-prezzo = 10500
-marca = ford
-modello = fiesta
-km = 120000
-anno = 06-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-7-serie-2018-1-5-tdci-st-line-85cv-diesel-nero-2acf102d-a152-4057-913f-9604482174db
-score = 13050.000396432111
-----------------------------------
-----------------------------------
-prezzo = 7900
-marca = ford
-modello = fiesta
-km = 123000
-anno = 01-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-75cv-5-porte-titanium-diesel-blu-azzurro-1e1fd2b3-ec63-468d-932f-9da62055f7b6
-score = 13090.000397022335
-----------------------------------
-----------------------------------
-prezzo = 5900
-marca = ford
-modello = fiesta
-km = 125000
-anno = 12-2013
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-75cv-5-porte-titanium-neopatentati-diesel-argento-5b7e0d87-46ee-4019-84ec-8c58b54e16db
-score = 13090.000397416792
+marca = toyota
+modello = prius
+km = 175000
+anno = 12-2016
+link = https://www.autoscout24.it//annunci/toyota-prius-hybrid-elettrica-benzina-argento-0103a8b6-8df9-44b3-b037-7e702c132f9f
+score = 8580.000100349205
+----------------------------------
+----------------------------------
+prezzo = 14000
+marca = toyota
+modello = prius
+km = 119792
+anno = 04-2013
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8-active-plug-in-elettrica-benzina-blu-azzurro-f9287345-9b3a-48bb-a673-ca458c2f5ced
+score = 8400.00010102376
+----------------------------------
+----------------------------------
+prezzo = 12900
+marca = toyota
+modello = prius
+km = 264700
+anno = 12-2017
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iv-2016-1-8h-active-ecvt-my18-elettrica-benzina-bianco-ce336f68-b4a9-4ad5-924e-f0dc86386e39
+score = 7740.000099912737
 ----------------------------------
 ----------------------------------
 prezzo = 10990
-marca = ford
-modello = fiesta
-km = 120000
-anno = 02-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-plus-85cv-neopatentati-diesel-grigio-009682ca-1f23-45f1-b94e-f37545b4a886
-score = 13099.000396432111
+marca = toyota
+modello = prius
+km = 124600
+anno = 11-2012
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-100cv-hybrid-lounge-unip-full-elettrica-benzina-nero-61b62af2-1c95-4ea5-a420-2c741453d1d4
+score = 6594.000101008714
 ----------------------------------
 ----------------------------------
-prezzo = 7500
-marca = ford
-modello = fiesta
-km = 124000
-anno = 12-2016
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-2-titanium-82cv-benzina-rosso-d7a64a79-5add-4210-b849-63e3c97ab2c0
-score = 13150.000396825397
+prezzo = 10900
+marca = toyota
+modello = prius
+km = 262704
+anno = 06-2013
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8-active-plug-in-elettrica-benzina-bianco-b6016f1d-151b-49ea-b9cc-80a1898ec461
+score = 6540.0001001155115
 ----------------------------------
 ----------------------------------
-prezzo = 8450
-marca = ford
-modello = fiesta
-km = 123233
-anno = 02-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-titanium-75cv-diesel-bianco-ed5a50ce-283c-4bde-9b28-25bea2fdfcfc
-score = 13168.300396628658
+prezzo = 10500
+marca = toyota
+modello = prius
+km = 284000
+anno = 06-2013
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2012-1-8h-active-ecvt-elettrica-benzina-nero-e1767ae1-d0ff-4ad9-8f6c-8f7b245ea9db
+score = 6300.000100058423
 ----------------------------------
 ----------------------------------
-prezzo = 6950
-marca = ford
-modello = fiesta
-km = 125000
-anno = 09-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-0-business-80cv-e6-benzina-rosso-aa1c68fc-63ba-4075-8cc1-4aa21aba6ef9
-score = 13195.000397022335
+prezzo = 9600
+marca = toyota
+modello = prius
+km = 270000
+anno = 10-2010
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2009-1-8-hsd-executive-elettrica-benzina-bianco-6a86590a-116c-433b-812e-20524b2805d4
+score = 5760.000100243228
 ----------------------------------
 ----------------------------------
-prezzo = 8200
-marca = ford
-modello = fiesta
-km = 124500
-anno = 05-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-5-tdci-st-line-75cv-diesel-bianco-1565877f-da96-4837-95a2-c58160a560ca
-score = 13270.000396628657
+prezzo = 9500
+marca = toyota
+modello = prius
+km = 245000
+anno = 12-2009
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2009-1-8-hsd-elettrica-benzina-bianco-bced4726-6e86-4ddd-828d-0088240fa192
+score = 5700.000100368343
 ----------------------------------
 ----------------------------------
-prezzo = 3890
-marca = ford
-modello = fiesta
-km = 129000
-anno = 02-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-business-60cv-benzina-blu-azzurro-21f03867-1cdd-40c1-8c8f-135de12a44dd
-score = 13289.000397022333
-----------------------------------
-----------------------------------
-prezzo = 9900
-marca = ford
-modello = fiesta
-km = 123000
-anno = 10-1994
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-8i-16v-xr2i-126cv-tutta-originale-da-concorso-benzina-grigio-30ecd2a9-b912-4ee4-ba9e-fa90c92a7b58
-score = 13290.000401203613
-----------------------------------
-----------------------------------
-prezzo = 5500
-marca = ford
-modello = fiesta
-km = 128000
-anno = 01-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-1-4-5-porte-bz-gpl-titanium-gpl-argento-4346dcd1-39c0-4141-8275-fa2687c15fca
-score = 13350.00039800995
-----------------------------------
-----------------------------------
-prezzo = 4600
-marca = ford
-modello = fiesta
-km = 130000
-anno = 10-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-2-16v-titanium-fl-benzina-argento-aa028880-2f0d-438d-832c-5abc63cfb537
-score = 13460.000397812035
-----------------------------------
-----------------------------------
-prezzo = 7500
-marca = ford
-modello = fiesta
-km = 129000
-anno = 10-2016
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-gpl-ufficiale-casa-madre-95cv-gpl-nero-1eaeca88-874d-4800-98b5-2f8d8f3e2b26
-score = 13650.000396825397
-----------------------------------
-----------------------------------
-prezzo = 3000
-marca = ford
-modello = fiesta
-km = 134000
-anno = 11-2007
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-25cc-75cv-5-porte-benzina-blu-azzurro-e5b0497f-73ce-46b4-9e0f-f65eebd4de50
-score = 13700.000398604883
-----------------------------------
-----------------------------------
-prezzo = 3690
-marca = ford
-modello = fiesta
-km = 134000
-anno = 01-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-titanium-1-25-duratec-benzina-rosso-6ebb9cae-58bf-4855-8141-1dca5fe67dcf
-score = 13769.000398208063
-----------------------------------
-----------------------------------
-prezzo = 11000
-marca = ford
-modello = fiesta
-km = 127000
-anno = 01-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-5p-titanium-diesel-bianco-e105566f-78c1-44f2-aa31-c8bc32b3e0a2
-score = 13800.000396432111
-----------------------------------
-----------------------------------
-prezzo = 12000
-marca = ford
-modello = fiesta
-km = 126000
-anno = 06-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-1-6-st-182cv-benzina-blu-azzurro-870897e3-949b-45ca-ae1f-6387687477fc
-score = 13800.000397022335
-----------------------------------
-----------------------------------
-prezzo = 4500
-marca = ford
-modello = fiesta
-km = 133557
-anno = 11-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-benzina-nero-97a6ddf8-e9c2-48f8-9636-8ac697875c12
-score = 13805.700397812034
-----------------------------------
-----------------------------------
-prezzo = 7900
-marca = ford
-modello = fiesta
-km = 132747
-anno = 03-2014
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-1-5-tdci-75-cv-5p-diesel-nero-4d0ff214-3ccd-447f-91c4-eb5922d7ee5f
-score = 14064.700397219465
-----------------------------------
-----------------------------------
-prezzo = 5900
-marca = ford
-modello = fiesta
-km = 135000
-anno = 08-2013
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-80cv-3-porte-business-benzina-bianco-3eca54e3-4861-49d9-84de-fa2a41a9c77f
-score = 14090.00039741679
-----------------------------------
-----------------------------------
-prezzo = 11000
-marca = ford
-modello = fiesta
-km = 130000
-anno = 05-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-s-s-titanium-benzina-grigio-f6aa71d5-c79a-4fdb-80ce-c4e395365ce7
-score = 14100.000396432113
-----------------------------------
-----------------------------------
-prezzo = 1700
-marca = ford
-modello = fiesta
-km = 140000
-anno = 10-2008
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-4-tdci-diesel-grigio-0db0e2fd-173c-4f5f-84c9-5089ac44f41d
-score = 14170.000398406377
-----------------------------------
-----------------------------------
-prezzo = 1900
-marca = ford
-modello = fiesta
-km = 140000
-anno = 07-2008
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-v-2006-3p-1-2-titanium-benzina-argento-2e09149a-08ec-4271-93fc-e8e11afcdf4b
-score = 14190.000398406377
-----------------------------------
-----------------------------------
-prezzo = 5300
-marca = ford
-modello = fiesta
-km = 137000
-anno = 05-2013
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-business-75cv-diesel-argento-29ebfb7f-a99b-47f9-9966-43eb3b57b468
-score = 14230.00039741679
-----------------------------------
-----------------------------------
-prezzo = 4499
-marca = ford
-modello = fiesta
-km = 137900
-anno = 03-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-16v-ikon-business-gpl-gpl-bianco-da43cf40-1650-41ba-b642-29101b2c9a25
-score = 14239.900397812034
-----------------------------------
-----------------------------------
-prezzo = 6000
-marca = ford
-modello = fiesta
-km = 137000
-anno = 05-2007
-link = https://www.autoscout24.it//annunci/ford-fiesta-st-2-0-3p-benzina-nero-ea2ebc0f-77bf-4f36-a540-81a783f1928e
-score = 14300.000398604883
-----------------------------------
-----------------------------------
-prezzo = 4190
-marca = ford
-modello = fiesta
-km = 141000
-anno = 06-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-2-16v-titanium-c-esp-82cv-e5-benzina-blu-azzurro-e32b09f5-43e8-40e1-a2bd-2d2b47e6d612
-score = 14519.000397812033
-----------------------------------
-----------------------------------
-prezzo = 3200
-marca = ford
-modello = fiesta
-km = 145000
-anno = 03-2006
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-titanium-benzina-verde-e95f0cab-c1d6-4b38-8a3b-4092f8add55f
-score = 14820.000398803591
-----------------------------------
-----------------------------------
-prezzo = 3500
-marca = ford
-modello = fiesta
-km = 146542
-anno = 01-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-16v-gpl-gpl-rosso-1cb67fa8-ddf8-463f-b076-99419742a6ee
-score = 15004.20039800995
-----------------------------------
-----------------------------------
-prezzo = 3700
-marca = ford
-modello = fiesta
-km = 147000
-anno = 04-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-gpl-benzina-blu-azzurro-c75c259e-4a45-41b6-b983-3f9f23e54731
-score = 15070.000398208063
-----------------------------------
-----------------------------------
-prezzo = 6147
-marca = ford
-modello = fiesta
-km = 145000
-anno = 05-2020
-link = https://www.autoscout24.it//annunci/ford-fiesta-van-2-posti-autocarro-diesel-bianco-4ef7166c-2d2d-488f-b458-0d4e2f13ba0b
-score = 15114.700396039607
-----------------------------------
-----------------------------------
-prezzo = 1700
-marca = ford
-modello = fiesta
-km = 149900
-anno = 01-2005
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-zetec-benzina-blu-azzurro-44019335-2945-425a-9bc0-8245dd037408
-score = 15160.000399002496
+prezzo = 9500
+marca = toyota
+modello = prius
+km = 267000
+anno = 11-2009
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2009-1-8-hsd-active-elettrica-benzina-bianco-e27984de-45a7-407f-8f13-fecba6f60457
+score = 5700.000100301079
 ----------------------------------
 ----------------------------------
 prezzo = 8900
-marca = ford
-modello = fiesta
-km = 145000
-anno = 02-2016
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-euro6-fap-neopatentati-diesel-blu-azzurro-e0dc7d34-4f9b-4a01-b8b4-5c4b028ad672
-score = 15390.000396825399
+marca = toyota
+modello = prius
+km = 280000
+anno = 07-2009
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8-hsd-executive-elettrica-benzina-bianco-c992ab24-0858-4a25-ace6-deefdbbc34ad
+score = 5340.000100266301
+----------------------------------
+----------------------------------
+prezzo = 8500
+marca = toyota
+modello = prius
+km = 250000
+anno = 01-2010
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2010-1-8-hsd-executive-elettrica-benzina-bianco-a815d3f4-e315-4a83-8781-b3632b7b2956
+score = 5100.000100302487
+----------------------------------
+----------------------------------
+prezzo = 8500
+marca = toyota
+modello = prius
+km = 260000
+anno = 05-2010
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8-hybrid-doppio-acceleratore-per-disabili-elettrica-benzina-argento-718628f6-cd7e-41f5-9566-dbe5c01c4725
+score = 5100.000100271718
+----------------------------------
+----------------------------------
+prezzo = 8500
+marca = toyota
+modello = prius
+km = 334500
+anno = 09-2014
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-active-ecvt-elettrica-benzina-bianco-81b5f35b-4132-4892-8904-1429128c0d8a
+score = 5100.000099902773
+----------------------------------
+----------------------------------
+prezzo = 8400
+marca = toyota
+modello = prius
+km = 246000
+anno = 06-2010
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-executive-elettrica-benzina-grigio-8aaedac9-e568-4cfa-8015-d6db039fb7c8
+score = 5040.000100315496
+----------------------------------
+----------------------------------
+prezzo = 8000
+marca = toyota
+modello = prius
+km = 199000
+anno = 10-2009
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2009-1-8-hsd-elettrica-benzina-argento-9abcd5bd-197f-46b2-aef7-72d54cfad7aa
+score = 4800.000100557041
+----------------------------------
+----------------------------------
+prezzo = 7499
+marca = toyota
+modello = prius
+km = 175000
+anno = 05-2010
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-active-elettrica-benzina-argento-15f63c82-9721-4943-9823-2208b3e61352
+score = 4499.4001006453445
+----------------------------------
+----------------------------------
+prezzo = 7300
+marca = toyota
+modello = prius
+km = 135000
+anno = 03-2006
+link = https://www.autoscout24.it//annunci/toyota-prius-1-5i-16v-ok-neopatentati-garanzia-l-12-mesi-elettrica-benzina-grigio-5bead043-8a9b-4539-8925-1f468c5e7564
+score = 4380.000101182379
+----------------------------------
+----------------------------------
+prezzo = 7300
+marca = toyota
+modello = prius
+km = 285000
+anno = 07-2010
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-active-elettrica-benzina-bianco-c8a45437-2366-47c5-9547-be0b3fdb734e
+score = 4380.000100204242
+----------------------------------
+----------------------------------
+prezzo = 7200
+marca = toyota
+modello = prius
+km = 108000
+anno = 06-2009
+link = https://www.autoscout24.it//annunci/toyota-prius-1-5-ibrida-78cv-elettrica-benzina-nero-a9187ce1-1b74-4013-a107-27068b246fd9
+score = 4320.000101403868
 ----------------------------------
 ----------------------------------
 prezzo = 7000
-marca = ford
-modello = fiesta
-km = 149420
-anno = 03-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-1-5-tdci-75-cv-5p-diesel-e9f9d032-22cf-42a9-9be7-d99da09fc759
-score = 15642.000397022335
-----------------------------------
-----------------------------------
-prezzo = 6500
-marca = ford
-modello = fiesta
-km = 150000
-anno = 04-2016
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-titanium-gpl-95cv-e6-gpl-argento-7c4402de-0cdc-4014-9276-cd36295e1a21
-score = 15650.000396825397
-----------------------------------
-----------------------------------
-prezzo = 6800
-marca = ford
-modello = fiesta
-km = 150000
-anno = 03-2017
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-tdci-plus-75cv-e6-diesel-nero-eb4b6f3b-2e23-4f57-bfa4-b4526a17464b
-score = 15680.000396628657
-----------------------------------
-----------------------------------
-prezzo = 4200
-marca = ford
-modello = fiesta
-km = 155000
-anno = 11-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-titanium-82cv-benzina-nero-e84d37a8-ab80-4595-abab-4b5e0b797409
-score = 15920.000398009952
-----------------------------------
-----------------------------------
-prezzo = 4590
-marca = ford
-modello = fiesta
-km = 154710
-anno = 04-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-82cv-5-porte-benzina-blu-azzurro-1607ab05-224f-4d9f-bb73-ff41e0f02109
-score = 15930.000398208065
-----------------------------------
-----------------------------------
-prezzo = 5200
-marca = ford
-modello = fiesta
-km = 155849
-anno = 05-2013
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-gpl-92cv-gpl-nero-a56c6254-5dbf-460d-aca6-57b7aade73db
-score = 16104.900397416792
-----------------------------------
-----------------------------------
-prezzo = 3900
-marca = ford
-modello = fiesta
-km = 157700
-anno = 12-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-2-16v-82cv-benzina-blu-azzurro-dd038559-d628-4ffd-b670-089fd03a03d0
-score = 16160.000398208063
-----------------------------------
-----------------------------------
-prezzo = 3700
-marca = ford
-modello = fiesta
-km = 158000
-anno = 06-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-82cv-benzina-lilla-e4cf89bd-d65a-44da-a441-4b04109dae20
-score = 16170.00039800995
+marca = toyota
+modello = prius
+km = 128000
+anno = 09-2009
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-active-elettrica-benzina-grigio-73ec6585-319c-40ed-b3f5-e3554c1d722d
+score = 4200.000101114516
 ----------------------------------
 ----------------------------------
 prezzo = 6900
-marca = ford
-modello = fiesta
-km = 155127
-anno = 02-2013
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-75cv-5-porte-titanium-neopatentati-diesel-blu-azzurro-bdf53336-3dbc-4cc7-b4ca-0d57d4d5fed4
-score = 16202.700397416791
+marca = toyota
+modello = prius
+km = 209000
+anno = 12-2012
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-active-ecvt-elettrica-benzina-bianco-09877880-448a-47c7-ac00-a7c23f5d4d54
+score = 4140.000100360516
 ----------------------------------
 ----------------------------------
-prezzo = 5990
-marca = ford
-modello = fiesta
-km = 156079
-anno = 10-2013
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-titanium-gpl-92cv-gpl-nero-e7b39f07-9605-4079-a4fd-f1ade0e7263a
-score = 16206.90039741679
+prezzo = 6800
+marca = toyota
+modello = prius
+km = 253132
+anno = 12-2007
+link = https://www.autoscout24.it//annunci/toyota-prius-1-5i-16v-elettrica-benzina-grigio-32753bbd-09f2-4424-a5a0-052542f4d4a5
+score = 4080.0001004413225
 ----------------------------------
 ----------------------------------
-prezzo = 6450
-marca = ford
-modello = fiesta
-km = 156200
-anno = 06-2016
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-titanium-75cv-diesel-grigio-8ae5590d-54f6-4af5-81cc-bc8d85d14c05
-score = 16265.000396825399
-----------------------------------
-----------------------------------
-prezzo = 4000
-marca = ford
-modello = fiesta
-km = 159000
-anno = 12-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2008-5p-1-2-16v-c-esp-82cv-e5-benzina-nero-bec69c87-8343-44e9-b9a0-9810e6282e0d
-score = 16300.00039800995
-----------------------------------
-----------------------------------
-prezzo = 9000
-marca = ford
-modello = fiesta
-km = 154400
-anno = 09-2013
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-16v-titanium-gpl-pelle-led-cruise-noleggio-gpl-rosso-4e00a17f-1b8e-4fc2-876f-23192bdcfcdd
-score = 16340.00039741679
-----------------------------------
-----------------------------------
-prezzo = 4400
-marca = ford
-modello = fiesta
-km = 159000
-anno = 04-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-5-porte-bz-gpl-titanium-benzina-argento-cd5a8199-87d0-4788-aad4-b6c7cd0330e2
-score = 16340.00039800995
-----------------------------------
-----------------------------------
-prezzo = 3500
-marca = ford
-modello = fiesta
-km = 160000
-anno = 11-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-2-16v-titanium-82cv-benzina-nero-b3f1139b-ff94-469f-adf1-4ff3fd09e4e9
-score = 16350.000398208063
-----------------------------------
-----------------------------------
-prezzo = 3800
-marca = ford
-modello = fiesta
-km = 160000
-anno = 10-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-3p-1-2-16v-82cv-euro-5-benzina-a844e842-a956-4290-b1f8-e2136df94a9d
-score = 16380.000398208063
-----------------------------------
-----------------------------------
-prezzo = 5700
-marca = ford
-modello = fiesta
-km = 158849
-anno = 06-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-5-porte-bz-gpl-titanium-gpl-grigio-2064490e-0a23-45e2-a3e3-a3c25187d76a
-score = 16454.90039800995
-----------------------------------
-----------------------------------
-prezzo = 5000
-marca = ford
-modello = fiesta
-km = 160000
-anno = 12-2014
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-titanium-75cv-diesel-blu-azzurro-3ff31866-042d-47ea-b811-8ccd4e10750a
-score = 16500.000397219465
-----------------------------------
-----------------------------------
-prezzo = 7900
-marca = ford
-modello = fiesta
-km = 159000
-anno = 03-2019
-link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-5-ecoblue-tdci-85cv-my19-diesel-grigio-1b9a9aa8-bb2b-4f93-8294-06749687f9d3
-score = 16690.00039623576
-----------------------------------
-----------------------------------
-prezzo = 2490
-marca = ford
-modello = fiesta
-km = 165000
-anno = 02-2008
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-16v-5p-ghia-gpl-grigio-987d79d7-c8de-4c46-a662-86b44c3d723f
-score = 16749.000398406373
-----------------------------------
-----------------------------------
-prezzo = 3900
-marca = ford
-modello = fiesta
-km = 165000
-anno = 03-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-4-tdci-titanium-diesel-bianco-e25d9bbe-baf1-4365-9c28-0c78139caf7c
-score = 16890.00039800995
-----------------------------------
-----------------------------------
-prezzo = 3300
-marca = ford
-modello = fiesta
-km = 170000
-anno = 12-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-4-tdci-diesel-blu-azzurro-a1667107-3df7-4f12-8c0d-9bc6b824bfff
-score = 17330.000398208063
-----------------------------------
-----------------------------------
-prezzo = 3500
-marca = ford
-modello = fiesta
-km = 175000
-anno = 02-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-tdci-titanium-c-esp-diesel-bianco-b9ed6145-15f0-4602-a22f-ff23d8ebdc2a
-score = 17850.000397812033
-----------------------------------
-----------------------------------
-prezzo = 3500
-marca = ford
-modello = fiesta
-km = 175000
-anno = 10-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-4-tdci-c-esp-e5-diesel-blu-azzurro-b8c804ac-5b59-4fc9-b27f-b8b5cf54f34e
-score = 17850.000397812033
-----------------------------------
-----------------------------------
-prezzo = 9000
-marca = ford
-modello = fiesta
-km = 170000
-anno = 08-2018
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-x-neopatentati-bluetooth-my-18-6-marce-diesel-nero-111801d6-4cce-4629-b0b3-eb0cab1cfc7f
-score = 17900.00039643211
-----------------------------------
-----------------------------------
-prezzo = 3600
-marca = ford
-modello = fiesta
-km = 177000
-anno = 03-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-16v-gpl-gpl-blu-azzurro-aa86f10a-5ca3-4302-a39e-322fbeb16890
-score = 18060.00039800995
-----------------------------------
-----------------------------------
-prezzo = 2200
-marca = ford
-modello = fiesta
-km = 180000
-anno = 06-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-titanium-82cv-benzina-rosso-dcefbf05-ada7-41c3-98c3-5c1af7d12c18
-score = 18220.00039800995
-----------------------------------
-----------------------------------
-prezzo = 3400
-marca = ford
-modello = fiesta
-km = 182115
-anno = 01-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-tdci-68cv-3-porte-diesel-nero-ac1fee08-be67-4b1b-9154-c23f8cf04ef3
-score = 18551.500398009954
-----------------------------------
-----------------------------------
-prezzo = 3500
-marca = ford
-modello = fiesta
-km = 186000
-anno = 11-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-2-16v-titanium-82cv-benzina-bianco-bc046fb6-f4f4-4983-b075-042fc6ec3de0
-score = 18950.000398009954
-----------------------------------
-----------------------------------
-prezzo = 500
-marca = ford
-modello = fiesta
-km = 189000
-anno = 04-1978
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-900-l-benzina-blu-azzurro-02926f4b-f371-4ec9-9eb6-e15ba7b03017
-score = 18950.00040444894
-----------------------------------
-----------------------------------
-prezzo = 5000
-marca = ford
-modello = fiesta
-km = 188711
-anno = 01-2014
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-titanium-75cv-diesel-blu-azzurro-11292841-cc93-4e03-8874-c67f8a49d56b
-score = 19371.100397219467
-----------------------------------
-----------------------------------
-prezzo = 6400
-marca = ford
-modello = fiesta
-km = 190106
-anno = 05-2016
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-titanium-100cv-e6-unico-proprieta-benzina-blu-azzurro-e92c041b-b67e-4582-87c9-31d43536fcf6
-score = 19650.6003968254
-----------------------------------
-----------------------------------
-prezzo = 2599
-marca = ford
-modello = fiesta
-km = 202000
-anno = 02-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2008-3p-1-2-16v-82cv-benzina-nero-b96d7d42-5850-4f46-956e-17de153ac05a
-score = 20459.900398208065
-----------------------------------
-----------------------------------
-prezzo = 4500
-marca = ford
-modello = fiesta
-km = 203000
-anno = 09-2013
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-titanium-75cv-diesel-bianco-04347b66-c314-4e80-8454-7f53927de98b
-score = 20750.000397416792
-----------------------------------
-----------------------------------
-prezzo = 2500
-marca = ford
-modello = fiesta
+prezzo = 6500
+marca = toyota
+modello = prius
 km = 217000
+anno = 09-2004
+link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-5-ibrida-elettrica-benzina-argento-5a77d7bc-7b60-411e-8d48-dbe5508c0368
+score = 3900.0001007220585
+----------------------------------
+----------------------------------
+prezzo = 6500
+marca = toyota
+modello = prius
+km = 372000
 anno = 07-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2008-5p-1-4-16v-titanium-gpl-gpl-nero-7642d5fa-20a1-46fc-b255-69d6cb2bb928
-score = 21950.000398208067
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-executive-elettrica-benzina-bianco-aa1b95b0-5bd1-4fb6-b124-dc241e1e703d
+score = 3900.0001000896505
 ----------------------------------
 ----------------------------------
-prezzo = 2950
-marca = ford
-modello = fiesta
-km = 221464
-anno = 01-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-4-tdci-titanium-diesel-blu-azzurro-196c4fcd-eeaf-4fc4-aac1-a5cb864b83a2
-score = 22441.40039800995
-----------------------------------
-----------------------------------
-prezzo = 1800
-marca = ford
-modello = fiesta
+prezzo = 6250
+marca = toyota
+modello = prius
 km = 230000
-anno = 10-2009
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-tdci-titanium-diesel-rosso-4c4ef0e8-fd20-4a0e-9ecc-42d5e40b7a02
-score = 23180.000398208067
+anno = 09-2007
+link = https://www.autoscout24.it//annunci/toyota-prius-1-5-ibrida-78cv-elettrica-benzina-grigio-af36bd74-f79e-4a9b-8a62-75f2ec41f482
+score = 3750.000100520786
 ----------------------------------
 ----------------------------------
-prezzo = 2500
-marca = ford
-modello = fiesta
-km = 230000
-anno = 10-2011
-link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-82cv-gpl-nero-c6a6ac9c-8221-413d-b7ae-9ed9db957b97
-score = 23250.000397812037
+prezzo = 6000
+marca = toyota
+modello = prius
+km = 318370
+anno = 08-2013
+link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-active-elettrica-benzina-bianco-b2f87828-4a95-4964-85b0-0124bd03c299
+score = 3600.0000999823974
 ----------------------------------
 ----------------------------------
-prezzo = 2990
-marca = ford
-modello = fiesta
-km = 235000
-anno = 09-2010
-link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-2-16v-titanium-c-esp-82cv-e5-benzina-nero-d4d4b168-10bf-4afb-b8e6-9b8823c8e80b
-score = 23799.00039800995
+prezzo = 5000
+marca = toyota
+modello = prius
+km = 285000
+anno = 09-2008
+link = https://www.autoscout24.it//annunci/toyota-prius-hybrid-executive-elettrica-benzina-nero-4181f418-790a-4691-ba9c-a00cd69b18a1
+score = 3000.000100303348
 ----------------------------------
 ----------------------------------
-prezzo = 1750
-marca = ford
-modello = fiesta
-km = 237225
-anno = 09-2012
-link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-tdci-70cv-5-porte-titanium-sinistrata-diesel-bianco-3aa534e7-5ff7-4b69-939b-209c04081e5b
-score = 23897.500397614316
-----------------------------------
-----------------------------------
-prezzo = 3700
-marca = ford
-modello = fiesta
-km = 240000
-anno = 07-2015
-link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-5-tdci-75cv-diesel-bianco-1dcb4f15-4587-4080-8765-7241f3c7e445
-score = 24370.000397022333
+prezzo = 3200
+marca = toyota
+modello = prius
+km = 323500
+anno = 09-2007
+link = https://www.autoscout24.it//annunci/toyota-prius-anno-2007-elettrica-benzina-bianco-785eaf8f-87c5-4837-9553-e3a941abe51a
+score = 1920.000100269459
 ----------------------------------

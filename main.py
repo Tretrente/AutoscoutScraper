@@ -4,8 +4,8 @@ from annuncio import Annuncio
 
 totalResults=0
 annunci = []
-make = "ford"
-model = "fiesta"
+make = "toyota"
+model = "prius"
 
 #Create the link for the search page
 #TODO implement more search filter
@@ -83,11 +83,11 @@ def categorization():
             old.append(a)
     with open('lista.txt', 'w') as file:
         file.write("++++++++++++++++++++++++++++++++ NEW CARS ++++++++++++++++++++++++++++++++")
-    new = sorted(new, key=lambda x: x.score)
+    new = sorted(new, key=lambda x: x.score, reverse=True)
     printList(new)
     with open('lista.txt', 'a') as file:
         file.write("++++++++++++++++++++++++++++++++ OLD CARS ++++++++++++++++++++++++++++++++")
-    old = sorted(old, key=lambda x: x.score)
+    old = sorted(old, key=lambda x: x.score, reverse=True)
     printList(old)
 
 
@@ -106,4 +106,3 @@ def start():
     categorization()
 
 start()
-
