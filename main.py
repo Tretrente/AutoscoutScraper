@@ -4,8 +4,8 @@ from annuncio import Annuncio
 
 totalResults=0
 annunci = []
-make = "toyota"
-model = "prius"
+make = "audi"
+model = "a7"
 minPrice = 0
 maxPrice = 0
 minKm = 0
@@ -92,18 +92,18 @@ def categorization():
         a.score = scoreCalculator(a.price, a.km, a.year)
     with open('lista.txt', 'w') as file:
         file.write("++++++++++++++++++++++++++++++++ NEW CARS ++++++++++++++++++++++++++++++++")
-    new = sorted(new, key=lambda x: x.score, reverse=True)
+    new = sorted(new, key=lambda x: x.score, reverse=False)
     printList(new)
     with open('lista.txt', 'a') as file:
         file.write("++++++++++++++++++++++++++++++++ OLD CARS ++++++++++++++++++++++++++++++++")
-    old = sorted(old, key=lambda x: x.score, reverse=True)
+    old = sorted(old, key=lambda x: x.score, reverse=False)
     printList(old)
 
 def minmax(list):
     global minPrice
     global maxPrice
     global minKm
-    global maxKm 
+    global maxKm
     global minYear
     global maxYear
     minPrice = list[0].price
@@ -139,12 +139,13 @@ def scoreCalculator(price: int, km: int, year):
     normalizedPrice = normalizedValue(price, minPrice, maxPrice)
     normalizedKm = normalizedValue(km, minKm, maxKm)
     normalizedYear = normalizedValue(year, minYear, maxYear)
-    convenience_score = (0.6 * normalizedPrice) + (0.2*normalizedKm) + (0.2 * normalizedYear)
+    convenience_score = (0.5 * normalizedPrice) + (0.2 * normalizedKm) + (0.3 * normalizedYear)
     return convenience_score
 
 def normalizedValue(value, min, max):
     normalized = (value-min)/(max -min)
     return normalized
+
 
 
 #Start the program

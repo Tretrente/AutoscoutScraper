@@ -1,612 +1,1773 @@
 ++++++++++++++++++++++++++++++++ NEW CARS ++++++++++++++++++++++++++++++++----------------------------------
-prezzo = 36300
-marca = toyota
-modello = prius
+prezzo = 81800
+marca = audi
+modello = a7
 km = 1
 anno = 2024
-link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-elettrica-benzina-nero-64fda34a-04d4-4468-8c82-228e76d7388d
+link = https://www.autoscout24.it//annunci/audi-a7-spb-40tdi-204cv-q-str-business-advanced-l-90-799-elettrica-diesel-bianco-de1927cc-4ce2-4970-8f97-65587a997bd4
 score = 0
 ----------------------------------
 ----------------------------------
-prezzo = 36000
-marca = toyota
-modello = prius
+prezzo = 96500
+marca = audi
+modello = a7
 km = 1
 anno = 2024
-link = https://www.autoscout24.it//annunci/toyota-prius-2-0-phev-lounge-elettrica-benzina-603c5a6e-e838-4137-917f-6f7309bed603
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-55-2-0-tfsi-e-s-line-edition-quattro-265-elettrica-benzina-5fb76f12-0b01-450d-ba76-889598161f0d
 score = 0
 ----------------------------------
 ----------------------------------
-prezzo = 37000
-marca = toyota
-modello = prius
+prezzo = 76800
+marca = audi
+modello = a7
 km = 1
 anno = 2024
-link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-pronta-consegna-elettrica-benzina-grigio-c5f98d69-c346-4c0b-864c-cdb85b6259a1
+link = https://www.autoscout24.it//annunci/audi-a7-spb-40-2-0-tdi-s-tronic-business-advanced-elettrica-diesel-nero-ebef141b-949c-4d60-854d-eab20c5961d4
 score = 0
 ----------------------------------
 ----------------------------------
-prezzo = 38500
-marca = toyota
-modello = prius
-km = 40
+prezzo = 83000
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-40-2-0-tdi-mhev-12v-business-advanced-qu-elettrica-diesel-blu-azzurro-ad6e6126-465e-4565-b294-96daf4331367
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 79000
+marca = audi
+modello = a7
+km = 10
 anno = 2023
-link = https://www.autoscout24.it//annunci/toyota-prius-2-0-phev-active-plug-in-hybrid-elettrica-benzina-grigio-4a012640-ad19-4959-937d-23984c9af849
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-45-3-0-tdi-mhev-quattro-s-tronic-elettrica-diesel-nero-22dd8821-b24d-4cb6-9fee-7cf4e6d2da3f
 score = 0
 ----------------------------------
 ----------------------------------
-prezzo = 46000
-marca = toyota
-modello = prius
+prezzo = 145790
+marca = audi
+modello = a7
 km = 1
 anno = 2024
-link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-elettrica-benzina-bianco-32c497d0-190e-4e8f-88ff-10882a406ce8
+link = https://www.autoscout24.it//annunci/audi-a7-rs-7-spb-quattro-tiptronic-performance-elettrica-benzina-argento-058d9b5c-2424-4053-afb1-0a31f0c2d0e7
 score = 0
 ----------------------------------
 ----------------------------------
-prezzo = 42160
-marca = toyota
-modello = prius
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-active-elettrica-benzina-argento-bc1dd017-abc5-4bf1-baf7-0ec9a584b2aa
+prezzo = 79000
+marca = audi
+modello = a7
+km = 10
+anno = 2023
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-45-3-0-tdi-mhev-quattro-s-tronic-elettrica-diesel-nero-24315e2d-461f-4014-a4e9-b81e77404d6b
 score = 0
 ----------------------------------
 ----------------------------------
-prezzo = 42000
-marca = toyota
-modello = prius
+prezzo = 62790
+marca = audi
+modello = a7
 km = 1
 anno = 2024
-link = https://www.autoscout24.it//annunci/toyota-prius-2-0-phev-lounge-elettrica-benzina-grigio-58a19a3f-64e1-4b4a-b5eb-3b8fd6e963bd
+link = https://www.autoscout24.it//annunci/audi-a7-spb-40-2-0-tfsi-s-tronic-elettrica-benzina-argento-7129c9ef-27ef-47a1-8ad6-5f5103244d3b
 score = 0
 ----------------------------------
 ----------------------------------
-prezzo = 46760
-marca = toyota
-modello = prius
+prezzo = 87890
+marca = audi
+modello = a7
 km = 1
 anno = 2024
-link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-elettrica-benzina-argento-b3e52865-aff3-40a8-b6db-2c52b0517574
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-business-advanced-40-tdi-quattro-150-204-elettrica-diesel-nero-c86a58cc-b531-4aa2-9683-bcf0fc9e9fc1
 score = 0
 ----------------------------------
 ----------------------------------
-prezzo = 43210
-marca = toyota
-modello = prius
+prezzo = 66820
+marca = audi
+modello = a7
 km = 1
 anno = 2024
-link = https://www.autoscout24.it//annunci/toyota-prius-2-0-plug-in-hybrid-lounge-elettrica-benzina-argento-b9972ce0-19ed-4896-946f-9061487e8781
+link = https://www.autoscout24.it//annunci/audi-a7-spb-40-2-0-tdi-s-tronic-business-advanced-elettrica-diesel-argento-7d8e00fa-1fe7-4abc-a6c3-c24374506462
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 76190
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-55-3-0-tfsi-quattro-ultra-s-tronic-elettrica-benzina-argento-5dfcf8fd-26a8-4814-bfbd-ca4f426c13db
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 66020
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-40-2-0-tdi-quattro-ultra-s-tronic-elettrica-diesel-argento-21e8d943-83b3-46cf-afb0-cf2b5daa2731
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 75260
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-45-3-0-tdi-quattro-ultra-s-tronic-business-adv-elettrica-diesel-argento-debe584c-990e-495c-b1b2-9d3de4584015
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 93200
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-45-3-0-tdi-quattro-ultra-s-tronic-business-ad-elettrica-diesel-nero-f4ab8c75-b259-40d8-a360-f9b2c4aebbf6
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 65130
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-45-2-0-tfsi-s-tronic-elettrica-benzina-argento-64c294cf-40cc-4615-8164-28c8fa102f86
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 79940
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-55-3-0-tfsi-quattro-ultra-s-tronic-business-ad-elettrica-benzina-argento-c0da86e6-f874-413d-a68a-7eec228cf41c
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 63070
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-40-2-0-tdi-s-tronic-elettrica-diesel-argento-111b58d6-3184-4214-bb55-3da8de0cb257
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 68090
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-45-2-0-tfsi-quattro-ultra-s-tronic-elettrica-benzina-argento-51c5436e-108a-443b-8675-245e7ee0487a
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 71510
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-45-3-0-tdi-quattro-ultra-s-tronic-elettrica-diesel-argento-77bcf747-be1b-47d1-bdb9-7595dec76747
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 77830
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-business-advanced-elettrica-diesel-argento-c22b31a2-4c67-4bdb-9cce-c317834c5549
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 69770
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-40-2-0-tdi-quattro-ultra-s-tronic-business-adv-elettrica-diesel-argento-f13e7bf0-f3d0-40a0-a80c-4bc6d272a782
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 74080
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-elettrica-diesel-argento-29ae60ab-493e-4a8e-8bd6-5658dd7b13de
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 68880
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-45-2-0-tfsi-s-tronic-business-advanced-elettrica-benzina-argento-b73bf80e-1f92-47b6-ab83-83e326096862
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 71830
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-45-2-0-tfsi-quattro-ultra-s-tronic-business-ad-elettrica-benzina-argento-204ad079-efc7-4a4c-9f8f-5edf9b62045c
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 66540
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-40-2-0-tfsi-s-tronic-business-advanced-elettrica-benzina-argento-e886c5c3-8485-4479-ae80-e01d887dfcd6
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 88750
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-55-2-0-tfsi-e-quattro-ultra-s-tronic-s-line-pl-elettrica-benzina-argento-b500d027-aa31-4b45-8de6-2267182cb3ed
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 78110
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50-2-0-tfsi-e-quattro-ultra-s-tronic-business-elettrica-benzina-argento-7951ab82-9ce9-4b4a-b77b-96d84cb908c7
+score = 0
+----------------------------------
+----------------------------------
+prezzo = 76100
+marca = audi
+modello = a7
+km = 1
+anno = 2024
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50-2-0-tfsi-e-quattro-ultra-s-tronic-elettrica-benzina-argento-a9fcf766-2706-4ecd-88c7-d70759914de2
 score = 0
 ----------------------------------
 ++++++++++++++++++++++++++++++++ OLD CARS ++++++++++++++++++++++++++++++++----------------------------------
-prezzo = 33000
-marca = toyota
-modello = prius
-km = 5216
-anno = 2022
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-1-8h-ecvt-my22-elettrica-benzina-bianco-471fcaa1-ba38-4b01-99fa-d1c0ea6816b2
-score = 0.8
+prezzo = 17500
+marca = audi
+modello = a7
+km = 101000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-aff05113-6f8c-4e6e-83e7-8d386fc1db49
+score = 0.12368190691422205
 ----------------------------------
 ----------------------------------
-prezzo = 26900
-marca = toyota
-modello = prius
-km = 21835
-anno = 2021
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-lounge-awd-i-ecvt-my20-elettrica-benzina-grigio-025595b6-9b06-4411-8e6d-106eeeef1570
-score = 0.6751321061905299
+prezzo = 17500
+marca = audi
+modello = a7
+km = 101000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-aa5a6702-9454-4df0-8f20-de046a0e3d9c
+score = 0.12368190691422205
 ----------------------------------
 ----------------------------------
-prezzo = 25999
-marca = toyota
-modello = prius
-km = 24052
-anno = 2022
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-plug-in-234-elettrica-benzina-bianco-d97bfb83-fd2d-4460-b6c9-128e45b8927f
-score = 0.6693111635881155
+prezzo = 14950
+marca = audi
+modello = a7
+km = 160000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-0668a3a2-17b4-40ea-b4a7-7ec7eeeddb1b
+score = 0.14212197799613724
 ----------------------------------
 ----------------------------------
-prezzo = 25500
-marca = toyota
-modello = prius
-km = 68000
-anno = 2019
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-awd-lounge-elettrica-benzina-blu-azzurro-1635407f-eaa6-4b47-8a46-b2d7787d5410
-score = 0.6498948182829207
+prezzo = 17990
+marca = audi
+modello = a7
+km = 144000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-bronzo-6e97c13b-080e-41b6-9cac-e81cb93efb01
+score = 0.1518174333441097
 ----------------------------------
 ----------------------------------
-prezzo = 23900
-marca = toyota
-modello = prius
-km = 74413
-anno = 2021
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-awd-lounge-elettrica-benzina-argento-8e1bfe20-50bf-492e-983a-395165258b4f
-score = 0.6433991564025523
-----------------------------------
-----------------------------------
-prezzo = 23900
-marca = toyota
-modello = prius
-km = 89000
-anno = 2020
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-elettrica-benzina-bianco-b418f8e0-1bb0-48f4-be26-8755c8eb1bcb
-score = 0.6402420454659309
-----------------------------------
-----------------------------------
-prezzo = 24900
-marca = toyota
-modello = prius
-km = 20448
-anno = 2021
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-ecvt-awd-i-lou-my20-elettrica-benzina-bianco-61d2be43-234d-437a-9930-e8c16c5b7938
-score = 0.6341073463772455
-----------------------------------
-----------------------------------
-prezzo = 23900
-marca = toyota
-modello = prius
-km = 47900
-anno = 2019
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-plug-in-elettrica-benzina-blu-azzurro-cc2e3361-0848-41ca-bf1d-e43c185f14d1
-score = 0.6067199240599324
-----------------------------------
-----------------------------------
-prezzo = 22400
-marca = toyota
-modello = prius
-km = 59000
-anno = 2021
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iv-2019-1-8h-lounge-awd-i-ecvt-my20-elettrica-benzina-grigio-9395b368-f5b3-4a0d-8385-2371b74b9e1e
-score = 0.6047934126200625
-----------------------------------
-----------------------------------
-prezzo = 23400
-marca = toyota
-modello = prius
-km = 62500
-anno = 2019
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-plug-in-elettrica-benzina-blu-azzurro-98d1829f-ec47-4000-a71a-c7fb9bd5b360
-score = 0.6046138987811881
-----------------------------------
-----------------------------------
-prezzo = 22900
-marca = toyota
-modello = prius
-km = 94972
-anno = 2018
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-elettrica-benzina-bianco-bf73d8fc-6a26-4260-9890-128ca1673616
-score = 0.6011420075492457
+prezzo = 19900
+marca = audi
+modello = a7
+km = 130000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-nero-bae6592f-aad9-4b3b-af01-b722d74944c5
+score = 0.15560764880497438
 ----------------------------------
 ----------------------------------
 prezzo = 21000
-marca = toyota
-modello = prius
-km = 95000
-anno = 2020
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-i-1-8h-plug-in-elettrica-benzina-grigio-5006904e-b11a-4578-bf94-4d256af450be
-score = 0.5851244640559845
+marca = audi
+modello = a7
+km = 127000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-v6-tfsi-quattro-s-tronic-pelle-navi-led-benzina-beige-31878a9d-6be7-4b61-9b6d-1ae289cbf7c8
+score = 0.16074215098053776
 ----------------------------------
 ----------------------------------
-prezzo = 23200
-marca = toyota
-modello = prius
-km = 28238
-anno = 2019
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-h-lounge-awd-i-ecvt-elettrica-benzina-verde-bf97563c-253c-4d86-aaa5-3373a3b40a4c
-score = 0.581904667870528
+prezzo = 16999
+marca = audi
+modello = a7
+km = 170000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-bronzo-4fd8cef0-d0cf-498f-b368-88c0fb25b4c4
+score = 0.16077414929438177
 ----------------------------------
 ----------------------------------
-prezzo = 22000
-marca = toyota
-modello = prius
-km = 72000
-anno = 2018
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-2017-1-8h-plug-in-elettrica-benzina-bianco-0452d707-4c2d-413e-aeaa-25264e7124bf
-score = 0.5704950287374382
-----------------------------------
-----------------------------------
-prezzo = 21500
-marca = toyota
-modello = prius
-km = 43210
-anno = 2020
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-lounge-awd-i-ecvt-my20-elettrica-benzina-blu-azzurro-b1431207-b2b0-413d-8697-5c62a218d9c0
-score = 0.5669515240581626
-----------------------------------
-----------------------------------
-prezzo = 21350
-marca = toyota
-modello = prius
-km = 54076
-anno = 2019
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-active-elettrica-benzina-blu-azzurro-d5b2ff7e-5bb4-4799-b51d-cd52121b6ab5
-score = 0.5587452918055851
-----------------------------------
-----------------------------------
-prezzo = 21400
-marca = toyota
-modello = prius
-km = 49911
-anno = 2018
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-style-elettrica-benzina-bianco-984fa333-d8c9-4348-8671-3cd74e901b01
-score = 0.5463698006713101
+prezzo = 17500
+marca = audi
+modello = a7
+km = 170000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-argento-7e61997e-f112-49bd-98e5-1fbb8b155176
+score = 0.163909279017414
 ----------------------------------
 ----------------------------------
 prezzo = 20000
-marca = toyota
-modello = prius
-km = 74000
-anno = 2019
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-plug-in-5posti-elettrica-benzina-grigio-ed4464e1-fb22-4b3a-a18a-ab9ce09804b4
-score = 0.5424282435843837
+marca = audi
+modello = a7
+km = 145000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-nero-9f030cb8-0997-42b6-bd03-4f1bf3904543
+score = 0.16497850409278744
 ----------------------------------
 ----------------------------------
-prezzo = 17900
-marca = toyota
-modello = prius
-km = 170000
-anno = 2018
-link = https://www.autoscout24.it//annunci/toyota-prius-phv-prius-1-8h-plug-in-elettrica-benzina-rosso-41088782-d5ac-4ade-a682-b02c6adcf07b
-score = 0.5413821386389628
+prezzo = 18999
+marca = audi
+modello = a7
+km = 160000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-tdi-245-cv-quattro-s-tronic-diesel-grigio-967bbc2e-e538-470e-b2fe-d05ff20c8d63
+score = 0.16745958328267935
 ----------------------------------
 ----------------------------------
-prezzo = 20900
-marca = toyota
-modello = prius
-km = 70300
-anno = 2017
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-elettrica-benzina-blu-azzurro-87d4042b-194f-46c7-9dae-e01ec2529603
-score = 0.5363092905246932
-----------------------------------
-----------------------------------
-prezzo = 20900
-marca = toyota
-modello = prius
-km = 56110
-anno = 2017
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-navigatore-elettrica-benzina-grigio-3f926a1d-2a87-4fa0-8666-d05022095c70
-score = 0.5285717665323708
-----------------------------------
-----------------------------------
-prezzo = 20900
-marca = toyota
-modello = prius
-km = 47533
-anno = 2017
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-plug-in-navigatore-fino-a-3-anni-di-garan-elettrica-benzina-verde-9708e1c7-cb7d-4ae8-9067-72c08345e522
-score = 0.5238948994934596
-----------------------------------
-----------------------------------
-prezzo = 18900
-marca = toyota
-modello = prius
-km = 122000
-anno = 2016
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-style-elettrica-benzina-nero-acbfdf19-94cd-48b6-93a5-693ce07d63ed
-score = 0.5131207019244994
-----------------------------------
-----------------------------------
-prezzo = 17900
-marca = toyota
-modello = prius
-km = 102177
-anno = 2017
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-style-elettrica-benzina-blu-azzurro-64c63ac6-2d72-4864-9139-b7978651cc63
-score = 0.49328849830084065
-----------------------------------
-----------------------------------
-prezzo = 16800
-marca = toyota
-modello = prius
-km = 109000
-anno = 2018
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-72-kw-ecvt-elettrica-benzina-grigio-c9d8e35f-a15b-48d0-883b-835ae5d1eed3
-score = 0.485972404226214
-----------------------------------
-----------------------------------
-prezzo = 16200
-marca = toyota
-modello = prius
-km = 146621
-anno = 2017
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-style-elettrica-benzina-bianco-686a62e5-b354-483c-a69b-ed8ae253491b
-score = 0.4832947371829829
-----------------------------------
-----------------------------------
-prezzo = 12900
-marca = toyota
-modello = prius
-km = 264700
-anno = 2017
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iv-2016-1-8h-active-ecvt-my18-elettrica-benzina-bianco-ce336f68-b4a9-4ad5-924e-f0dc86386e39
-score = 0.48123790787598775
-----------------------------------
-----------------------------------
-prezzo = 14900
-marca = toyota
-modello = prius
-km = 175400
-anno = 2016
-link = https://www.autoscout24.it//annunci/toyota-prius-elettrica-benzina-bianco-61b69053-1e4b-44a8-95e9-942cde7456a0
-score = 0.46170174415450016
-----------------------------------
-----------------------------------
-prezzo = 14300
-marca = toyota
-modello = prius
-km = 175000
-anno = 2016
-link = https://www.autoscout24.it//annunci/toyota-prius-hybrid-elettrica-benzina-argento-0103a8b6-8df9-44b3-b037-7e702c132f9f
-score = 0.4494030952194139
-----------------------------------
-----------------------------------
-prezzo = 15000
-marca = toyota
-modello = prius
-km = 99950
-anno = 2016
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-active-elettrica-benzina-blu-azzurro-559cded3-e0e4-4e9d-a79b-2f30b753fe0d
-score = 0.4225737867604148
-----------------------------------
-----------------------------------
-prezzo = 15000
-marca = toyota
-modello = prius
-km = 80000
-anno = 2016
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iv-2016-1-8h-style-ecvt-elettrica-benzina-grigio-e96871a8-7b1b-4d52-ba31-e219bba084cf
-score = 0.4116954496464731
-----------------------------------
-----------------------------------
-prezzo = 10500
-marca = toyota
-modello = prius
-km = 284000
-anno = 2013
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2012-1-8h-active-ecvt-elettrica-benzina-nero-e1767ae1-d0ff-4ad9-8f6c-8f7b245ea9db
-score = 0.3989952208581844
+prezzo = 18000
+marca = audi
+modello = a7
+km = 176000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-3-0-tdi-quattro-s-tronic-diesel-bianco-5fa07b18-6cab-4737-8bc6-d5e2c0e59fc1
+score = 0.17053618335328743
 ----------------------------------
 ----------------------------------
 prezzo = 15500
-marca = toyota
-modello = prius
-km = 35800
-anno = 2016
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iv-2016-1-8h-style-ecvt-e6-elettrica-benzina-blu-azzurro-73643b20-ba4f-485e-bb26-a2b547204d99
-score = 0.39766118527245164
+marca = audi
+modello = a7
+km = 245000
+anno = 2010
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-i-3-0-v6-tdi-quattro-s-tronic-diesel-blu-azzurro-751385b1-ae0f-4652-b44b-14595d0e1711
+score = 0.17204227248418574
 ----------------------------------
 ----------------------------------
-prezzo = 8500
-marca = toyota
-modello = prius
-km = 334500
-anno = 2014
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8h-active-ecvt-elettrica-benzina-bianco-81b5f35b-4132-4892-8904-1429128c0d8a
-score = 0.39737451841320887
+prezzo = 22000
+marca = audi
+modello = a7
+km = 151000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-bianco-d8544920-b0c4-4ddc-b95e-5c39e7d485e8
+score = 0.18099202436588316
 ----------------------------------
 ----------------------------------
-prezzo = 10900
-marca = toyota
-modello = prius
-km = 262704
-anno = 2013
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8-active-plug-in-elettrica-benzina-bianco-b6016f1d-151b-49ea-b9cc-80a1898ec461
-score = 0.3954366280642544
+prezzo = 20000
+marca = audi
+modello = a7
+km = 185000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-blu-azzurro-f04f2f8e-a7f4-400a-b10a-cdff3d85cf04
+score = 0.1882987198047828
 ----------------------------------
 ----------------------------------
-prezzo = 11900
-marca = toyota
-modello = prius
-km = 180000
-anno = 2014
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-lounge-elettrica-benzina-bianco-f9569d0c-abb1-49bf-90ff-9f926acea8c0
-score = 0.38158512562536834
+prezzo = 14990
+marca = audi
+modello = a7
+km = 239000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-d85b8023-6be8-43a4-a9d1-8661e898557f
+score = 0.18842971378565398
+----------------------------------
+----------------------------------
+prezzo = 13800
+marca = audi
+modello = a7
+km = 255300
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-3-0-tdi-multitronic-diesel-verde-f9649242-1632-4a0c-afa3-d8c9c03f923d
+score = 0.1904859863780957
+----------------------------------
+----------------------------------
+prezzo = 17500
+marca = audi
+modello = a7
+km = 180100
+anno = 2012
+link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-v6-tdi-245-cv-quattro-s-tronic-diesel-nero-37f62a77-238f-4563-8766-d5523d12a380
+score = 0.19287455656161592
 ----------------------------------
 ----------------------------------
 prezzo = 14000
-marca = toyota
-modello = prius
-km = 119792
-anno = 2013
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8-active-plug-in-elettrica-benzina-blu-azzurro-f9287345-9b3a-48bb-a673-ca458c2f5ced
-score = 0.3799256721070734
-----------------------------------
-----------------------------------
-prezzo = 9600
-marca = toyota
-modello = prius
-km = 270000
-anno = 2010
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2009-1-8-hsd-executive-elettrica-benzina-bianco-6a86590a-116c-433b-812e-20524b2805d4
-score = 0.33990716137401006
-----------------------------------
-----------------------------------
-prezzo = 6000
-marca = toyota
-modello = prius
-km = 318370
-anno = 2013
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-active-elettrica-benzina-bianco-b2f87828-4a95-4964-85b0-0124bd03c299
-score = 0.3271324695316534
-----------------------------------
-----------------------------------
-prezzo = 9500
-marca = toyota
-modello = prius
-km = 267000
-anno = 2009
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2009-1-8-hsd-active-elettrica-benzina-bianco-e27984de-45a7-407f-8f13-fecba6f60457
-score = 0.32514678727659707
-----------------------------------
-----------------------------------
-prezzo = 6500
-marca = toyota
-modello = prius
-km = 372000
-anno = 2009
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-executive-elettrica-benzina-bianco-aa1b95b0-5bd1-4fb6-b124-dc241e1e703d
-score = 0.3219985085756898
-----------------------------------
-----------------------------------
-prezzo = 8900
-marca = toyota
-modello = prius
-km = 280000
-anno = 2009
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8-hsd-executive-elettrica-benzina-bianco-c992ab24-0858-4a25-ace6-deefdbbc34ad
-score = 0.32015489108972217
-----------------------------------
-----------------------------------
-prezzo = 9500
-marca = toyota
-modello = prius
-km = 245000
-anno = 2009
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2009-1-8-hsd-elettrica-benzina-bianco-bced4726-6e86-4ddd-828d-0088240fa192
-score = 0.3131506260481901
-----------------------------------
-----------------------------------
-prezzo = 8500
-marca = toyota
-modello = prius
+marca = audi
+modello = a7
 km = 260000
-anno = 2010
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8-hybrid-doppio-acceleratore-per-disabili-elettrica-benzina-argento-718628f6-cd7e-41f5-9566-dbe5c01c4725
-score = 0.31230670980893194
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-i-2010-sportback-3-0-v6-tdi-quattro-s-diesel-blu-azzurro-b5f66f37-1fc2-470e-a641-66686d59751c
+score = 0.1944776605158848
 ----------------------------------
 ----------------------------------
-prezzo = 10990
-marca = toyota
-modello = prius
-km = 124600
+prezzo = 16800
+marca = audi
+modello = a7
+km = 234000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-diesel-8afb01d7-75be-43c7-8360-30afd0723ebc
+score = 0.1968412033859028
+----------------------------------
+----------------------------------
+prezzo = 22900
+marca = audi
+modello = a7
+km = 169000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-nero-2ebbcd2b-f6b9-435a-bbbe-7b18972cc8c7
+score = 0.19711809099861446
+----------------------------------
+----------------------------------
+prezzo = 23000
+marca = audi
+modello = a7
+km = 92200
+anno = 2013
+link = https://www.autoscout24.it//annunci/audi-a7-diesel-grigio-4f16721a-3fd5-4edf-b055-7d4f985c085c
+score = 0.1991228973812444
+----------------------------------
+----------------------------------
+prezzo = 20800
+marca = audi
+modello = a7
+km = 162000
 anno = 2012
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-100cv-hybrid-lounge-unip-full-elettrica-benzina-nero-61b62af2-1c95-4ea5-a420-2c741453d1d4
-score = 0.31083224065878745
+link = https://www.autoscout24.it//annunci/audi-a7-3-0v6-sportback-quattro-s-tronic-diesel-nero-9e43ce8f-422f-4839-90bd-33728c40b3ae
+score = 0.2029727140138271
 ----------------------------------
 ----------------------------------
-prezzo = 8500
-marca = toyota
-modello = prius
-km = 250000
-anno = 2010
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2010-1-8-hsd-executive-elettrica-benzina-bianco-a815d3f4-e315-4a83-8781-b3632b7b2956
-score = 0.3068539092505651
+prezzo = 18900
+marca = audi
+modello = a7
+km = 227000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-83ec6b54-62bf-4a76-8849-c65ed64b9786
+score = 0.20590142794841484
 ----------------------------------
 ----------------------------------
-prezzo = 8400
-marca = toyota
-modello = prius
-km = 246000
-anno = 2010
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-executive-elettrica-benzina-grigio-8aaedac9-e568-4cfa-8015-d6db039fb7c8
-score = 0.30265936620842643
+prezzo = 18000
+marca = audi
+modello = a7
+km = 239000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-blu-azzurro-7928fee3-a961-4981-b8ed-bc42be91efa3
+score = 0.20726552309968008
 ----------------------------------
 ----------------------------------
-prezzo = 7300
-marca = toyota
-modello = prius
-km = 285000
-anno = 2010
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-active-elettrica-benzina-bianco-c8a45437-2366-47c5-9547-be0b3fdb734e
-score = 0.3017776373793455
-----------------------------------
-----------------------------------
-prezzo = 6900
-marca = toyota
-modello = prius
-km = 209000
+prezzo = 20000
+marca = audi
+modello = a7
+km = 179000
 anno = 2012
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-8h-active-ecvt-elettrica-benzina-bianco-09877880-448a-47c7-ac00-a7c23f5d4d54
-score = 0.27450488408281243
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-204cv-multitronic-diesel-grigio-7a4b8348-3ec4-4d3f-ba05-2b768125be14
+score = 0.20787761052490655
 ----------------------------------
 ----------------------------------
-prezzo = 8000
-marca = toyota
-modello = prius
-km = 199000
-anno = 2009
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-iii-2009-1-8-hsd-elettrica-benzina-argento-9abcd5bd-197f-46b2-aef7-72d54cfad7aa
-score = 0.2578664011978238
+prezzo = 26500
+marca = audi
+modello = a7
+km = 110000
+anno = 2012
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-business-plus-quattro-diesel-nero-f28f25c1-2aa3-4338-9039-7525b49573ff
+score = 0.20832557414967795
 ----------------------------------
 ----------------------------------
-prezzo = 7499
-marca = toyota
-modello = prius
+prezzo = 16900
+marca = audi
+modello = a7
+km = 215000
+anno = 2012
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-1fd7bd93-a1ec-4b15-99fd-27b51ac8820a
+score = 0.2094667983954429
+----------------------------------
+----------------------------------
+prezzo = 18500
+marca = audi
+modello = a7
+km = 239000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-562b9738-7634-4959-8ee7-876cb071a379
+score = 0.21039439507875418
+----------------------------------
+----------------------------------
+prezzo = 23900
+marca = audi
+modello = a7
+km = 149000
+anno = 2012
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-204cv-s-tronic-diesel-grigio-0d06e757-e102-4fa3-be59-7ad77f3c4fa2
+score = 0.21479265017768806
+----------------------------------
+----------------------------------
+prezzo = 17900
+marca = audi
+modello = a7
+km = 180000
+anno = 2013
+link = https://www.autoscout24.it//annunci/audi-a7-a7-3-0-v6-tdi-quattro-s-tronic-diesel-marrone-0d56bd7b-73f7-452f-8a5d-fdede669f50a
+score = 0.2183962766825183
+----------------------------------
+----------------------------------
+prezzo = 16500
+marca = audi
+modello = a7
+km = 238000
+anno = 2012
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-blu-azzurro-a41d048f-578b-49b2-8e43-6053bc347267
+score = 0.22037282484658094
+----------------------------------
+----------------------------------
+prezzo = 19990
+marca = audi
+modello = a7
+km = 241000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-allestimento-s7-diesel-nero-0ea712ee-6b29-44c2-8bdc-4c89deae40e0
+score = 0.2208844443619948
+----------------------------------
+----------------------------------
+prezzo = 17000
+marca = audi
+modello = a7
+km = 155000
+anno = 2014
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-business-plus-quattro-s-troni-diesel-blu-azzurro-3236895d-f878-41f6-9774-db0df80fc7a9
+score = 0.2212660953771109
+----------------------------------
+----------------------------------
+prezzo = 18000
+marca = audi
+modello = a7
+km = 225000
+anno = 2012
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-nero-b6bfe9c8-dc17-4a7e-8ef0-acbdc2ce396b
+score = 0.22218037067740476
+----------------------------------
+----------------------------------
+prezzo = 22000
+marca = audi
+modello = a7
+km = 226000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-v6-tdi-quattro-s-tronic-diesel-argento-5c5b221d-6b2c-4aba-80e5-2ef1e212197c
+score = 0.22471742882587442
+----------------------------------
+----------------------------------
+prezzo = 15400
+marca = audi
+modello = a7
+km = 260000
+anno = 2012
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-nero-a45d8a26-e081-4ade-ad72-34d37190a64c
+score = 0.22631542513421538
+----------------------------------
+----------------------------------
+prezzo = 28000
+marca = audi
+modello = a7
+km = 204000
+anno = 2010
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tfsi-quattro-300cv-s-tronic-benzina-verde-d5c3a128-fc7a-438d-81f8-5976bfb38130
+score = 0.22636085085624316
+----------------------------------
+----------------------------------
+prezzo = 13500
+marca = audi
+modello = a7
+km = 321000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-nero-cfe7f519-3ca5-466e-acb7-f66ae7be6f11
+score = 0.2269121174976036
+----------------------------------
+----------------------------------
+prezzo = 26000
+marca = audi
+modello = a7
+km = 110000
+anno = 2013
+link = https://www.autoscout24.it//annunci/audi-a7-3-0-bitdi-business-plus-diesel-nero-7d60e647-1ef4-4206-a345-49587645addb
+score = 0.22827362524752692
+----------------------------------
+----------------------------------
+prezzo = 21700
+marca = audi
+modello = a7
+km = 200000
+anno = 2012
+link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-tfsi-300-cv-quattro-s-tronic-benzina-nero-2e65483d-2026-4996-9ee0-ad8c6f2e9960
+score = 0.23075888850255605
+----------------------------------
+----------------------------------
+prezzo = 9999
+marca = audi
+modello = a7
+km = 290000
+anno = 2013
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-clean-quattro-s-tronic-diesel-marrone-16e824a2-e724-400a-bcba-a9e471aa81cb
+score = 0.23308443487717648
+----------------------------------
+----------------------------------
+prezzo = 25900
+marca = audi
+modello = a7
+km = 162110
+anno = 2012
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-48be4ef5-d79d-41cb-a79e-d0f9403be749
+score = 0.23495133879359098
+----------------------------------
+----------------------------------
+prezzo = 25000
+marca = audi
+modello = a7
+km = 140000
+anno = 2013
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-245cv-aut-s-tronic-quattro-b-diesel-grigio-adeb4d42-1f23-4af9-9ee1-c6f08b08bde3
+score = 0.23950604307337522
+----------------------------------
+----------------------------------
+prezzo = 18500
+marca = audi
+modello = a7
+km = 249901
+anno = 2012
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tdi-204cv-diesel-nero-5688ca17-5c12-487b-a56b-5807db71ad58
+score = 0.23982665994258878
+----------------------------------
+----------------------------------
+prezzo = 17000
+marca = audi
+modello = a7
+km = 308000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-nero-25e2bbe6-7aff-4f0e-a026-94d8b18b30e2
+score = 0.2412351512447238
+----------------------------------
+----------------------------------
+prezzo = 24500
+marca = audi
+modello = a7
+km = 229000
+anno = 2011
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tfsi-quattro-300cv-s-tronic-benzina-nero-4c923095-3271-44f8-8d53-2c992ff3df14
+score = 0.2421108048996446
+----------------------------------
+----------------------------------
+prezzo = 23900
+marca = audi
+modello = a7
+km = 159000
+anno = 2013
+link = https://www.autoscout24.it//annunci/audi-a7-diesel-cbbcc744-9d5f-48c0-b003-26941c0f778d
+score = 0.24369962718260998
+----------------------------------
+----------------------------------
+prezzo = 26500
+marca = audi
+modello = a7
+km = 139000
+anno = 2013
+link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-v6-tdi-245-cv-quattro-s-tronic-s-line-diesel-nero-8d0e349c-4458-4832-8512-bf5cf1c9b213
+score = 0.24830965361779767
+----------------------------------
+----------------------------------
+prezzo = 16000
+marca = audi
+modello = a7
+km = 263000
+anno = 2013
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-nero-6b5c2a4b-7bbd-401e-a303-55ddf352e3f3
+score = 0.25489601076442703
+----------------------------------
+----------------------------------
+prezzo = 18500
+marca = audi
+modello = a7
+km = 238000
+anno = 2013
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-sportback-3-0-v6-tdi-business-plus-diesel-blu-azzurro-35cfd2dd-8b31-4ba8-b219-62fe6390ee21
+score = 0.25596523583980046
+----------------------------------
+----------------------------------
+prezzo = 17300
+marca = audi
+modello = a7
+km = 260000
+anno = 2013
+link = https://www.autoscout24.it//annunci/audi-a7-a7-3-0-v6-tdi-clean-quattro-s-tronic-s-line-diesel-grigio-a70dfd5c-35e2-4e9b-987c-0c7e60994adc
+score = 0.26128206173162005
+----------------------------------
+----------------------------------
+prezzo = 20500
+marca = audi
+modello = a7
+km = 190000
+anno = 2014
+link = https://www.autoscout24.it//annunci/audi-a7-audi-a7-s-line-quattro-diesel-nero-18d28af5-f4ef-49bd-b420-4f8a3be4b7c7
+score = 0.26357338797862556
+----------------------------------
+----------------------------------
+prezzo = 22000
+marca = audi
+modello = a7
+km = 260849
+anno = 2012
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-28b4add9-2339-4df1-9045-4ee5b64784cb
+score = 0.26811150683648066
+----------------------------------
+----------------------------------
+prezzo = 19500
+marca = audi
+modello = a7
+km = 210000
+anno = 2014
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-business-quattro-s-tronic-diesel-bianco-88e290f2-cb73-425c-b8be-23f7d40fc54c
+score = 0.26897575187647504
+----------------------------------
+----------------------------------
+prezzo = 16500
+marca = audi
+modello = a7
+km = 322000
+anno = 2012
+link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-tdi-245-cv-quattro-s-tronic-diesel-nero-776b9935-c5e9-43e6-944c-426f6af2e50f
+score = 0.2693452778417712
+----------------------------------
+----------------------------------
+prezzo = 16250
+marca = audi
+modello = a7
+km = 287000
+anno = 2013
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-business-quattro-s-tronic-diesel-grigio-13415a19-d1fe-4ec6-bf93-0fdd3b4cfe43
+score = 0.27045257618116125
+----------------------------------
+----------------------------------
+prezzo = 27500
+marca = audi
+modello = a7
+km = 97000
+anno = 2015
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-218cv-s-tr-diesel-grigio-da0950ba-6278-495b-9f13-2e83f1e01ebe
+score = 0.2762350172321969
+----------------------------------
+----------------------------------
+prezzo = 27800
+marca = audi
+modello = a7
 km = 175000
-anno = 2010
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-active-elettrica-benzina-argento-15f63c82-9721-4943-9823-2208b3e61352
-score = 0.2458035426467069
+anno = 2013
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-quattro-s-tronic-pacchetto-rs7-diesel-bianco-760a0285-a2ad-4704-b907-003c3f3a48e9
+score = 0.2774329149041861
 ----------------------------------
 ----------------------------------
-prezzo = 6800
-marca = toyota
-modello = prius
-km = 253132
-anno = 2007
-link = https://www.autoscout24.it//annunci/toyota-prius-1-5i-16v-elettrica-benzina-grigio-32753bbd-09f2-4424-a5a0-052542f4d4a5
-score = 0.2410002051326492
+prezzo = 20400
+marca = audi
+modello = a7
+km = 176000
+anno = 2015
+link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-tdi-business-plus-quattro-272cv-s-tronic-diesel-blu-azzurro-59d66890-9f0c-402b-b731-05d815b80091
+score = 0.2778624611605355
 ----------------------------------
 ----------------------------------
-prezzo = 5000
-marca = toyota
-modello = prius
-km = 285000
-anno = 2008
-link = https://www.autoscout24.it//annunci/toyota-prius-hybrid-executive-elettrica-benzina-nero-4181f418-790a-4691-ba9c-a00cd69b18a1
-score = 0.23324669032490852
+prezzo = 28700
+marca = audi
+modello = a7
+km = 91000
+anno = 2015
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-320cv-tiptronic-diesel-nero-9e18791b-7282-4f0b-9a24-e12ec6d5162b
+score = 0.2802462776251755
 ----------------------------------
 ----------------------------------
-prezzo = 6250
-marca = toyota
-modello = prius
+prezzo = 19500
+marca = audi
+modello = a7
 km = 230000
-anno = 2007
-link = https://www.autoscout24.it//annunci/toyota-prius-1-5-ibrida-78cv-elettrica-benzina-grigio-af36bd74-f79e-4a9b-8a62-75f2ec41f482
-score = 0.21731296137767944
+anno = 2014
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-diesel-nero-0565cac3-e61e-4437-95d8-54cc0f999566
+score = 0.2806358597324727
 ----------------------------------
 ----------------------------------
-prezzo = 3200
-marca = toyota
-modello = prius
-km = 323500
-anno = 2007
-link = https://www.autoscout24.it//annunci/toyota-prius-anno-2007-elettrica-benzina-bianco-785eaf8f-87c5-4837-9553-e3a941abe51a
-score = 0.20688725062525448
+prezzo = 28000
+marca = audi
+modello = a7
+km = 101000
+anno = 2015
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-s-tronic-diesel-nero-db1179df-46cc-41c7-946d-a34405d49d19
+score = 0.2816959107824706
 ----------------------------------
 ----------------------------------
-prezzo = 7000
-marca = toyota
-modello = prius
-km = 128000
-anno = 2009
-link = https://www.autoscout24.it//annunci/toyota-prius-1-8-hsd-active-elettrica-benzina-grigio-73ec6585-319c-40ed-b3f5-e3554c1d722d
-score = 0.19901728904550015
+prezzo = 16990
+marca = audi
+modello = a7
+km = 300000
+anno = 2013
+link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-v6-tdi-245-cv-quattro-s-line-diesel-nero-ad76f5b9-0044-4481-b4ca-2647076b9c06
+score = 0.28266237681658946
 ----------------------------------
 ----------------------------------
-prezzo = 7200
-marca = toyota
-modello = prius
-km = 108000
-anno = 2009
-link = https://www.autoscout24.it//annunci/toyota-prius-1-5-ibrida-78cv-elettrica-benzina-nero-a9187ce1-1b74-4013-a107-27068b246fd9
-score = 0.1921385335663505
+prezzo = 22500
+marca = audi
+modello = a7
+km = 208000
+anno = 2014
+link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-tdi-245cv-qu-s-tr-bus-plus-diesel-nero-a18a8555-c739-434c-814d-c7b61824feea
+score = 0.28658297296531987
 ----------------------------------
 ----------------------------------
-prezzo = 6500
-marca = toyota
-modello = prius
-km = 217000
-anno = 2004
-link = https://www.autoscout24.it//annunci/toyota-prius-prius-1-5-ibrida-elettrica-benzina-argento-5a77d7bc-7b60-411e-8d48-dbe5508c0368
-score = 0.1819245443654492
+prezzo = 26400
+marca = audi
+modello = a7
+km = 90000
+anno = 2016
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-tdi-218cv-s-tronic-diesel-grigio-7870bc18-c42e-4ac9-aa3f-c6ea6c911d21
+score = 0.2883473842055578
 ----------------------------------
 ----------------------------------
-prezzo = 7300
-marca = toyota
-modello = prius
+prezzo = 17000
+marca = audi
+modello = a7
+km = 352000
+anno = 2012
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-bronzo-31bad632-b07d-4b98-b72b-7c0a47f2c960
+score = 0.28996431160484176
+----------------------------------
+----------------------------------
+prezzo = 19999
+marca = audi
+modello = a7
+km = 209000
+anno = 2015
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-tdi-busi-plus-quattro-218cv-s-tro-diesel-nero-7ee00935-1d11-4358-bc54-b8decdecd6b5
+score = 0.2945922837957141
+----------------------------------
+----------------------------------
+prezzo = 29000
+marca = audi
+modello = a7
+km = 158000
+anno = 2014
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-1bc80dd5-cdad-462c-abb1-1fd15b07a11d
+score = 0.29810803905328903
+----------------------------------
+----------------------------------
+prezzo = 28500
+marca = audi
+modello = a7
+km = 164000
+anno = 2014
+link = https://www.autoscout24.it//annunci/audi-a7-3-0-tdi-ultra-diesel-bianco-b1da87dc-1742-40a2-a66d-af6f7d83ccbc
+score = 0.29847719943101425
+----------------------------------
+----------------------------------
+prezzo = 26500
+marca = audi
+modello = a7
+km = 155000
+anno = 2015
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-272cv-s-tr-diesel-nero-45b0b77a-6a9b-488e-bec7-0dd19bb3900b
+score = 0.30379158605644196
+----------------------------------
+----------------------------------
+prezzo = 30900
+marca = audi
+modello = a7
+km = 129000
+anno = 2015
+link = https://www.autoscout24.it//annunci/audi-a7-3-0tdi-272cv-s-line-pelle-ghiaccio-led-matrix-full-diesel-nero-088f2c4e-54c5-4376-8c54-fd01a48d0c19
+score = 0.3161675192594971
+----------------------------------
+----------------------------------
+prezzo = 31670
+marca = audi
+modello = a7
+km = 126000
+anno = 2015
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-quattro-272cv-s-tronic-diesel-nero-fac8bd74-7415-47ed-95ee-e6d7d0892797
+score = 0.31923696592887163
+----------------------------------
+----------------------------------
+prezzo = 25000
+marca = audi
+modello = a7
+km = 159000
+anno = 2016
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-272cv-s-tr-diesel-grigio-411808b1-1ba6-4e8f-a14b-4d036ca0be57
+score = 0.3198139147673422
+----------------------------------
+----------------------------------
+prezzo = 32000
+marca = audi
+modello = a7
+km = 104500
+anno = 2016
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-272cv-s-tr-diesel-argento-91066ea9-fbfc-4fa9-9971-922a7c823452
+score = 0.3318443285667861
+----------------------------------
+----------------------------------
+prezzo = 31900
+marca = audi
+modello = a7
+km = 110900
+anno = 2016
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-tagliandat-diesel-bronzo-5925653e-fa78-46e5-9b37-548cd6fb8963
+score = 0.3349497886848905
+----------------------------------
+----------------------------------
+prezzo = 36300
+marca = audi
+modello = a7
+km = 65735
+anno = 2016
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-tiptron-diesel-nero-bba1a572-969b-4155-a9b9-3f2fd5723bfc
+score = 0.3361524235349359
+----------------------------------
+----------------------------------
+prezzo = 26000
+marca = audi
+modello = a7
+km = 180250
+anno = 2016
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-quattro-272cv-s-tronic-diesel-blu-azzurro-6e6903cf-41ac-4248-b46f-8abd06399a08
+score = 0.338460523322488
+----------------------------------
+----------------------------------
+prezzo = 37500
+marca = audi
+modello = a7
+km = 65735
+anno = 2016
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-tiptron-diesel-nero-a022aad3-c8cf-420e-a72a-5c8b76769ae0
+score = 0.3436617162847137
+----------------------------------
+----------------------------------
+prezzo = 29000
+marca = audi
+modello = a7
+km = 160000
+anno = 2016
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-218cv-s-tr-diesel-oro-bf447633-13cf-4441-89fb-c8115f7b0b1a
+score = 0.345427895992735
+----------------------------------
+----------------------------------
+prezzo = 26900
+marca = audi
+modello = a7
+km = 185000
+anno = 2016
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-tdi-business-quattro-272cvstronic-diesel-grigio-cf294633-fa87-472b-9cf0-bee451056743
+score = 0.34686176850062084
+----------------------------------
+----------------------------------
+prezzo = 41000
+marca = audi
+modello = a7
+km = 44000
+anno = 2016
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-218cv-s-tr-diesel-grigio-3f4e72b4-b7b4-423e-9996-6fa6aca81a10
+score = 0.352892197925727
+----------------------------------
+----------------------------------
+prezzo = 23500
+marca = audi
+modello = a7
+km = 195000
+anno = 2017
+link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-tdi-272cv-quattro-s-tronic-diesel-blu-azzurro-a1949e10-39d0-41ea-9d2c-4921226455c5
+score = 0.35449241604783877
+----------------------------------
+----------------------------------
+prezzo = 30590
+marca = audi
+modello = a7
+km = 159000
+anno = 2016
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-tdi-bus-plusquattro272cv-s-tronic-diesel-grigio-402162ba-1b97-420d-a983-9bef9ef6d652
+score = 0.3547947034933907
+----------------------------------
+----------------------------------
+prezzo = 21000
+marca = audi
+modello = a7
+km = 265000
+anno = 2016
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-272cv-s-tr-diesel-grigio-82b16d30-04d0-4448-be64-b048633ae003
+score = 0.3565815105715371
+----------------------------------
+----------------------------------
+prezzo = 32999
+marca = audi
+modello = a7
+km = 99000
+anno = 2017
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-quattro-272cv-s-tronic-s-line-diesel-blu-azzurro-df26ba9e-0a2c-428a-b487-e58a9345db0f
+score = 0.3579662081974998
+----------------------------------
+----------------------------------
+prezzo = 25500
+marca = audi
+modello = a7
+km = 260000
+anno = 2015
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-tdi-quattro-272cv-s-tronic-s-line-diesel-nero-9a8b48d7-abeb-4721-8c80-e2ea26b6b31d
+score = 0.35874940834228153
+----------------------------------
+----------------------------------
+prezzo = 24000
+marca = audi
+modello = a7
+km = 240000
+anno = 2016
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-272cv-s-tronic-diesel-nero-dbbbedca-eab4-41bb-bec1-3e54c07d526a
+score = 0.3607796076259846
+----------------------------------
+----------------------------------
+prezzo = 24500
+marca = audi
+modello = a7
+km = 249500
+anno = 2016
+link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-tdi-218-cv-ultra-s-tronic-diesel-nero-59087fe3-79da-4cb4-b82b-e0aac18e8d81
+score = 0.3694470308366576
+----------------------------------
+----------------------------------
+prezzo = 32000
+marca = audi
+modello = a7
 km = 135000
-anno = 2006
-link = https://www.autoscout24.it//annunci/toyota-prius-1-5i-16v-ok-neopatentati-garanzia-l-12-mesi-elettrica-benzina-grigio-5bead043-8a9b-4539-8925-1f468c5e7564
-score = 0.1755411845593994
+anno = 2017
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-ultra-218cv-s-tronic-diesel-nero-a242cd06-417b-4a18-8d5d-83e220e4349a
+score = 0.37270291612410555
+----------------------------------
+----------------------------------
+prezzo = 34500
+marca = audi
+modello = a7
+km = 150000
+anno = 2016
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-s-line-2-0-tfsi-s-tronic-benzina-blu-azzurro-db8bded0-2212-43b9-ab62-189c2c0e17dd
+score = 0.37401543383455127
+----------------------------------
+----------------------------------
+prezzo = 29500
+marca = audi
+modello = a7
+km = 210000
+anno = 2016
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-quattro-272cv-s-tronic-diesel-grigio-5bbd0281-de2b-47b3-a239-7a760a17fe7a
+score = 0.37770703761180324
+----------------------------------
+----------------------------------
+prezzo = 37300
+marca = audi
+modello = a7
+km = 98187
+anno = 2017
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-quattro-272cv-s-tronic-diesel-nero-59be9581-61fd-4bac-8d78-3c794fe9cd6d
+score = 0.3844067815771489
+----------------------------------
+----------------------------------
+prezzo = 30500
+marca = audi
+modello = a7
+km = 134000
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-s-tronic-diesel-nero-4865a0ea-3750-4608-a430-7e432ec02bbc
+score = 0.38581021787100644
+----------------------------------
+----------------------------------
+prezzo = 27690
+marca = audi
+modello = a7
+km = 211000
+anno = 2017
+link = https://www.autoscout24.it//annunci/audi-a7-3-0-tdi-quattro-s-tronic-s-line-tag-uff-diesel-grigio-d8991bc2-c2d7-4fed-ab72-63d61679a015
+score = 0.3900404495172779
+----------------------------------
+----------------------------------
+prezzo = 34000
+marca = audi
+modello = a7
+km = 150000
+anno = 2017
+link = https://www.autoscout24.it//annunci/audi-a7-3-0-tdi-quattro-s-tronic-diesel-nero-c4f47436-0ad7-4bf6-927e-54fcab07d609
+score = 0.39396348493240024
+----------------------------------
+----------------------------------
+prezzo = 34900
+marca = audi
+modello = a7
+km = 104910
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-a7-spb-3-0-tdi-272-cv-quattro-s-tronic-business-p-diesel-grigio-090b6eeb-1e71-436a-ac5e-5e3bff4f7f36
+score = 0.39638466441031
+----------------------------------
+----------------------------------
+prezzo = 33990
+marca = audi
+modello = a7
+km = 119000
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-sb-3-0-tdi-quattro-272cv-s-tronic-s-line-diesel-grigio-a29f8541-e361-4223-b2e7-1ba4dbb72eff
+score = 0.3989046633929455
+----------------------------------
+----------------------------------
+prezzo = 33000
+marca = audi
+modello = a7
+km = 137000
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-quattro-272cv-s-tronic-diesel-nero-01f9aedb-7be5-41ed-8348-b220d41b6e9c
+score = 0.4032035939447767
+----------------------------------
+----------------------------------
+prezzo = 36500
+marca = audi
+modello = a7
+km = 102000
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-quattro-272cv-s-tronic-diesel-blu-azzurro-2abb608d-74b8-40c8-ae9d-7b8fa86a55f9
+score = 0.4047005090502995
+----------------------------------
+----------------------------------
+prezzo = 36500
+marca = audi
+modello = a7
+km = 122000
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-55-tfsi-quattro-s-tronic-benzina-bianco-1352f8c1-13d9-4d01-8b00-71bff00ba946
+score = 0.4163606169062971
+----------------------------------
+----------------------------------
+prezzo = 38900
+marca = audi
+modello = a7
+km = 98875
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-272cv-s-tr-diesel-nero-05fa2c90-13ad-4dbc-843f-6c039fcaea3a
+score = 0.41789720269735553
+----------------------------------
+----------------------------------
+prezzo = 38900
+marca = audi
+modello = a7
+km = 98875
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-272cv-s-tr-diesel-nero-d212b546-f7c9-4800-b169-812b36b7023c
+score = 0.41789720269735553
+----------------------------------
+----------------------------------
+prezzo = 38900
+marca = audi
+modello = a7
+km = 98875
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-272cv-s-tr-diesel-nero-9e8f5deb-e954-4eda-a106-a400a75f540e
+score = 0.41789720269735553
+----------------------------------
+----------------------------------
+prezzo = 38900
+marca = audi
+modello = a7
+km = 98875
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-272cv-s-tr-diesel-nero-ae16c777-ec27-43fd-bb71-e3623d4a85cc
+score = 0.41789720269735553
+----------------------------------
+----------------------------------
+prezzo = 42000
+marca = audi
+modello = a7
+km = 98000
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-tdi-quattro-diesel-grigio-4c23e79c-7d16-44b2-98c9-e31fe8136894
+score = 0.43678607924891505
+----------------------------------
+----------------------------------
+prezzo = 43000
+marca = audi
+modello = a7
+km = 88000
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-50-tdi-quattro-tiptronic-diesel-grigio-6097ccc4-9cd8-440b-9eb4-24e630c665ea
+score = 0.4372137692790644
+----------------------------------
+----------------------------------
+prezzo = 33900
+marca = audi
+modello = a7
+km = 149251
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-spb-55-3-0-tfsi-quattro-ultra-s-tronic-elettrica-benzina-grigio-9b2e6d4c-37d5-4e15-94f3-edf2563e5011
+score = 0.43905488565122447
+----------------------------------
+----------------------------------
+prezzo = 38800
+marca = audi
+modello = a7
+km = 138900
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-business-plus-elettrica-diesel-grigio-e4a5dde3-54df-4488-8433-12e633100e0f
+score = 0.440606219148356
+----------------------------------
+----------------------------------
+prezzo = 41900
+marca = audi
+modello = a7
+km = 78000
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-45-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-blu-azzurro-3ba6f1f0-d61b-4aa6-91a6-153a959fb088
+score = 0.4475771200740256
+----------------------------------
+----------------------------------
+prezzo = 46000
+marca = audi
+modello = a7
+km = 78000
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-spb-55-3-0-tfsi-quattro-s-tronic-virtual-tetto-elettrica-benzina-nero-dbf09e6a-43f5-4018-88c7-667090206cbf
+score = 0.45015694722551025
+----------------------------------
+----------------------------------
+prezzo = 42000
+marca = audi
+modello = a7
+km = 91000
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-mhev-quattro-tiptronic-s-line-elettrica-diesel-nero-bf0f47ad-a988-41cf-8fb8-ecd96fd3878c
+score = 0.45578196457623893
+----------------------------------
+----------------------------------
+prezzo = 34900
+marca = audi
+modello = a7
+km = 175000
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-40-2-0-tdi-mhev-s-tronic-elettrica-diesel-grigio-3d52d056-37f5-48b6-9ef7-66afdd9f8f57
+score = 0.4603244354685769
+----------------------------------
+----------------------------------
+prezzo = 42000
+marca = audi
+modello = a7
+km = 140000
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-nero-8cda11bd-b451-4760-90aa-c58ebf8c1381
+score = 0.4612723057465101
+----------------------------------
+----------------------------------
+prezzo = 42900
+marca = audi
+modello = a7
+km = 99124
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-spb-40-s-line-2-0-tdi-mhev-quattro-uniprop-elettrica-diesel-nero-3f0dab26-e444-4086-9cc2-e6dcfe9c9c23
+score = 0.46615026994967856
+----------------------------------
+----------------------------------
+prezzo = 43900
+marca = audi
+modello = a7
+km = 135000
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-50tdi-284cv-mhd-business-diesel-grigio-4bc5b8e7-7169-48cc-8327-bf216fa1e207
+score = 0.47024699230299233
+----------------------------------
+----------------------------------
+prezzo = 43000
+marca = audi
+modello = a7
+km = 160000
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-50-3-0-tdi-mhev-business-quattro-tip-elettrica-diesel-blu-azzurro-3f421ad0-135e-4611-826d-3256518a0bd8
+score = 0.479190157560656
+----------------------------------
+----------------------------------
+prezzo = 49900
+marca = audi
+modello = a7
+km = 90000
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-50-3-0-tdi-mhev-sline-quattro-tiptronic-elettrica-diesel-bianco-d1e4a9bd-7e27-4740-8e17-b76272818fce
+score = 0.48155821337588683
+----------------------------------
+----------------------------------
+prezzo = 39900
+marca = audi
+modello = a7
+km = 170000
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0tdi-mhev-businessplus-quattro-full-elettrica-diesel-nero-17c4fbc7-5e06-4ed2-a7d8-8cc3e4a90abe
+score = 0.4886981282953185
+----------------------------------
+----------------------------------
+prezzo = 48990
+marca = audi
+modello = a7
+km = 119000
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-tiptronic-led-navi-tetto-navi-elettrica-diesel-grigio-96fd99c8-d3b2-40ba-a98f-5e0c2a4ef931
+score = 0.4927708227651686
+----------------------------------
+----------------------------------
+prezzo = 46900
+marca = audi
+modello = a7
+km = 67500
+anno = 2020
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-quattro-tiptronic-elettrica-diesel-nero-5a0bafb0-1452-42ff-970f-fc421c3e2183
+score = 0.495821206317291
+----------------------------------
+----------------------------------
+prezzo = 50000
+marca = audi
+modello = a7
+km = 44000
+anno = 2020
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-grigio-34597eea-d576-46a6-a0c1-391f259c26bb
+score = 0.5015195858567532
+----------------------------------
+----------------------------------
+prezzo = 46500
+marca = audi
+modello = a7
+km = 163890
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-s-line-elettrica-diesel-grigio-8e30a48c-949a-4e8e-85a2-0589e5a41f3e
+score = 0.5033601523921662
+----------------------------------
+----------------------------------
+prezzo = 51900
+marca = audi
+modello = a7
+km = 110000
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-bianco-89d1f6dd-230b-421e-a877-43969436e596
+score = 0.5057338091481809
+----------------------------------
+----------------------------------
+prezzo = 52000
+marca = audi
+modello = a7
+km = 75000
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-ii-50-3-0-tdi-plus-quattro-tiptronic-elettrica-diesel-blu-azzurro-8f237694-e255-4df2-904d-3d9f401d611d
+score = 0.5090313178729229
+----------------------------------
+----------------------------------
+prezzo = 54900
+marca = audi
+modello = a7
+km = 45445
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-spb-45-3-0-tdi-quattro-tiptronic-elettrica-diesel-blu-azzurro-e19d0dd2-3b62-4763-845b-d64e0fe9c7f8
+score = 0.5099480509673522
+----------------------------------
+----------------------------------
+prezzo = 51950
+marca = audi
+modello = a7
+km = 38000
+anno = 2020
+link = https://www.autoscout24.it//annunci/audi-a7-spb-55-phev-tfsie-quattro-ultra-s-line-plus-elettrica-benzina-blu-azzurro-95ea0c40-b7b5-4e78-b8e4-bd2a51471276
+score = 0.5102241542183429
+----------------------------------
+----------------------------------
+prezzo = 49900
+marca = audi
+modello = a7
+km = 100850
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-45-3-0-tdi-quattro-tiptronic-business-pl-elettrica-diesel-nero-a2eaa045-e6f8-4f36-be91-0ddc1ed1acb3
+score = 0.5109607449646887
+----------------------------------
+----------------------------------
+prezzo = 47950
+marca = audi
+modello = a7
+km = 129000
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-50-hybrid-s-line-esterno-interno-c-21-elettrica-diesel-nero-1e718a68-4486-4660-8e83-b6503c5fad44
+score = 0.5151697460536163
+----------------------------------
+----------------------------------
+prezzo = 56950
+marca = audi
+modello = a7
+km = 39999
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-business-plus-elettrica-diesel-blu-azzurro-0da9105f-cd37-4319-b696-aef317f60224
+score = 0.5196013787123678
+----------------------------------
+----------------------------------
+prezzo = 52900
+marca = audi
+modello = a7
+km = 99000
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-pronta-consegna-elettrica-diesel-bianco-a4f8ae08-bb82-4ba4-bc73-58e89825639f
+score = 0.5286554168624535
+----------------------------------
+----------------------------------
+prezzo = 60000
+marca = audi
+modello = a7
+km = 35000
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-45tfsi-4x4-elettrica-benzina-nero-c2ae2999-54bb-4022-9864-70d72905b318
+score = 0.5357730538261132
+----------------------------------
+----------------------------------
+prezzo = 66500
+marca = audi
+modello = a7
+km = 13831
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-50-3-0-tdi-mhev-quattro-tiptronic-elettrica-diesel-grigio-6ec4fa02-44c6-4eda-a6eb-0a2b582aa916
+score = 0.5410298253169727
+----------------------------------
+----------------------------------
+prezzo = 56950
+marca = audi
+modello = a7
+km = 37700
+anno = 2020
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50-2-0-tfsi-e-quattro-ultra-s-tronic-business-elettrica-benzina-blu-azzurro-b1fed1fa-05d5-433d-92f8-ba50455d7225
+score = 0.5413379723912439
+----------------------------------
+----------------------------------
+prezzo = 52500
+marca = audi
+modello = a7
+km = 47500
+anno = 2021
+link = https://www.autoscout24.it//annunci/audi-a7-spb-45-business-plus-s-tronic-s-line-elettrica-benzina-grigio-3b8ce9fd-3528-4059-9a0e-9389a46522e4
+score = 0.5422813877038464
+----------------------------------
+----------------------------------
+prezzo = 57500
+marca = audi
+modello = a7
+km = 74900
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-a7-s-line-50-business-plus-quattro-tiptronic-elettrica-diesel-blu-azzurro-8dcc42b0-28e8-491b-ab0b-a2cb2fca33e2
+score = 0.543390609103458
+----------------------------------
+----------------------------------
+prezzo = 52900
+marca = audi
+modello = a7
+km = 98534
+anno = 2020
+link = https://www.autoscout24.it//annunci/audi-a7-a7-s-b-50-3-0-tdi-mhev-busin-plus-quattro-tiptron-elettrica-diesel-grigio-0992933b-1ba0-4fa5-aa8c-2ddb6d02d03f
+score = 0.5514606594263318
+----------------------------------
+----------------------------------
+prezzo = 51999
+marca = audi
+modello = a7
+km = 160000
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-blu-azzurro-819b5773-d63c-4a5e-b415-6f860d4e55c7
+score = 0.5585805185169548
+----------------------------------
+----------------------------------
+prezzo = 64900
+marca = audi
+modello = a7
+km = 68100
+anno = 2018
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-55-3-0-tfsi-mhev-business-plus-quattro-s-elettrica-benzina-nero-1b7d38c6-b238-4b94-bacb-f3769d01c0fb
+score = 0.5626565546457926
+----------------------------------
+----------------------------------
+prezzo = 61999
+marca = audi
+modello = a7
+km = 70000
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-quattro-tiptronic-elettrica-diesel-bianco-41084dca-78d0-4188-9aeb-2bcb4931d1b7
+score = 0.5686874727464475
+----------------------------------
+----------------------------------
+prezzo = 57900
+marca = audi
+modello = a7
+km = 114000
+anno = 2019
+link = https://www.autoscout24.it//annunci/audi-a7-full-optional-50-s-line-allestimento-s7-abt-elettrica-diesel-grigio-3d642ebb-34ea-461b-8051-eeb0bf905ac7
+score = 0.5686892175451927
+----------------------------------
+----------------------------------
+prezzo = 59900
+marca = audi
+modello = a7
+km = 53000
+anno = 2020
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-2-0-tfsi-250-cv-bz-hybrid-stronic-awd-elettrica-benzina-bianco-799b5d96-1456-4789-b55a-f623a75e7379
+score = 0.5687182995776194
+----------------------------------
+----------------------------------
+prezzo = 60000
+marca = audi
+modello = a7
+km = 25000
+anno = 2021
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-45-3-0-tdi-mhev-quattro-s-tronic-elettrica-diesel-nero-93b2c4dd-fdc2-4589-a45a-e2bacf099275
+score = 0.5760968460519605
+----------------------------------
+----------------------------------
+prezzo = 57990
+marca = audi
+modello = a7
+km = 50000
+anno = 2021
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-s-line-3-0-tdi-mhev-quattro-tiptro-elettrica-diesel-blu-azzurro-ce10d8bd-029a-4005-93be-99384ae700d8
+score = 0.5780939155160797
+----------------------------------
+----------------------------------
+prezzo = 55000
+marca = audi
+modello = a7
+km = 42666
+anno = 2022
+link = https://www.autoscout24.it//annunci/audi-a7-a7-spb-40-2-0-tdi-quattro-ultra-s-tronic-business-elettrica-diesel-bianco-4e4f3309-8ea3-4f3d-8146-61a09e141b8c
+score = 0.5781844226073454
+----------------------------------
+----------------------------------
+prezzo = 49900
+marca = audi
+modello = a7
+km = 144900
+anno = 2021
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50tdi-286cv-quattro-tiptronic-business-plus-elettrica-diesel-nero-6f36caa4-987a-4135-8a1f-57653702a461
+score = 0.5827959786713697
+----------------------------------
+----------------------------------
+prezzo = 58900
+marca = audi
+modello = a7
+km = 27640
+anno = 2022
+link = https://www.autoscout24.it//annunci/audi-a7-spb-40-2-0-tdi-quattro-ultra-s-tronic-elettrica-diesel-argento-6f383b67-8b0d-4d9f-821f-57c055c05875
+score = 0.5938293850119123
+----------------------------------
+----------------------------------
+prezzo = 59900
+marca = audi
+modello = a7
+km = 63000
+anno = 2021
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-business-plus-elettrica-diesel-grigio-26e968fe-e062-4a69-ae94-f41df1b11e5e
+score = 0.5976252765825413
+----------------------------------
+----------------------------------
+prezzo = 62000
+marca = audi
+modello = a7
+km = 41500
+anno = 2021
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-s-line-elettrica-diesel-grigio-97201c40-81d5-413a-a0bf-07eb0c525cc7
+score = 0.598231922949455
+----------------------------------
+----------------------------------
+prezzo = 59890
+marca = audi
+modello = a7
+km = 25900
+anno = 2022
+link = https://www.autoscout24.it//annunci/audi-a7-spb-45-tdi-s-tronic-s-line-tetto-kamera-matrix-elettrica-diesel-grigio-22d6eea3-2b73-44a7-9c33-eaf6a2881781
+score = 0.5990101221470072
+----------------------------------
+----------------------------------
+prezzo = 63800
+marca = audi
+modello = a7
+km = 25000
+anno = 2021
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-elettrica-diesel-argento-5614be0d-d3e6-4275-8d4b-cc8b8a2890cc
+score = 0.5998762730929237
+----------------------------------
+----------------------------------
+prezzo = 59900
+marca = audi
+modello = a7
+km = 27500
+anno = 2022
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-40-2-0-tdi-mhev-12v-quattro-s-tronic-elettrica-diesel-grigio-889bc56e-2577-4b7d-81cc-798b4f2c8474
+score = 0.6000055082150686
+----------------------------------
+----------------------------------
+prezzo = 59950
+marca = audi
+modello = a7
+km = 41999
+anno = 2022
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-business-plus-elettrica-diesel-nero-3872a9e1-57fb-4915-81b6-2708f75f54f3
+score = 0.6087713906031814
+----------------------------------
+----------------------------------
+prezzo = 62500
+marca = audi
+modello = a7
+km = 18900
+anno = 2022
+link = https://www.autoscout24.it//annunci/audi-a7-45d-s-line-s-line-sline-led-pdc-navi-kamera-21-acc-elettrica-diesel-nero-dc0d43be-568a-4293-98d7-9bc7d418a611
+score = 0.6112617961281749
+----------------------------------
+----------------------------------
+prezzo = 64950
+marca = audi
+modello = a7
+km = 36999
+anno = 2021
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50-2-0-tfsi-e-quattro-ultra-s-tronic-business-elettrica-benzina-bianco-ea5bc10c-b984-443f-87ae-8ac2aa704c58
+score = 0.614068160353
+----------------------------------
+----------------------------------
+prezzo = 63500
+marca = audi
+modello = a7
+km = 52790
+anno = 2021
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-tdi-quattro-tiptronic-s-line-elettrica-diesel-grigio-0a432a0a-00df-4402-9562-90b8af18c4fb
+score = 0.614200669771388
+----------------------------------
+----------------------------------
+prezzo = 70000
+marca = audi
+modello = a7
+km = 25000
+anno = 2021
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-40-2-0-tdi-s-line-quattro-s-tronic-elettrica-diesel-grigio-4a2c1032-1073-486e-bad5-1154eae30209
+score = 0.6386742856334426
+----------------------------------
+----------------------------------
+prezzo = 67000
+marca = audi
+modello = a7
+km = 20784
+anno = 2022
+link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-ii-40-2-0-tdi-b-plus-quattro-s-tronic-elettrica-diesel-grigio-02e8fbbe-8b2e-4446-8d76-825ac43b1bdc
+score = 0.6405200260998768
+----------------------------------
+----------------------------------
+prezzo = 67000
+marca = audi
+modello = a7
+km = 64000
+anno = 2021
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-45-2-0-tfsi-mhev-245cv-s-tronic-elettrica-benzina-nero-ac5e2f61-75cc-4e77-a1e2-f763a7aab773
+score = 0.6426382640781935
+----------------------------------
+----------------------------------
+prezzo = 65900
+marca = audi
+modello = a7
+km = 18500
+anno = 2023
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50tdi-quattro-hybrid-tiptronic-cockpit-elettrica-diesel-nero-c19bd115-a776-4bd6-b0ff-f2dc4f08cdad
+score = 0.6553818465056819
+----------------------------------
+----------------------------------
+prezzo = 69900
+marca = audi
+modello = a7
+km = 16650
+anno = 2022
+link = https://www.autoscout24.it//annunci/audi-a7-spb-45-3-0-tdi-quattro-ultra-s-tronic-elettrica-diesel-bianco-6f866b5b-a471-4f24-9254-db6a3f953c22
+score = 0.6562573392846718
+----------------------------------
+----------------------------------
+prezzo = 69900
+marca = audi
+modello = a7
+km = 17868
+anno = 2022
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-elettrica-diesel-argento-35e974ce-f5df-4f58-9f1e-375f50a15805
+score = 0.6569674398531021
+----------------------------------
+----------------------------------
+prezzo = 68500
+marca = audi
+modello = a7
+km = 18000
+anno = 2023
+link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-sline-line-diesel-bianco-0f59c41d-d88f-47fc-bc59-5f546025898e
+score = 0.6713604781004673
+----------------------------------
+----------------------------------
+prezzo = 69900
+marca = audi
+modello = a7
+km = 19954
+anno = 2023
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-nero-ccd4d0ea-f303-477f-aeb6-c5890f34af79
+score = 0.6812605121794058
+----------------------------------
+----------------------------------
+prezzo = 69900
+marca = audi
+modello = a7
+km = 19954
+anno = 2023
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-nero-12ba9161-6334-4851-8357-45c6f250322b
+score = 0.6812605121794058
+----------------------------------
+----------------------------------
+prezzo = 69900
+marca = audi
+modello = a7
+km = 19954
+anno = 2023
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-nero-daab5d41-7d4e-454e-8646-825a7bbeb33f
+score = 0.6812605121794058
+----------------------------------
+----------------------------------
+prezzo = 69900
+marca = audi
+modello = a7
+km = 19954
+anno = 2023
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-nero-7ac719a1-88c0-4fa0-9138-4bcac29973f6
+score = 0.6812605121794058
+----------------------------------
+----------------------------------
+prezzo = 69900
+marca = audi
+modello = a7
+km = 34502
+anno = 2023
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-nero-29a20de3-6056-42f1-b0cd-960c4cd17f31
+score = 0.6897420746338584
+----------------------------------
+----------------------------------
+prezzo = 75900
+marca = audi
+modello = a7
+km = 8950
+anno = 2023
+link = https://www.autoscout24.it//annunci/audi-a7-sportback-40-2-0-tdi-mhev-business-plus-quattro-s-elettrica-diesel-nero-a17b0ea9-1536-41c0-aca6-4a4cb2ba3921
+score = 0.712391584585925
+----------------------------------
+----------------------------------
+prezzo = 89900
+marca = audi
+modello = a7
+km = 25500
+anno = 2023
+link = https://www.autoscout24.it//annunci/audi-a7-50tdi-286cv-q-tiptr-business-plus-l-115-785-elettrica-diesel-b7aba0bf-7ae1-42bf-b2ca-4d607d56c72e
+score = 0.809648739250838
 ----------------------------------
