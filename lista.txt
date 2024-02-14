@@ -1,1773 +1,4180 @@
 ++++++++++++++++++++++++++++++++ NEW CARS ++++++++++++++++++++++++++++++++----------------------------------
-prezzo = 81800
-marca = audi
-modello = a7
+prezzo = 2990
+marca = ford
+modello = fiesta
 km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-40tdi-204cv-q-str-business-advanced-l-90-799-elettrica-diesel-bianco-de1927cc-4ce2-4970-8f97-65587a997bd4
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 96500
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-55-2-0-tfsi-e-s-line-edition-quattro-265-elettrica-benzina-5fb76f12-0b01-450d-ba76-889598161f0d
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 76800
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-40-2-0-tdi-s-tronic-business-advanced-elettrica-diesel-nero-ebef141b-949c-4d60-854d-eab20c5961d4
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 83000
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-40-2-0-tdi-mhev-12v-business-advanced-qu-elettrica-diesel-blu-azzurro-ad6e6126-465e-4565-b294-96daf4331367
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 79000
-marca = audi
-modello = a7
-km = 10
-anno = 2023
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-45-3-0-tdi-mhev-quattro-s-tronic-elettrica-diesel-nero-22dd8821-b24d-4cb6-9fee-7cf4e6d2da3f
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 145790
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-rs-7-spb-quattro-tiptronic-performance-elettrica-benzina-argento-058d9b5c-2424-4053-afb1-0a31f0c2d0e7
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 79000
-marca = audi
-modello = a7
-km = 10
-anno = 2023
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-45-3-0-tdi-mhev-quattro-s-tronic-elettrica-diesel-nero-24315e2d-461f-4014-a4e9-b81e77404d6b
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 62790
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-40-2-0-tfsi-s-tronic-elettrica-benzina-argento-7129c9ef-27ef-47a1-8ad6-5f5103244d3b
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 87890
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-business-advanced-40-tdi-quattro-150-204-elettrica-diesel-nero-c86a58cc-b531-4aa2-9683-bcf0fc9e9fc1
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 66820
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-40-2-0-tdi-s-tronic-business-advanced-elettrica-diesel-argento-7d8e00fa-1fe7-4abc-a6c3-c24374506462
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 76190
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-55-3-0-tfsi-quattro-ultra-s-tronic-elettrica-benzina-argento-5dfcf8fd-26a8-4814-bfbd-ca4f426c13db
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 66020
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-40-2-0-tdi-quattro-ultra-s-tronic-elettrica-diesel-argento-21e8d943-83b3-46cf-afb0-cf2b5daa2731
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 75260
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-45-3-0-tdi-quattro-ultra-s-tronic-business-adv-elettrica-diesel-argento-debe584c-990e-495c-b1b2-9d3de4584015
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 93200
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-45-3-0-tdi-quattro-ultra-s-tronic-business-ad-elettrica-diesel-nero-f4ab8c75-b259-40d8-a360-f9b2c4aebbf6
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 65130
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-45-2-0-tfsi-s-tronic-elettrica-benzina-argento-64c294cf-40cc-4615-8164-28c8fa102f86
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 79940
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-55-3-0-tfsi-quattro-ultra-s-tronic-business-ad-elettrica-benzina-argento-c0da86e6-f874-413d-a68a-7eec228cf41c
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 63070
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-40-2-0-tdi-s-tronic-elettrica-diesel-argento-111b58d6-3184-4214-bb55-3da8de0cb257
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 68090
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-45-2-0-tfsi-quattro-ultra-s-tronic-elettrica-benzina-argento-51c5436e-108a-443b-8675-245e7ee0487a
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 71510
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-45-3-0-tdi-quattro-ultra-s-tronic-elettrica-diesel-argento-77bcf747-be1b-47d1-bdb9-7595dec76747
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 77830
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-business-advanced-elettrica-diesel-argento-c22b31a2-4c67-4bdb-9cce-c317834c5549
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 69770
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-40-2-0-tdi-quattro-ultra-s-tronic-business-adv-elettrica-diesel-argento-f13e7bf0-f3d0-40a0-a80c-4bc6d272a782
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 74080
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-elettrica-diesel-argento-29ae60ab-493e-4a8e-8bd6-5658dd7b13de
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 68880
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-45-2-0-tfsi-s-tronic-business-advanced-elettrica-benzina-argento-b73bf80e-1f92-47b6-ab83-83e326096862
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 71830
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-45-2-0-tfsi-quattro-ultra-s-tronic-business-ad-elettrica-benzina-argento-204ad079-efc7-4a4c-9f8f-5edf9b62045c
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 66540
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-40-2-0-tfsi-s-tronic-business-advanced-elettrica-benzina-argento-e886c5c3-8485-4479-ae80-e01d887dfcd6
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 88750
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-55-2-0-tfsi-e-quattro-ultra-s-tronic-s-line-pl-elettrica-benzina-argento-b500d027-aa31-4b45-8de6-2267182cb3ed
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 78110
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50-2-0-tfsi-e-quattro-ultra-s-tronic-business-elettrica-benzina-argento-7951ab82-9ce9-4b4a-b77b-96d84cb908c7
-score = 0
-----------------------------------
-----------------------------------
-prezzo = 76100
-marca = audi
-modello = a7
-km = 1
-anno = 2024
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50-2-0-tfsi-e-quattro-ultra-s-tronic-elettrica-benzina-argento-a9fcf766-2706-4ecd-88c7-d70759914de2
-score = 0
-----------------------------------
-++++++++++++++++++++++++++++++++ OLD CARS ++++++++++++++++++++++++++++++++----------------------------------
-prezzo = 17500
-marca = audi
-modello = a7
-km = 101000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-aff05113-6f8c-4e6e-83e7-8d386fc1db49
-score = 0.12368190691422205
-----------------------------------
-----------------------------------
-prezzo = 17500
-marca = audi
-modello = a7
-km = 101000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-aa5a6702-9454-4df0-8f20-de046a0e3d9c
-score = 0.12368190691422205
-----------------------------------
-----------------------------------
-prezzo = 14950
-marca = audi
-modello = a7
-km = 160000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-0668a3a2-17b4-40ea-b4a7-7ec7eeeddb1b
-score = 0.14212197799613724
-----------------------------------
-----------------------------------
-prezzo = 17990
-marca = audi
-modello = a7
-km = 144000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-bronzo-6e97c13b-080e-41b6-9cac-e81cb93efb01
-score = 0.1518174333441097
-----------------------------------
-----------------------------------
-prezzo = 19900
-marca = audi
-modello = a7
-km = 130000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-nero-bae6592f-aad9-4b3b-af01-b722d74944c5
-score = 0.15560764880497438
-----------------------------------
-----------------------------------
-prezzo = 21000
-marca = audi
-modello = a7
-km = 127000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-v6-tfsi-quattro-s-tronic-pelle-navi-led-benzina-beige-31878a9d-6be7-4b61-9b6d-1ae289cbf7c8
-score = 0.16074215098053776
-----------------------------------
-----------------------------------
-prezzo = 16999
-marca = audi
-modello = a7
-km = 170000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-bronzo-4fd8cef0-d0cf-498f-b368-88c0fb25b4c4
-score = 0.16077414929438177
-----------------------------------
-----------------------------------
-prezzo = 17500
-marca = audi
-modello = a7
-km = 170000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-argento-7e61997e-f112-49bd-98e5-1fbb8b155176
-score = 0.163909279017414
-----------------------------------
-----------------------------------
-prezzo = 20000
-marca = audi
-modello = a7
-km = 145000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-nero-9f030cb8-0997-42b6-bd03-4f1bf3904543
-score = 0.16497850409278744
-----------------------------------
-----------------------------------
-prezzo = 18999
-marca = audi
-modello = a7
-km = 160000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-tdi-245-cv-quattro-s-tronic-diesel-grigio-967bbc2e-e538-470e-b2fe-d05ff20c8d63
-score = 0.16745958328267935
-----------------------------------
-----------------------------------
-prezzo = 18000
-marca = audi
-modello = a7
-km = 176000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-3-0-tdi-quattro-s-tronic-diesel-bianco-5fa07b18-6cab-4737-8bc6-d5e2c0e59fc1
-score = 0.17053618335328743
-----------------------------------
-----------------------------------
-prezzo = 15500
-marca = audi
-modello = a7
-km = 245000
 anno = 2010
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-i-3-0-v6-tdi-quattro-s-tronic-diesel-blu-azzurro-751385b1-ae0f-4652-b44b-14595d0e1711
-score = 0.17204227248418574
-----------------------------------
-----------------------------------
-prezzo = 22000
-marca = audi
-modello = a7
-km = 151000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-bianco-d8544920-b0c4-4ddc-b95e-5c39e7d485e8
-score = 0.18099202436588316
-----------------------------------
-----------------------------------
-prezzo = 20000
-marca = audi
-modello = a7
-km = 185000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-blu-azzurro-f04f2f8e-a7f4-400a-b10a-cdff3d85cf04
-score = 0.1882987198047828
-----------------------------------
-----------------------------------
-prezzo = 14990
-marca = audi
-modello = a7
-km = 239000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-d85b8023-6be8-43a4-a9d1-8661e898557f
-score = 0.18842971378565398
-----------------------------------
-----------------------------------
-prezzo = 13800
-marca = audi
-modello = a7
-km = 255300
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-3-0-tdi-multitronic-diesel-verde-f9649242-1632-4a0c-afa3-d8c9c03f923d
-score = 0.1904859863780957
-----------------------------------
-----------------------------------
-prezzo = 17500
-marca = audi
-modello = a7
-km = 180100
-anno = 2012
-link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-v6-tdi-245-cv-quattro-s-tronic-diesel-nero-37f62a77-238f-4563-8766-d5523d12a380
-score = 0.19287455656161592
-----------------------------------
-----------------------------------
-prezzo = 14000
-marca = audi
-modello = a7
-km = 260000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-i-2010-sportback-3-0-v6-tdi-quattro-s-diesel-blu-azzurro-b5f66f37-1fc2-470e-a641-66686d59751c
-score = 0.1944776605158848
-----------------------------------
-----------------------------------
-prezzo = 16800
-marca = audi
-modello = a7
-km = 234000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-diesel-8afb01d7-75be-43c7-8360-30afd0723ebc
-score = 0.1968412033859028
-----------------------------------
-----------------------------------
-prezzo = 22900
-marca = audi
-modello = a7
-km = 169000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-nero-2ebbcd2b-f6b9-435a-bbbe-7b18972cc8c7
-score = 0.19711809099861446
-----------------------------------
-----------------------------------
-prezzo = 23000
-marca = audi
-modello = a7
-km = 92200
-anno = 2013
-link = https://www.autoscout24.it//annunci/audi-a7-diesel-grigio-4f16721a-3fd5-4edf-b055-7d4f985c085c
-score = 0.1991228973812444
-----------------------------------
-----------------------------------
-prezzo = 20800
-marca = audi
-modello = a7
-km = 162000
-anno = 2012
-link = https://www.autoscout24.it//annunci/audi-a7-3-0v6-sportback-quattro-s-tronic-diesel-nero-9e43ce8f-422f-4839-90bd-33728c40b3ae
-score = 0.2029727140138271
-----------------------------------
-----------------------------------
-prezzo = 18900
-marca = audi
-modello = a7
-km = 227000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-83ec6b54-62bf-4a76-8849-c65ed64b9786
-score = 0.20590142794841484
-----------------------------------
-----------------------------------
-prezzo = 18000
-marca = audi
-modello = a7
-km = 239000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-blu-azzurro-7928fee3-a961-4981-b8ed-bc42be91efa3
-score = 0.20726552309968008
-----------------------------------
-----------------------------------
-prezzo = 20000
-marca = audi
-modello = a7
-km = 179000
-anno = 2012
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-204cv-multitronic-diesel-grigio-7a4b8348-3ec4-4d3f-ba05-2b768125be14
-score = 0.20787761052490655
-----------------------------------
-----------------------------------
-prezzo = 26500
-marca = audi
-modello = a7
-km = 110000
-anno = 2012
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-business-plus-quattro-diesel-nero-f28f25c1-2aa3-4338-9039-7525b49573ff
-score = 0.20832557414967795
-----------------------------------
-----------------------------------
-prezzo = 16900
-marca = audi
-modello = a7
-km = 215000
-anno = 2012
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-1fd7bd93-a1ec-4b15-99fd-27b51ac8820a
-score = 0.2094667983954429
-----------------------------------
-----------------------------------
-prezzo = 18500
-marca = audi
-modello = a7
-km = 239000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-562b9738-7634-4959-8ee7-876cb071a379
-score = 0.21039439507875418
-----------------------------------
-----------------------------------
-prezzo = 23900
-marca = audi
-modello = a7
-km = 149000
-anno = 2012
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-204cv-s-tronic-diesel-grigio-0d06e757-e102-4fa3-be59-7ad77f3c4fa2
-score = 0.21479265017768806
-----------------------------------
-----------------------------------
-prezzo = 17900
-marca = audi
-modello = a7
-km = 180000
-anno = 2013
-link = https://www.autoscout24.it//annunci/audi-a7-a7-3-0-v6-tdi-quattro-s-tronic-diesel-marrone-0d56bd7b-73f7-452f-8a5d-fdede669f50a
-score = 0.2183962766825183
-----------------------------------
-----------------------------------
-prezzo = 16500
-marca = audi
-modello = a7
-km = 238000
-anno = 2012
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-blu-azzurro-a41d048f-578b-49b2-8e43-6053bc347267
-score = 0.22037282484658094
-----------------------------------
-----------------------------------
-prezzo = 19990
-marca = audi
-modello = a7
-km = 241000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-allestimento-s7-diesel-nero-0ea712ee-6b29-44c2-8bdc-4c89deae40e0
-score = 0.2208844443619948
-----------------------------------
-----------------------------------
-prezzo = 17000
-marca = audi
-modello = a7
-km = 155000
-anno = 2014
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-business-plus-quattro-s-troni-diesel-blu-azzurro-3236895d-f878-41f6-9774-db0df80fc7a9
-score = 0.2212660953771109
-----------------------------------
-----------------------------------
-prezzo = 18000
-marca = audi
-modello = a7
-km = 225000
-anno = 2012
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-nero-b6bfe9c8-dc17-4a7e-8ef0-acbdc2ce396b
-score = 0.22218037067740476
-----------------------------------
-----------------------------------
-prezzo = 22000
-marca = audi
-modello = a7
-km = 226000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-v6-tdi-quattro-s-tronic-diesel-argento-5c5b221d-6b2c-4aba-80e5-2ef1e212197c
-score = 0.22471742882587442
-----------------------------------
-----------------------------------
-prezzo = 15400
-marca = audi
-modello = a7
-km = 260000
-anno = 2012
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-nero-a45d8a26-e081-4ade-ad72-34d37190a64c
-score = 0.22631542513421538
-----------------------------------
-----------------------------------
-prezzo = 28000
-marca = audi
-modello = a7
-km = 204000
-anno = 2010
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tfsi-quattro-300cv-s-tronic-benzina-verde-d5c3a128-fc7a-438d-81f8-5976bfb38130
-score = 0.22636085085624316
-----------------------------------
-----------------------------------
-prezzo = 13500
-marca = audi
-modello = a7
-km = 321000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-nero-cfe7f519-3ca5-466e-acb7-f66ae7be6f11
-score = 0.2269121174976036
-----------------------------------
-----------------------------------
-prezzo = 26000
-marca = audi
-modello = a7
-km = 110000
-anno = 2013
-link = https://www.autoscout24.it//annunci/audi-a7-3-0-bitdi-business-plus-diesel-nero-7d60e647-1ef4-4206-a345-49587645addb
-score = 0.22827362524752692
-----------------------------------
-----------------------------------
-prezzo = 21700
-marca = audi
-modello = a7
-km = 200000
-anno = 2012
-link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-tfsi-300-cv-quattro-s-tronic-benzina-nero-2e65483d-2026-4996-9ee0-ad8c6f2e9960
-score = 0.23075888850255605
-----------------------------------
-----------------------------------
-prezzo = 9999
-marca = audi
-modello = a7
-km = 290000
-anno = 2013
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-clean-quattro-s-tronic-diesel-marrone-16e824a2-e724-400a-bcba-a9e471aa81cb
-score = 0.23308443487717648
-----------------------------------
-----------------------------------
-prezzo = 25900
-marca = audi
-modello = a7
-km = 162110
-anno = 2012
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-48be4ef5-d79d-41cb-a79e-d0f9403be749
-score = 0.23495133879359098
-----------------------------------
-----------------------------------
-prezzo = 25000
-marca = audi
-modello = a7
-km = 140000
-anno = 2013
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-245cv-aut-s-tronic-quattro-b-diesel-grigio-adeb4d42-1f23-4af9-9ee1-c6f08b08bde3
-score = 0.23950604307337522
-----------------------------------
-----------------------------------
-prezzo = 18500
-marca = audi
-modello = a7
-km = 249901
-anno = 2012
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tdi-204cv-diesel-nero-5688ca17-5c12-487b-a56b-5807db71ad58
-score = 0.23982665994258878
-----------------------------------
-----------------------------------
-prezzo = 17000
-marca = audi
-modello = a7
-km = 308000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-nero-25e2bbe6-7aff-4f0e-a026-94d8b18b30e2
-score = 0.2412351512447238
-----------------------------------
-----------------------------------
-prezzo = 24500
-marca = audi
-modello = a7
-km = 229000
-anno = 2011
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-v6-tfsi-quattro-300cv-s-tronic-benzina-nero-4c923095-3271-44f8-8d53-2c992ff3df14
-score = 0.2421108048996446
-----------------------------------
-----------------------------------
-prezzo = 23900
-marca = audi
-modello = a7
-km = 159000
-anno = 2013
-link = https://www.autoscout24.it//annunci/audi-a7-diesel-cbbcc744-9d5f-48c0-b003-26941c0f778d
-score = 0.24369962718260998
-----------------------------------
-----------------------------------
-prezzo = 26500
-marca = audi
-modello = a7
-km = 139000
-anno = 2013
-link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-v6-tdi-245-cv-quattro-s-tronic-s-line-diesel-nero-8d0e349c-4458-4832-8512-bf5cf1c9b213
-score = 0.24830965361779767
-----------------------------------
-----------------------------------
-prezzo = 16000
-marca = audi
-modello = a7
-km = 263000
-anno = 2013
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-nero-6b5c2a4b-7bbd-401e-a303-55ddf352e3f3
-score = 0.25489601076442703
-----------------------------------
-----------------------------------
-prezzo = 18500
-marca = audi
-modello = a7
-km = 238000
-anno = 2013
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-sportback-3-0-v6-tdi-business-plus-diesel-blu-azzurro-35cfd2dd-8b31-4ba8-b219-62fe6390ee21
-score = 0.25596523583980046
-----------------------------------
-----------------------------------
-prezzo = 17300
-marca = audi
-modello = a7
-km = 260000
-anno = 2013
-link = https://www.autoscout24.it//annunci/audi-a7-a7-3-0-v6-tdi-clean-quattro-s-tronic-s-line-diesel-grigio-a70dfd5c-35e2-4e9b-987c-0c7e60994adc
-score = 0.26128206173162005
-----------------------------------
-----------------------------------
-prezzo = 20500
-marca = audi
-modello = a7
-km = 190000
-anno = 2014
-link = https://www.autoscout24.it//annunci/audi-a7-audi-a7-s-line-quattro-diesel-nero-18d28af5-f4ef-49bd-b420-4f8a3be4b7c7
-score = 0.26357338797862556
-----------------------------------
-----------------------------------
-prezzo = 22000
-marca = audi
-modello = a7
-km = 260849
-anno = 2012
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-28b4add9-2339-4df1-9045-4ee5b64784cb
-score = 0.26811150683648066
-----------------------------------
-----------------------------------
-prezzo = 19500
-marca = audi
-modello = a7
-km = 210000
-anno = 2014
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-business-quattro-s-tronic-diesel-bianco-88e290f2-cb73-425c-b8be-23f7d40fc54c
-score = 0.26897575187647504
-----------------------------------
-----------------------------------
-prezzo = 16500
-marca = audi
-modello = a7
-km = 322000
-anno = 2012
-link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-tdi-245-cv-quattro-s-tronic-diesel-nero-776b9935-c5e9-43e6-944c-426f6af2e50f
-score = 0.2693452778417712
-----------------------------------
-----------------------------------
-prezzo = 16250
-marca = audi
-modello = a7
-km = 287000
-anno = 2013
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-business-quattro-s-tronic-diesel-grigio-13415a19-d1fe-4ec6-bf93-0fdd3b4cfe43
-score = 0.27045257618116125
-----------------------------------
-----------------------------------
-prezzo = 27500
-marca = audi
-modello = a7
-km = 97000
-anno = 2015
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-218cv-s-tr-diesel-grigio-da0950ba-6278-495b-9f13-2e83f1e01ebe
-score = 0.2762350172321969
-----------------------------------
-----------------------------------
-prezzo = 27800
-marca = audi
-modello = a7
-km = 175000
-anno = 2013
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-quattro-s-tronic-pacchetto-rs7-diesel-bianco-760a0285-a2ad-4704-b907-003c3f3a48e9
-score = 0.2774329149041861
-----------------------------------
-----------------------------------
-prezzo = 20400
-marca = audi
-modello = a7
-km = 176000
-anno = 2015
-link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-tdi-business-plus-quattro-272cv-s-tronic-diesel-blu-azzurro-59d66890-9f0c-402b-b731-05d815b80091
-score = 0.2778624611605355
-----------------------------------
-----------------------------------
-prezzo = 28700
-marca = audi
-modello = a7
-km = 91000
-anno = 2015
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-320cv-tiptronic-diesel-nero-9e18791b-7282-4f0b-9a24-e12ec6d5162b
-score = 0.2802462776251755
-----------------------------------
-----------------------------------
-prezzo = 19500
-marca = audi
-modello = a7
-km = 230000
-anno = 2014
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-diesel-nero-0565cac3-e61e-4437-95d8-54cc0f999566
-score = 0.2806358597324727
-----------------------------------
-----------------------------------
-prezzo = 28000
-marca = audi
-modello = a7
-km = 101000
-anno = 2015
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-s-tronic-diesel-nero-db1179df-46cc-41c7-946d-a34405d49d19
-score = 0.2816959107824706
-----------------------------------
-----------------------------------
-prezzo = 16990
-marca = audi
-modello = a7
-km = 300000
-anno = 2013
-link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-v6-tdi-245-cv-quattro-s-line-diesel-nero-ad76f5b9-0044-4481-b4ca-2647076b9c06
-score = 0.28266237681658946
-----------------------------------
-----------------------------------
-prezzo = 22500
-marca = audi
-modello = a7
-km = 208000
-anno = 2014
-link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-tdi-245cv-qu-s-tr-bus-plus-diesel-nero-a18a8555-c739-434c-814d-c7b61824feea
-score = 0.28658297296531987
-----------------------------------
-----------------------------------
-prezzo = 26400
-marca = audi
-modello = a7
-km = 90000
-anno = 2016
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-tdi-218cv-s-tronic-diesel-grigio-7870bc18-c42e-4ac9-aa3f-c6ea6c911d21
-score = 0.2883473842055578
-----------------------------------
-----------------------------------
-prezzo = 17000
-marca = audi
-modello = a7
-km = 352000
-anno = 2012
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-bronzo-31bad632-b07d-4b98-b72b-7c0a47f2c960
-score = 0.28996431160484176
-----------------------------------
-----------------------------------
-prezzo = 19999
-marca = audi
-modello = a7
-km = 209000
-anno = 2015
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-tdi-busi-plus-quattro-218cv-s-tro-diesel-nero-7ee00935-1d11-4358-bc54-b8decdecd6b5
-score = 0.2945922837957141
-----------------------------------
-----------------------------------
-prezzo = 29000
-marca = audi
-modello = a7
-km = 158000
-anno = 2014
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-v6-tdi-quattro-s-tronic-diesel-grigio-1bc80dd5-cdad-462c-abb1-1fd15b07a11d
-score = 0.29810803905328903
-----------------------------------
-----------------------------------
-prezzo = 28500
-marca = audi
-modello = a7
-km = 164000
-anno = 2014
-link = https://www.autoscout24.it//annunci/audi-a7-3-0-tdi-ultra-diesel-bianco-b1da87dc-1742-40a2-a66d-af6f7d83ccbc
-score = 0.29847719943101425
-----------------------------------
-----------------------------------
-prezzo = 26500
-marca = audi
-modello = a7
-km = 155000
-anno = 2015
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-272cv-s-tr-diesel-nero-45b0b77a-6a9b-488e-bec7-0dd19bb3900b
-score = 0.30379158605644196
-----------------------------------
-----------------------------------
-prezzo = 30900
-marca = audi
-modello = a7
-km = 129000
-anno = 2015
-link = https://www.autoscout24.it//annunci/audi-a7-3-0tdi-272cv-s-line-pelle-ghiaccio-led-matrix-full-diesel-nero-088f2c4e-54c5-4376-8c54-fd01a48d0c19
-score = 0.3161675192594971
-----------------------------------
-----------------------------------
-prezzo = 31670
-marca = audi
-modello = a7
-km = 126000
-anno = 2015
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-quattro-272cv-s-tronic-diesel-nero-fac8bd74-7415-47ed-95ee-e6d7d0892797
-score = 0.31923696592887163
-----------------------------------
-----------------------------------
-prezzo = 25000
-marca = audi
-modello = a7
-km = 159000
-anno = 2016
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-272cv-s-tr-diesel-grigio-411808b1-1ba6-4e8f-a14b-4d036ca0be57
-score = 0.3198139147673422
-----------------------------------
-----------------------------------
-prezzo = 32000
-marca = audi
-modello = a7
-km = 104500
-anno = 2016
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-272cv-s-tr-diesel-argento-91066ea9-fbfc-4fa9-9971-922a7c823452
-score = 0.3318443285667861
-----------------------------------
-----------------------------------
-prezzo = 31900
-marca = audi
-modello = a7
-km = 110900
-anno = 2016
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-tagliandat-diesel-bronzo-5925653e-fa78-46e5-9b37-548cd6fb8963
-score = 0.3349497886848905
-----------------------------------
-----------------------------------
-prezzo = 36300
-marca = audi
-modello = a7
-km = 65735
-anno = 2016
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-tiptron-diesel-nero-bba1a572-969b-4155-a9b9-3f2fd5723bfc
-score = 0.3361524235349359
-----------------------------------
-----------------------------------
-prezzo = 26000
-marca = audi
-modello = a7
-km = 180250
-anno = 2016
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-quattro-272cv-s-tronic-diesel-blu-azzurro-6e6903cf-41ac-4248-b46f-8abd06399a08
-score = 0.338460523322488
-----------------------------------
-----------------------------------
-prezzo = 37500
-marca = audi
-modello = a7
-km = 65735
-anno = 2016
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-tiptron-diesel-nero-a022aad3-c8cf-420e-a72a-5c8b76769ae0
-score = 0.3436617162847137
-----------------------------------
-----------------------------------
-prezzo = 29000
-marca = audi
-modello = a7
-km = 160000
-anno = 2016
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-218cv-s-tr-diesel-oro-bf447633-13cf-4441-89fb-c8115f7b0b1a
-score = 0.345427895992735
-----------------------------------
-----------------------------------
-prezzo = 26900
-marca = audi
-modello = a7
-km = 185000
-anno = 2016
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-tdi-business-quattro-272cvstronic-diesel-grigio-cf294633-fa87-472b-9cf0-bee451056743
-score = 0.34686176850062084
-----------------------------------
-----------------------------------
-prezzo = 41000
-marca = audi
-modello = a7
-km = 44000
-anno = 2016
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-218cv-s-tr-diesel-grigio-3f4e72b4-b7b4-423e-9996-6fa6aca81a10
-score = 0.352892197925727
-----------------------------------
-----------------------------------
-prezzo = 23500
-marca = audi
-modello = a7
-km = 195000
-anno = 2017
-link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-tdi-272cv-quattro-s-tronic-diesel-blu-azzurro-a1949e10-39d0-41ea-9d2c-4921226455c5
-score = 0.35449241604783877
-----------------------------------
-----------------------------------
-prezzo = 30590
-marca = audi
-modello = a7
-km = 159000
-anno = 2016
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-tdi-bus-plusquattro272cv-s-tronic-diesel-grigio-402162ba-1b97-420d-a983-9bef9ef6d652
-score = 0.3547947034933907
-----------------------------------
-----------------------------------
-prezzo = 21000
-marca = audi
-modello = a7
-km = 265000
-anno = 2016
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-272cv-s-tr-diesel-grigio-82b16d30-04d0-4448-be64-b048633ae003
-score = 0.3565815105715371
-----------------------------------
-----------------------------------
-prezzo = 32999
-marca = audi
-modello = a7
-km = 99000
-anno = 2017
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-quattro-272cv-s-tronic-s-line-diesel-blu-azzurro-df26ba9e-0a2c-428a-b487-e58a9345db0f
-score = 0.3579662081974998
-----------------------------------
-----------------------------------
-prezzo = 25500
-marca = audi
-modello = a7
-km = 260000
-anno = 2015
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-tdi-quattro-272cv-s-tronic-s-line-diesel-nero-9a8b48d7-abeb-4721-8c80-e2ea26b6b31d
-score = 0.35874940834228153
-----------------------------------
-----------------------------------
-prezzo = 24000
-marca = audi
-modello = a7
-km = 240000
-anno = 2016
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-272cv-s-tronic-diesel-nero-dbbbedca-eab4-41bb-bec1-3e54c07d526a
-score = 0.3607796076259846
-----------------------------------
-----------------------------------
-prezzo = 24500
-marca = audi
-modello = a7
-km = 249500
-anno = 2016
-link = https://www.autoscout24.it//annunci/audi-a7-spb-3-0-tdi-218-cv-ultra-s-tronic-diesel-nero-59087fe3-79da-4cb4-b82b-e0aac18e8d81
-score = 0.3694470308366576
-----------------------------------
-----------------------------------
-prezzo = 32000
-marca = audi
-modello = a7
-km = 135000
-anno = 2017
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-ultra-218cv-s-tronic-diesel-nero-a242cd06-417b-4a18-8d5d-83e220e4349a
-score = 0.37270291612410555
-----------------------------------
-----------------------------------
-prezzo = 34500
-marca = audi
-modello = a7
-km = 150000
-anno = 2016
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-s-line-2-0-tfsi-s-tronic-benzina-blu-azzurro-db8bded0-2212-43b9-ab62-189c2c0e17dd
-score = 0.37401543383455127
-----------------------------------
-----------------------------------
-prezzo = 29500
-marca = audi
-modello = a7
-km = 210000
-anno = 2016
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-quattro-272cv-s-tronic-diesel-grigio-5bbd0281-de2b-47b3-a239-7a760a17fe7a
-score = 0.37770703761180324
-----------------------------------
-----------------------------------
-prezzo = 37300
-marca = audi
-modello = a7
-km = 98187
-anno = 2017
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-quattro-272cv-s-tronic-diesel-nero-59be9581-61fd-4bac-8d78-3c794fe9cd6d
-score = 0.3844067815771489
-----------------------------------
-----------------------------------
-prezzo = 30500
-marca = audi
-modello = a7
-km = 134000
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-s-tronic-diesel-nero-4865a0ea-3750-4608-a430-7e432ec02bbc
-score = 0.38581021787100644
-----------------------------------
-----------------------------------
-prezzo = 27690
-marca = audi
-modello = a7
-km = 211000
-anno = 2017
-link = https://www.autoscout24.it//annunci/audi-a7-3-0-tdi-quattro-s-tronic-s-line-tag-uff-diesel-grigio-d8991bc2-c2d7-4fed-ab72-63d61679a015
-score = 0.3900404495172779
-----------------------------------
-----------------------------------
-prezzo = 34000
-marca = audi
-modello = a7
-km = 150000
-anno = 2017
-link = https://www.autoscout24.it//annunci/audi-a7-3-0-tdi-quattro-s-tronic-diesel-nero-c4f47436-0ad7-4bf6-927e-54fcab07d609
-score = 0.39396348493240024
-----------------------------------
-----------------------------------
-prezzo = 34900
-marca = audi
-modello = a7
-km = 104910
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-a7-spb-3-0-tdi-272-cv-quattro-s-tronic-business-p-diesel-grigio-090b6eeb-1e71-436a-ac5e-5e3bff4f7f36
-score = 0.39638466441031
-----------------------------------
-----------------------------------
-prezzo = 33990
-marca = audi
-modello = a7
-km = 119000
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-sb-3-0-tdi-quattro-272cv-s-tronic-s-line-diesel-grigio-a29f8541-e361-4223-b2e7-1ba4dbb72eff
-score = 0.3989046633929455
-----------------------------------
-----------------------------------
-prezzo = 33000
-marca = audi
-modello = a7
-km = 137000
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-quattro-272cv-s-tronic-diesel-nero-01f9aedb-7be5-41ed-8348-b220d41b6e9c
-score = 0.4032035939447767
-----------------------------------
-----------------------------------
-prezzo = 36500
-marca = audi
-modello = a7
-km = 102000
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-quattro-272cv-s-tronic-diesel-blu-azzurro-2abb608d-74b8-40c8-ae9d-7b8fa86a55f9
-score = 0.4047005090502995
-----------------------------------
-----------------------------------
-prezzo = 36500
-marca = audi
-modello = a7
-km = 122000
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-55-tfsi-quattro-s-tronic-benzina-bianco-1352f8c1-13d9-4d01-8b00-71bff00ba946
-score = 0.4163606169062971
-----------------------------------
-----------------------------------
-prezzo = 38900
-marca = audi
-modello = a7
-km = 98875
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-272cv-s-tr-diesel-nero-05fa2c90-13ad-4dbc-843f-6c039fcaea3a
-score = 0.41789720269735553
-----------------------------------
-----------------------------------
-prezzo = 38900
-marca = audi
-modello = a7
-km = 98875
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-272cv-s-tr-diesel-nero-d212b546-f7c9-4800-b169-812b36b7023c
-score = 0.41789720269735553
-----------------------------------
-----------------------------------
-prezzo = 38900
-marca = audi
-modello = a7
-km = 98875
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-272cv-s-tr-diesel-nero-9e8f5deb-e954-4eda-a106-a400a75f540e
-score = 0.41789720269735553
-----------------------------------
-----------------------------------
-prezzo = 38900
-marca = audi
-modello = a7
-km = 98875
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-3-0-tdi-business-plus-quattro-272cv-s-tr-diesel-nero-ae16c777-ec27-43fd-bb71-e3623d4a85cc
-score = 0.41789720269735553
-----------------------------------
-----------------------------------
-prezzo = 42000
-marca = audi
-modello = a7
-km = 98000
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-3-0-tdi-quattro-diesel-grigio-4c23e79c-7d16-44b2-98c9-e31fe8136894
-score = 0.43678607924891505
-----------------------------------
-----------------------------------
-prezzo = 43000
-marca = audi
-modello = a7
-km = 88000
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-50-tdi-quattro-tiptronic-diesel-grigio-6097ccc4-9cd8-440b-9eb4-24e630c665ea
-score = 0.4372137692790644
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-5-porte-bz-gpl-gpl-bianco-4daa5d7c-e1ab-4532-8862-b844c131bd8c
+score = 0
 ----------------------------------
 ----------------------------------
 prezzo = 33900
-marca = audi
-modello = a7
-km = 149251
-anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-spb-55-3-0-tfsi-quattro-ultra-s-tronic-elettrica-benzina-grigio-9b2e6d4c-37d5-4e15-94f3-edf2563e5011
-score = 0.43905488565122447
+marca = ford
+modello = fiesta
+km = 1
+anno = 2024
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-st-benzina-verde-883addbc-455a-4cbb-beed-ae007f29a658
+score = 0
 ----------------------------------
 ----------------------------------
-prezzo = 38800
-marca = audi
-modello = a7
-km = 138900
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-business-plus-elettrica-diesel-grigio-e4a5dde3-54df-4488-8433-12e633100e0f
-score = 0.440606219148356
+prezzo = 18900
+marca = ford
+modello = fiesta
+km = 1
+anno = 2023
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-0-ecoboost-hybrid-125cv-benzina-bianco-8b153fbb-4ef8-453f-94fe-92aa5efc5611
+score = 0
 ----------------------------------
 ----------------------------------
-prezzo = 41900
-marca = audi
-modello = a7
-km = 78000
-anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-45-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-blu-azzurro-3ba6f1f0-d61b-4aa6-91a6-153a959fb088
-score = 0.4475771200740256
+prezzo = 19990
+marca = ford
+modello = fiesta
+km = 6
+anno = 2023
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-st-line-s-s-100cv-st-line-promo-benzina-nero-7a5a7fb3-3c58-4d2d-ad65-de68b001f5ba
+score = 0
 ----------------------------------
 ----------------------------------
-prezzo = 46000
-marca = audi
-modello = a7
-km = 78000
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-spb-55-3-0-tfsi-quattro-s-tronic-virtual-tetto-elettrica-benzina-nero-dbf09e6a-43f5-4018-88c7-667090206cbf
-score = 0.45015694722551025
+prezzo = 19990
+marca = ford
+modello = fiesta
+km = 13
+anno = 2023
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-st-line-s-s-100cv-st-line-promo-benzina-nero-1e471a3b-2fec-4e5d-be40-addb2542c52c
+score = 0
+----------------------------------
+++++++++++++++++++++++++++++++++ OLD CARS ++++++++++++++++++++++++++++++++----------------------------------
+prezzo = 2500
+marca = ford
+modello = fiesta
+km = 93510
+anno = 2014
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-82cv-5-porte-benzina-grigio-0d802b30-7424-4412-b8af-ecdeb58f64f2
+score = 0.14897611739938443
 ----------------------------------
 ----------------------------------
-prezzo = 42000
-marca = audi
-modello = a7
-km = 91000
-anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-mhev-quattro-tiptronic-s-line-elettrica-diesel-nero-bf0f47ad-a988-41cf-8fb8-ecd96fd3878c
-score = 0.45578196457623893
+prezzo = 500
+marca = ford
+modello = fiesta
+km = 25434
+anno = 2002
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-8-tddi-zetec-diesel-grigio-d0e290a7-ed8d-435b-b04e-0d7ebba11258
+score = 0.15207273844784375
 ----------------------------------
 ----------------------------------
-prezzo = 34900
-marca = audi
-modello = a7
-km = 175000
-anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-40-2-0-tdi-mhev-s-tronic-elettrica-diesel-grigio-3d52d056-37f5-48b6-9ef7-66afdd9f8f57
-score = 0.4603244354685769
+prezzo = 2500
+marca = ford
+modello = fiesta
+km = 15400
+anno = 2006
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-2-titanium-benzina-nero-5fab1362-1313-4178-9212-a04c04d59c96
+score = 0.16092250317243356
 ----------------------------------
 ----------------------------------
-prezzo = 42000
-marca = audi
-modello = a7
-km = 140000
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-nero-8cda11bd-b451-4760-90aa-c58ebf8c1381
-score = 0.4612723057465101
+prezzo = 1400
+marca = ford
+modello = fiesta
+km = 71500
+anno = 2006
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1serie-benzina-87f43acb-7e1d-43c9-b9b8-45507f35f4c4
+score = 0.16818920346493044
 ----------------------------------
 ----------------------------------
-prezzo = 42900
-marca = audi
-modello = a7
-km = 99124
-anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-spb-40-s-line-2-0-tdi-mhev-quattro-uniprop-elettrica-diesel-nero-3f0dab26-e444-4086-9cc2-e6dcfe9c9c23
-score = 0.46615026994967856
+prezzo = 2000
+marca = ford
+modello = fiesta
+km = 46000
+anno = 2005
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-ambiente-benzina-grigio-553b95b4-1bc8-45c7-b447-1827b37ab0b8
+score = 0.17359447419701807
 ----------------------------------
 ----------------------------------
-prezzo = 43900
-marca = audi
-modello = a7
-km = 135000
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-50tdi-284cv-mhd-business-diesel-grigio-4bc5b8e7-7169-48cc-8327-bf216fa1e207
-score = 0.47024699230299233
-----------------------------------
-----------------------------------
-prezzo = 43000
-marca = audi
-modello = a7
-km = 160000
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-50-3-0-tdi-mhev-business-quattro-tip-elettrica-diesel-blu-azzurro-3f421ad0-135e-4611-826d-3256518a0bd8
-score = 0.479190157560656
-----------------------------------
-----------------------------------
-prezzo = 49900
-marca = audi
-modello = a7
-km = 90000
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-50-3-0-tdi-mhev-sline-quattro-tiptronic-elettrica-diesel-bianco-d1e4a9bd-7e27-4740-8e17-b76272818fce
-score = 0.48155821337588683
-----------------------------------
-----------------------------------
-prezzo = 39900
-marca = audi
-modello = a7
-km = 170000
-anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0tdi-mhev-businessplus-quattro-full-elettrica-diesel-nero-17c4fbc7-5e06-4ed2-a7d8-8cc3e4a90abe
-score = 0.4886981282953185
-----------------------------------
-----------------------------------
-prezzo = 48990
-marca = audi
-modello = a7
-km = 119000
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-tiptronic-led-navi-tetto-navi-elettrica-diesel-grigio-96fd99c8-d3b2-40ba-a98f-5e0c2a4ef931
-score = 0.4927708227651686
-----------------------------------
-----------------------------------
-prezzo = 46900
-marca = audi
-modello = a7
-km = 67500
-anno = 2020
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-quattro-tiptronic-elettrica-diesel-nero-5a0bafb0-1452-42ff-970f-fc421c3e2183
-score = 0.495821206317291
-----------------------------------
-----------------------------------
-prezzo = 50000
-marca = audi
-modello = a7
-km = 44000
-anno = 2020
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-grigio-34597eea-d576-46a6-a0c1-391f259c26bb
-score = 0.5015195858567532
-----------------------------------
-----------------------------------
-prezzo = 46500
-marca = audi
-modello = a7
-km = 163890
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-s-line-elettrica-diesel-grigio-8e30a48c-949a-4e8e-85a2-0589e5a41f3e
-score = 0.5033601523921662
-----------------------------------
-----------------------------------
-prezzo = 51900
-marca = audi
-modello = a7
+prezzo = 2999
+marca = ford
+modello = fiesta
 km = 110000
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-bianco-89d1f6dd-230b-421e-a877-43969436e596
-score = 0.5057338091481809
+anno = 2013
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2013-5p-1-0-business-80cv-benzina-nero-064e9f44-fe8e-4aa1-9d3f-d61a225323c1
+score = 0.1745679191918087
 ----------------------------------
 ----------------------------------
-prezzo = 52000
-marca = audi
-modello = a7
+prezzo = 2999
+marca = ford
+modello = fiesta
+km = 110000
+anno = 2013
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2013-5p-1-0-business-80cv-benzina-c237bc57-0675-4b97-88c5-91c443bc8b57
+score = 0.1745679191918087
+----------------------------------
+----------------------------------
+prezzo = 2900
+marca = ford
+modello = fiesta
+km = 58000
+anno = 2008
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-ghia-benzina-nero-f8dfbab3-7c7d-406c-874e-5c7e92a658e8
+score = 0.1783275770036924
+----------------------------------
+----------------------------------
+prezzo = 5500
+marca = ford
+modello = fiesta
+km = 67000
+anno = 2015
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-100cv-5-porte-powershift-benzina-argento-16e71aa3-c834-4eb1-9f3f-2497c96a9da0
+score = 0.189512493260733
+----------------------------------
+----------------------------------
+prezzo = 2300
+marca = ford
+modello = fiesta
+km = 100000
+anno = 2007
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-2-titanium-benzina-nero-8a03d8d9-4ea6-4ac9-b294-148e6bf1fa7a
+score = 0.19499824150923573
+----------------------------------
+----------------------------------
+prezzo = 3500
+marca = ford
+modello = fiesta
+km = 80000
+anno = 2009
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-gpl-benzina-grigio-a09feb69-7c23-4943-8990-6fb0fa1165a1
+score = 0.19556761079360663
+----------------------------------
+----------------------------------
+prezzo = 5500
+marca = ford
+modello = fiesta
+km = 5000
+anno = 2009
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-82cv-3p-titanium-2009-gpl-blu-azzurro-5b6f7d67-aa43-4a0b-a2dc-47656cc6a473
+score = 0.1966615042870085
+----------------------------------
+----------------------------------
+prezzo = 1700
+marca = ford
+modello = fiesta
+km = 140000
+anno = 2008
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-4-tdci-diesel-grigio-0db0e2fd-173c-4f5f-84c9-5089ac44f41d
+score = 0.1972758633597127
+----------------------------------
+----------------------------------
+prezzo = 2950
+marca = ford
+modello = fiesta
+km = 81000
+anno = 2007
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-4-tdci-ghia-diesel-argento-aab37ca7-e4bd-419e-936a-c90b063d31df
+score = 0.19820172569674888
+----------------------------------
+----------------------------------
+prezzo = 2999
+marca = ford
+modello = fiesta
+km = 84000
+anno = 2007
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-4-tdci-ambiente-diesel-blu-azzurro-c18b852d-defc-4ce3-8249-a2f92853afe2
+score = 0.20079169800927904
+----------------------------------
+----------------------------------
+prezzo = 1900
+marca = ford
+modello = fiesta
+km = 140000
+anno = 2008
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-v-2006-3p-1-2-titanium-benzina-argento-2e09149a-08ec-4271-93fc-e8e11afcdf4b
+score = 0.20135916266555182
+----------------------------------
+----------------------------------
+prezzo = 2300
+marca = ford
+modello = fiesta
+km = 124947
+anno = 2008
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-tdci-diesel-nero-cf1617a8-d1b5-4f3e-8304-db2e6b60cc72
+score = 0.20154985906720627
+----------------------------------
+----------------------------------
+prezzo = 4999
+marca = ford
+modello = fiesta
+km = 90000
+anno = 2013
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-business-75cv-diesel-nero-ac9c4a66-71de-4588-9a3b-1a5627ca5ee0
+score = 0.20480381903286937
+----------------------------------
+----------------------------------
+prezzo = 4800
+marca = ford
+modello = fiesta
+km = 36000
+anno = 2008
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-tdci-titanium-diesel-blu-azzurro-fa0860f3-4a01-47e3-8097-242b74b8c606
+score = 0.2054621178701005
+----------------------------------
+----------------------------------
+prezzo = 1250
+marca = ford
+modello = fiesta
+km = 150000
+anno = 2006
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-v-2006-3p-1-4-tdci-diesel-nero-09123f65-5964-490e-85e0-2b40a3be9d36
+score = 0.20672031986357325
+----------------------------------
+----------------------------------
+prezzo = 4300
+marca = ford
+modello = fiesta
 km = 75000
+anno = 2009
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2008-3p-1-4-16v-titanium-gpl-gpl-bianco-f1a2ea70-7b7f-4934-9cf6-4cd479cf36aa
+score = 0.20925153471263047
+----------------------------------
+----------------------------------
+prezzo = 4900
+marca = ford
+modello = fiesta
+km = 140000
+anno = 2016
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-trend-1-0-80cv-5porte-benzina-744f3913-48b1-447a-ab57-1275574f24c8
+score = 0.20927531891980525
+----------------------------------
+----------------------------------
+prezzo = 2200
+marca = ford
+modello = fiesta
+km = 156000
+anno = 2009
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-2-benzina-argento-51a97952-4dc9-4bd4-a704-fdccd7516836
+score = 0.2092951195315082
+----------------------------------
+----------------------------------
+prezzo = 2500
+marca = ford
+modello = fiesta
+km = 57000
+anno = 2002
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-16v-benzina-rosso-5a3904c1-c578-4113-8720-fd3d0035ded0
+score = 0.20963112373114762
+----------------------------------
+----------------------------------
+prezzo = 6147
+marca = ford
+modello = fiesta
+km = 145000
+anno = 2020
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-van-2-posti-autocarro-diesel-bianco-4ef7166c-2d2d-488f-b458-0d4e2f13ba0b
+score = 0.21071729672937808
+----------------------------------
+----------------------------------
+prezzo = 3990
+marca = ford
+modello = fiesta
+km = 65466
+anno = 2007
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-diesel-695ea370-7b3c-4e19-82f3-26fc1d52bc39
+score = 0.2112041197852117
+----------------------------------
+----------------------------------
+prezzo = 1250
+marca = ford
+modello = fiesta
+km = 172000
+anno = 2007
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-tdci-titanium-diesel-nero-2f8c0a28-142f-448e-a4ee-9f3a5b7b55cc
+score = 0.21171045573597008
+----------------------------------
+----------------------------------
+prezzo = 5900
+marca = ford
+modello = fiesta
+km = 72495
+anno = 2013
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-business-benzina-grigio-da38f23f-25a2-4b25-ae98-fbcc75727e14
+score = 0.21392397656720613
+----------------------------------
+----------------------------------
+prezzo = 2200
+marca = ford
+modello = fiesta
+km = 180000
+anno = 2010
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-titanium-82cv-benzina-rosso-dcefbf05-ada7-41c3-98c3-5c1af7d12c18
+score = 0.21534496472563813
+----------------------------------
+----------------------------------
+prezzo = 2500
+marca = ford
+modello = fiesta
+km = 134000
+anno = 2007
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-25cc-75cv-5-porte-benzina-blu-azzurro-e5b0497f-73ce-46b4-9e0f-f65eebd4de50
+score = 0.21709659928453667
+----------------------------------
+----------------------------------
+prezzo = 4990
+marca = ford
+modello = fiesta
+km = 90000
+anno = 2011
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-tdci-70cv-ok-neopatentati-pronta-consegna-full-diesel-blu-azzurro-206865e3-92da-49df-94ff-d037d33395b5
+score = 0.21795340389744
+----------------------------------
+----------------------------------
+prezzo = 9098
+marca = ford
+modello = fiesta
+km = 33973
 anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-ii-50-3-0-tdi-plus-quattro-tiptronic-elettrica-diesel-blu-azzurro-8f237694-e255-4df2-904d-3d9f401d611d
-score = 0.5090313178729229
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-1-5-tdci-85-cv-3-porte-van-trend-diesel-bianco-a9fcffba-e521-4231-a104-75afd9a18e79
+score = 0.21880487122167336
 ----------------------------------
 ----------------------------------
-prezzo = 54900
-marca = audi
-modello = a7
-km = 45445
-anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-spb-45-3-0-tdi-quattro-tiptronic-elettrica-diesel-blu-azzurro-e19d0dd2-3b62-4763-845b-d64e0fe9c7f8
-score = 0.5099480509673522
+prezzo = 7300
+marca = ford
+modello = fiesta
+km = 117000
+anno = 2020
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-1-plus-70cv-my19-benzina-bianco-ec3dda25-ef6f-4121-b5e0-bcad3b212d71
+score = 0.2194215867232779
 ----------------------------------
 ----------------------------------
-prezzo = 51950
-marca = audi
-modello = a7
+prezzo = 7300
+marca = ford
+modello = fiesta
+km = 117000
+anno = 2020
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-1-plus-70cv-my19-benzina-bianco-72dcd660-eb15-43d5-a4fd-e465515ae9a5
+score = 0.2194215867232779
+----------------------------------
+----------------------------------
+prezzo = 6500
+marca = ford
+modello = fiesta
+km = 61000
+anno = 2013
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-80cv-5-porte-business-benzina-rosso-34a0d53d-904b-47d1-b91e-5302309fefb8
+score = 0.22008319515806274
+----------------------------------
+----------------------------------
+prezzo = 5200
+marca = ford
+modello = fiesta
+km = 86000
+anno = 2011
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2008-5p-1-2-16v-c-esp-82cv-e5-benzina-nero-2e69597a-13eb-4a22-9b39-8772e22640fe
+score = 0.22012144952510498
+----------------------------------
+----------------------------------
+prezzo = 750
+marca = ford
+modello = fiesta
+km = 172500
+anno = 2004
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-tdci-5p-ghia-diesel-argento-de4acf7d-e05a-4bd4-91f4-2c468d8b9f06
+score = 0.2217671348018056
+----------------------------------
+----------------------------------
+prezzo = 3200
+marca = ford
+modello = fiesta
+km = 180000
+anno = 2012
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-4-tdci-ikon-business-70cv-diesel-argento-9652ef9d-d846-4c90-9ce4-8fc25dffce5d
+score = 0.22242812792150038
+----------------------------------
+----------------------------------
+prezzo = 2999
+marca = ford
+modello = fiesta
+km = 150000
+anno = 2009
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-ford-fiesta-1-4-tdci-titanium-2009-trattabile-diesel-blu-azzurro-a4d03237-3ef0-4e26-b033-b390e8d6d986
+score = 0.22242877229313635
+----------------------------------
+----------------------------------
+prezzo = 1700
+marca = ford
+modello = fiesta
+km = 149900
+anno = 2005
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-zetec-benzina-blu-azzurro-44019335-2945-425a-9bc0-8245dd037408
+score = 0.2225214245022913
+----------------------------------
+----------------------------------
+prezzo = 5000
+marca = ford
+modello = fiesta
 km = 38000
+anno = 2006
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-v-2006-3p-1-2-titanium-benzina-argento-9a9109ef-3d04-47b0-955b-7f22021c0d01
+score = 0.22393845983100596
+----------------------------------
+----------------------------------
+prezzo = 1200
+marca = ford
+modello = fiesta
+km = 72000
+anno = 1997
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-2-ghia-c-abs-ac-benzina-blu-azzurro-d215b6f4-1cce-4287-964c-38ba0ebc5a3c
+score = 0.22437083148952455
+----------------------------------
+----------------------------------
+prezzo = 1900
+marca = ford
+modello = fiesta
+km = 186000
+anno = 2008
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-2-clever-gpl-nero-26f03bfd-b37b-4eef-970e-fa4a302f1084
+score = 0.22573247706541194
+----------------------------------
+----------------------------------
+prezzo = 6000
+marca = ford
+modello = fiesta
+km = 105000
+anno = 2014
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0cc-80cv-neopatentati-benzina-blu-azzurro-53fdd09a-3efc-4445-b397-a513a8538d3c
+score = 0.2265218853049254
+----------------------------------
+----------------------------------
+prezzo = 7500
+marca = ford
+modello = fiesta
+km = 60000
+anno = 2015
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-60cv-benzina-bianco-f94eea56-f160-4595-940e-02cf0932121d
+score = 0.22663650369305852
+----------------------------------
+----------------------------------
+prezzo = 4300
+marca = ford
+modello = fiesta
+km = 108000
+anno = 2009
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-vi-2008-3p-1-2-16v-titanium-82cv-benzina-bianco-ba027045-e01f-449b-a715-9ad61705898a
+score = 0.22673673852122578
+----------------------------------
+----------------------------------
+prezzo = 5700
+marca = ford
+modello = fiesta
+km = 92000
+anno = 2012
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-60cv-3-porte-ambiente-benzina-blu-azzurro-9363e6fd-57b2-4dd7-9e5f-10a609aa0cda
+score = 0.2268421590882352
+----------------------------------
+----------------------------------
+prezzo = 7000
+marca = ford
+modello = fiesta
+km = 69000
+anno = 2014
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-titanium-80cv-benzina-argento-0b5e1664-934a-4c0b-99b5-75c58c9765ab
+score = 0.2278636140429261
+----------------------------------
+----------------------------------
+prezzo = 8999
+marca = ford
+modello = fiesta
+km = 68299
 anno = 2020
-link = https://www.autoscout24.it//annunci/audi-a7-spb-55-phev-tfsie-quattro-ultra-s-line-plus-elettrica-benzina-blu-azzurro-95ea0c40-b7b5-4e78-b8e4-bd2a51471276
-score = 0.5102241542183429
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-85-cv-3-porte-van-trend-iva-diesel-bianco-ce59d4c0-8684-4dad-8799-21a520b3b20d
+score = 0.22830476248752066
 ----------------------------------
 ----------------------------------
-prezzo = 49900
-marca = audi
-modello = a7
-km = 100850
+prezzo = 2000
+marca = ford
+modello = fiesta
+km = 175000
+anno = 2007
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-v-2006-3p-1-6-tdci-s-diesel-nero-d77590d0-6ec4-4d97-98fc-fdc0dee7bbd6
+score = 0.22861239211546636
+----------------------------------
+----------------------------------
+prezzo = 4190
+marca = ford
+modello = fiesta
+km = 141000
+anno = 2011
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-2-16v-titanium-c-esp-82cv-e5-benzina-blu-azzurro-e32b09f5-43e8-40e1-a2bd-2d2b47e6d612
+score = 0.22864279437827625
+----------------------------------
+----------------------------------
+prezzo = 8990
+marca = ford
+modello = fiesta
+km = 57438
 anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-45-3-0-tdi-quattro-tiptronic-business-pl-elettrica-diesel-nero-a2eaa045-e6f8-4f36-be91-0ddc1ed1acb3
-score = 0.5109607449646887
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-85-cv-3-p-van-trend-diesel-bianco-ec89746d-fcdc-4695-8218-d8cbc7a18f62
+score = 0.22903292921375323
 ----------------------------------
 ----------------------------------
-prezzo = 47950
-marca = audi
-modello = a7
-km = 129000
+prezzo = 5800
+marca = ford
+modello = fiesta
+km = 55000
+anno = 2009
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-titanium-82cv-benzina-blu-azzurro-9f011151-df59-4aed-bf5f-b6f04e9c2428
+score = 0.22927918628909338
+----------------------------------
+----------------------------------
+prezzo = 8500
+marca = ford
+modello = fiesta
+km = 52000
+anno = 2017
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-tdci-st-line-75cv-diesel-grigio-5c415531-1ddb-4b58-9e76-c1b766f3522d
+score = 0.22948082960198854
+----------------------------------
+----------------------------------
+prezzo = 4900
+marca = ford
+modello = fiesta
+km = 153000
+anno = 2014
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-80cv-benzina-grigio-00e658cf-1636-4bc8-9247-a495332cabdb
+score = 0.2294967628444034
+----------------------------------
+----------------------------------
+prezzo = 2400
+marca = ford
+modello = fiesta
+km = 174000
+anno = 2008
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-tdci-ghia-diesel-blu-azzurro-ce8efcc7-c9e1-491d-97ca-2a4edadb8fb9
+score = 0.22958246939961144
+----------------------------------
+----------------------------------
+prezzo = 4400
+marca = ford
+modello = fiesta
+km = 136000
+anno = 2011
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-tdci-diesel-blu-azzurro-e71f3dbf-683a-4483-a701-bdb2417674ad
+score = 0.23028098534507468
+----------------------------------
+----------------------------------
+prezzo = 4500
+marca = ford
+modello = fiesta
+km = 145000
+anno = 2012
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-tdci-ikon-diesel-bianco-f812a1b3-dfd7-4f0a-b4d0-47a76e7e681f
+score = 0.2304246602791263
+----------------------------------
+----------------------------------
+prezzo = 8500
+marca = ford
+modello = fiesta
+km = 79000
 anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-50-hybrid-s-line-esterno-interno-c-21-elettrica-diesel-nero-1e718a68-4486-4660-8e83-b6503c5fad44
-score = 0.5151697460536163
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-85-cv-2-posti-van-3-porte-furgone-iva-e6d-diesel-bianco-5469426d-8d27-466f-8887-74a8d2c2e21d
+score = 0.2304535721120514
 ----------------------------------
 ----------------------------------
-prezzo = 56950
-marca = audi
-modello = a7
-km = 39999
+prezzo = 8500
+marca = ford
+modello = fiesta
+km = 79000
 anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-business-plus-elettrica-diesel-blu-azzurro-0da9105f-cd37-4319-b696-aef317f60224
-score = 0.5196013787123678
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-85-cv-2-posti-van-3-porte-furgone-iva-e6d-diesel-bianco-097a031f-e693-4548-8579-69673eb5e0c5
+score = 0.2304535721120514
 ----------------------------------
 ----------------------------------
-prezzo = 52900
-marca = audi
-modello = a7
-km = 99000
-anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-pronta-consegna-elettrica-diesel-bianco-a4f8ae08-bb82-4ba4-bc73-58e89825639f
-score = 0.5286554168624535
+prezzo = 6200
+marca = ford
+modello = fiesta
+km = 117500
+anno = 2015
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-75cv-diesel-grigio-200291b3-3050-4343-85aa-bb331b1b107e
+score = 0.2305617012049294
 ----------------------------------
 ----------------------------------
-prezzo = 60000
-marca = audi
-modello = a7
-km = 35000
-anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-45tfsi-4x4-elettrica-benzina-nero-c2ae2999-54bb-4022-9864-70d72905b318
-score = 0.5357730538261132
+prezzo = 2900
+marca = ford
+modello = fiesta
+km = 182115
+anno = 2010
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-tdci-68cv-3-porte-diesel-nero-ac1fee08-be67-4b1b-9154-c23f8cf04ef3
+score = 0.23075715490380772
 ----------------------------------
 ----------------------------------
-prezzo = 66500
-marca = audi
-modello = a7
-km = 13831
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-50-3-0-tdi-mhev-quattro-tiptronic-elettrica-diesel-grigio-6ec4fa02-44c6-4eda-a6eb-0a2b582aa916
-score = 0.5410298253169727
+prezzo = 4600
+marca = ford
+modello = fiesta
+km = 130000
+anno = 2011
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-2-16v-titanium-fl-benzina-argento-aa028880-2f0d-438d-832c-5abc63cfb537
+score = 0.23118515668571465
 ----------------------------------
 ----------------------------------
-prezzo = 56950
-marca = audi
-modello = a7
-km = 37700
-anno = 2020
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50-2-0-tfsi-e-quattro-ultra-s-tronic-business-elettrica-benzina-blu-azzurro-b1fed1fa-05d5-433d-92f8-ba50455d7225
-score = 0.5413379723912439
+prezzo = 1500
+marca = ford
+modello = fiesta
+km = 187000
+anno = 2006
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-tdci-ghia-ottima-in-tutto-diesel-argento-ec00b12f-99b0-4815-9a0f-0155cf63e780
+score = 0.23142906644793354
 ----------------------------------
 ----------------------------------
-prezzo = 52500
-marca = audi
-modello = a7
-km = 47500
-anno = 2021
-link = https://www.autoscout24.it//annunci/audi-a7-spb-45-business-plus-s-tronic-s-line-elettrica-benzina-grigio-3b8ce9fd-3528-4059-9a0e-9389a46522e4
-score = 0.5422813877038464
+prezzo = 8600
+marca = ford
+modello = fiesta
+km = 52200
+anno = 2017
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2013-5p-1-5-tdci-titanium-75cv-e6-diesel-nero-095d40d7-7ccd-4b5f-9b4a-10ad34329ca9
+score = 0.2316284501870814
 ----------------------------------
 ----------------------------------
-prezzo = 57500
-marca = audi
-modello = a7
-km = 74900
-anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-a7-s-line-50-business-plus-quattro-tiptronic-elettrica-diesel-blu-azzurro-8dcc42b0-28e8-491b-ab0b-a2cb2fca33e2
-score = 0.543390609103458
+prezzo = 7990
+marca = ford
+modello = fiesta
+km = 38000
+anno = 2014
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-titanium-100cv-sensori-parcheggio-benzina-argento-b1c01b9d-6674-4582-9d2c-89e4e557e60d
+score = 0.23165045111996746
 ----------------------------------
 ----------------------------------
-prezzo = 52900
-marca = audi
-modello = a7
-km = 98534
-anno = 2020
-link = https://www.autoscout24.it//annunci/audi-a7-a7-s-b-50-3-0-tdi-mhev-busin-plus-quattro-tiptron-elettrica-diesel-grigio-0992933b-1ba0-4fa5-aa8c-2ddb6d02d03f
-score = 0.5514606594263318
+prezzo = 3500
+marca = ford
+modello = fiesta
+km = 175000
+anno = 2011
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-tdci-titanium-c-esp-diesel-bianco-b9ed6145-15f0-4602-a22f-ff23d8ebdc2a
+score = 0.2325704702425931
 ----------------------------------
 ----------------------------------
-prezzo = 51999
-marca = audi
-modello = a7
+prezzo = 3500
+marca = ford
+modello = fiesta
+km = 175000
+anno = 2011
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-4-tdci-c-esp-e5-diesel-blu-azzurro-b8c804ac-5b59-4fc9-b27f-b8b5cf54f34e
+score = 0.2325704702425931
+----------------------------------
+----------------------------------
+prezzo = 5099
+marca = ford
+modello = fiesta
+km = 115000
+anno = 2011
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-2-16v-titanium-c-esp-e5-benzina-blu-azzurro-ed3bb583-0e41-4b65-90a8-36117efa0bdb
+score = 0.2334251685407854
+----------------------------------
+----------------------------------
+prezzo = 3950
+marca = ford
+modello = fiesta
+km = 136000
+anno = 2009
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-4-16v-titanium-gpl-gpl-bianco-bd3d6c88-97ef-4402-8b84-251805c2d6ca
+score = 0.23442689524027
+----------------------------------
+----------------------------------
+prezzo = 7500
+marca = ford
+modello = fiesta
+km = 100000
+anno = 2017
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-tdci-st-line-75cv-diesel-bianco-cf72f0c4-2e3a-4643-8eaf-faeed2539553
+score = 0.23449735679438613
+----------------------------------
+----------------------------------
+prezzo = 3999
+marca = ford
+modello = fiesta
 km = 160000
-anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-blu-azzurro-819b5773-d63c-4a5e-b415-6f860d4e55c7
-score = 0.5585805185169548
+anno = 2011
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-2-16v-c-esp-82cv-e5-benzina-argento-c56bda3b-655e-40e2-9bc1-7f6bc08ce660
+score = 0.23481048209766386
 ----------------------------------
 ----------------------------------
-prezzo = 64900
-marca = audi
-modello = a7
-km = 68100
-anno = 2018
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-55-3-0-tfsi-mhev-business-plus-quattro-s-elettrica-benzina-nero-1b7d38c6-b238-4b94-bacb-f3769d01c0fb
-score = 0.5626565546457926
+prezzo = 7499
+marca = ford
+modello = fiesta
+km = 76000
+anno = 2015
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-60cv-3-porte-neopatentati-benzina-blu-azzurro-01e1a981-d823-46d5-b383-9ffdd52056cc
+score = 0.2350937617703937
 ----------------------------------
 ----------------------------------
-prezzo = 61999
-marca = audi
-modello = a7
-km = 70000
-anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-quattro-tiptronic-elettrica-diesel-bianco-41084dca-78d0-4188-9aeb-2bcb4931d1b7
-score = 0.5686874727464475
+prezzo = 2000
+marca = ford
+modello = fiesta
+km = 75000
+anno = 1998
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-2-techno-c-abs-ac-ss-benzina-f7d007b4-bb8b-4604-a905-d4a211816c18
+score = 0.23562692602881397
 ----------------------------------
 ----------------------------------
-prezzo = 57900
-marca = audi
-modello = a7
+prezzo = 6500
+marca = ford
+modello = fiesta
+km = 40151
+anno = 2009
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-si-ztl-roma-tit-possibilita-di-gpl-benzina-grigio-0046ddaf-070e-40d7-9dac-382ca9b7154e
+score = 0.23570292200032328
+----------------------------------
+----------------------------------
+prezzo = 6500
+marca = ford
+modello = fiesta
+km = 40154
+anno = 2009
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-si-ztl-roma-tit-possibilita-di-gpl-benzina-grigio-272d2df9-1e41-4adf-9181-bc92fc57ad13
+score = 0.23570451156430589
+----------------------------------
+----------------------------------
+prezzo = 5500
+marca = ford
+modello = fiesta
+km = 91473
+anno = 2010
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-82cv-5-porte-benzina-blu-azzurro-40ed31f3-f7dd-466e-8625-a3ed95754f6b
+score = 0.23581295970945276
+----------------------------------
+----------------------------------
+prezzo = 5200
+marca = ford
+modello = fiesta
+km = 77887
+anno = 2008
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-2-16v-82cv-benzina-grigio-458d1a12-9098-4363-ad61-afaa3b0363c9
+score = 0.23582273866149486
+----------------------------------
+----------------------------------
+prezzo = 6700
+marca = ford
+modello = fiesta
+km = 58000
+anno = 2011
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-tdci-ikon-business-70cv-diesel-lilla-a1a612a8-fa58-4428-893b-21815012702a
+score = 0.23591026381463567
+----------------------------------
+----------------------------------
+prezzo = 4900
+marca = ford
+modello = fiesta
+km = 115000
+anno = 2010
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-diesel-b6edacd8-2d25-41d3-8600-e3c55923bd7b
+score = 0.23602895239814214
+----------------------------------
+----------------------------------
+prezzo = 4000
+marca = ford
+modello = fiesta
+km = 150008
+anno = 2010
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2008-3p-1-4-tdci-diesel-nero-e3d547c4-f11c-4b75-b912-5ea6e902cd4b
+score = 0.2362032574894814
+----------------------------------
+----------------------------------
+prezzo = 7200
+marca = ford
+modello = fiesta
+km = 52500
+anno = 2012
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-2-16v-titanium-c-esp-82cv-e5-benzina-grigio-ea3382be-357e-4558-a9ff-56ea88554640
+score = 0.2365376447778009
+----------------------------------
+----------------------------------
+prezzo = 5500
+marca = ford
+modello = fiesta
+km = 144000
+anno = 2014
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2013-3p-1-0-ecoboost-titanium-100cv-benzina-rosso-3a52939e-4eac-4db0-bbce-ba8600d136f3
+score = 0.23697796881412203
+----------------------------------
+----------------------------------
+prezzo = 4900
+marca = ford
+modello = fiesta
+km = 130000
+anno = 2011
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2008-3p-1-2-16v-c-esp-82cv-e5-benzina-nero-e989e5b4-c7a6-4635-874d-203354af0b11
+score = 0.23731010564447336
+----------------------------------
+----------------------------------
+prezzo = 8600
+marca = ford
+modello = fiesta
+km = 14900
+anno = 2013
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-ja8-1-0-benzina-argento-a2e8e35b-9b97-4bdc-b224-90bd98cb8ef0
+score = 0.23853153800342675
+----------------------------------
+----------------------------------
+prezzo = 6900
+marca = ford
+modello = fiesta
+km = 68050
+anno = 2012
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-6-serie-1-2-60cv-3p-tit-benzina-blu-azzurro-bdb7656f-08c8-42db-9a1e-d23663d8eb1f
+score = 0.23865193579551666
+----------------------------------
+----------------------------------
+prezzo = 3300
+marca = ford
+modello = fiesta
+km = 170000
+anno = 2009
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-4-tdci-diesel-blu-azzurro-a1667107-3df7-4f12-8c0d-9bc6b824bfff
+score = 0.2391712309657547
+----------------------------------
+----------------------------------
+prezzo = 8200
+marca = ford
+modello = fiesta
+km = 82140
+anno = 2017
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-plus-1-5-tdci-75cv-5-porte-promozione-del-mese-diesel-grigio-ec5d375c-6109-4506-9966-f51f1d812f85
+score = 0.23932570012174692
+----------------------------------
+----------------------------------
+prezzo = 5600
+marca = ford
+modello = fiesta
+km = 120000
+anno = 2012
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-tdci-70cv-5-porte-titanium-diesel-nero-58b8f555-b192-4042-9141-7507a5ebf87c
+score = 0.23963643993957834
+----------------------------------
+----------------------------------
+prezzo = 4950
+marca = ford
+modello = fiesta
+km = 120000
+anno = 2010
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-4-tdci-titanium-diesel-nero-e2f6be9d-912c-40bd-b740-3dfb3a4cc06e
+score = 0.23969905052893453
+----------------------------------
+----------------------------------
+prezzo = 5200
+marca = ford
+modello = fiesta
+km = 123000
+anno = 2011
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-tdci-70cv-5p-titanium-bs-diesel-nero-9125d8e6-75fa-44cf-935a-0ab010086fb0
+score = 0.23972607197716636
+----------------------------------
+----------------------------------
+prezzo = 5500
+marca = ford
+modello = fiesta
+km = 99000
+anno = 2010
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-2010-5p-1-6-tdci-titanium-c-esp-95cv-e5-diesel-0212889c-504e-4eb4-ab77-e0189fbf853a
+score = 0.2398011757417951
+----------------------------------
+----------------------------------
+prezzo = 4990
+marca = ford
+modello = fiesta
+km = 169000
+anno = 2014
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-75cv-3-porte-business-diesel-blu-azzurro-b2252642-fbf8-4d74-921a-7e3813a5768b
+score = 0.23981192210589536
+----------------------------------
+----------------------------------
+prezzo = 5990
+marca = ford
+modello = fiesta
+km = 119000
+anno = 2013
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-2-titanium-60cv-ok-neopatentati-benzina-nero-970ae206-ad86-4576-9136-589b2959436b
+score = 0.24040235225843143
+----------------------------------
+----------------------------------
+prezzo = 4600
+marca = ford
+modello = fiesta
+km = 160000
+anno = 2012
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-2-16v-titanium-82cv-benzina-bianco-ca54741d-3105-4db2-83b0-0984916250db
+score = 0.2404141298450437
+----------------------------------
+----------------------------------
+prezzo = 2900
+marca = ford
+modello = fiesta
+km = 188000
+anno = 2009
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-16v-titanium-gpl-gpl-nero-366bda78-f7c2-47dd-81f8-8bb923e567cf
+score = 0.24054201624967392
+----------------------------------
+----------------------------------
+prezzo = 8400
+marca = ford
+modello = fiesta
+km = 51992
+anno = 2015
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-titanium-80cv-e6-benzina-argento-6ec552b2-04dd-46c7-a729-95d395a08851
+score = 0.24076827444511542
+----------------------------------
+----------------------------------
+prezzo = 4000
+marca = ford
+modello = fiesta
+km = 159000
+anno = 2010
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2008-5p-1-2-16v-c-esp-82cv-e5-benzina-nero-bec69c87-8343-44e9-b9a0-9810e6282e0d
+score = 0.24096771059999317
+----------------------------------
+----------------------------------
+prezzo = 7300
+marca = ford
+modello = fiesta
+km = 120000
+anno = 2017
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-4-plus-gpl-95cv-e6-gpl-bianco-b619e2d5-5b18-4396-8c17-5aaf8af40c83
+score = 0.24101115070587747
+----------------------------------
+----------------------------------
+prezzo = 4500
+marca = ford
+modello = fiesta
+km = 178000
+anno = 2013
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-16v-titanium-gpl-fl-gpl-bianco-a164ace2-fbea-4258-8c99-3c7baba4a8e8
+score = 0.24124319742105493
+----------------------------------
+----------------------------------
+prezzo = 2500
+marca = ford
+modello = fiesta
+km = 230000
+anno = 2011
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-82cv-gpl-nero-c6a6ac9c-8221-413d-b7ae-9ed9db957b97
+score = 0.24129598006105638
+----------------------------------
+----------------------------------
+prezzo = 5750
+marca = ford
+modello = fiesta
+km = 105000
+anno = 2011
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-tdci-70cv-5-porte-diesel-fe7c4173-df36-4be6-8414-9925e08d5dba
+score = 0.2414177611726265
+----------------------------------
+----------------------------------
+prezzo = 5500
+marca = ford
+modello = fiesta
+km = 165000
+anno = 2015
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-75cv-diesel-nero-a27abb55-c349-4e62-a06f-ca782d72d6ea
+score = 0.2414382500256524
+----------------------------------
+----------------------------------
+prezzo = 6990
+marca = ford
+modello = fiesta
+km = 133000
+anno = 2017
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-black-white-75cv-e6-diesel-bianco-49c161fb-65e6-4ae5-95d5-6a645c053f72
+score = 0.24157014737309168
+----------------------------------
+----------------------------------
+prezzo = 5900
+marca = ford
+modello = fiesta
+km = 125000
+anno = 2013
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-75cv-5-porte-titanium-neopatentati-diesel-argento-5b7e0d87-46ee-4019-84ec-8c58b54e16db
+score = 0.24174399553600295
+----------------------------------
+----------------------------------
+prezzo = 2599
+marca = ford
+modello = fiesta
+km = 202000
+anno = 2009
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2008-3p-1-2-16v-82cv-benzina-nero-b96d7d42-5850-4f46-956e-17de153ac05a
+score = 0.24181461604651738
+----------------------------------
+----------------------------------
+prezzo = 6000
+marca = ford
+modello = fiesta
+km = 83630
+anno = 2010
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2010-5p-1-2-16v-82cv-benzina-bianco-8a0661c2-0e1d-421d-b112-38349b2d0a61
+score = 0.24186555786887443
+----------------------------------
+----------------------------------
+prezzo = 3900
+marca = ford
+modello = fiesta
+km = 165000
+anno = 2010
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-4-tdci-titanium-diesel-bianco-e25d9bbe-baf1-4365-9c28-0c78139caf7c
+score = 0.24210518891227278
+----------------------------------
+----------------------------------
+prezzo = 9290
+marca = ford
+modello = fiesta
+km = 33000
+anno = 2016
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-titanium-80cv-bluetooth-benzina-bianco-338449e0-93db-42ad-8180-d35d160e7185
+score = 0.2422092899702558
+----------------------------------
+----------------------------------
+prezzo = 3600
+marca = ford
+modello = fiesta
+km = 177000
+anno = 2010
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-16v-gpl-gpl-blu-azzurro-aa86f10a-5ca3-4302-a39e-322fbeb16890
+score = 0.24233849588391237
+----------------------------------
+----------------------------------
+prezzo = 8500
+marca = ford
+modello = fiesta
+km = 64000
+anno = 2016
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-100cv-benzina-bianco-2af63002-cfd1-4248-96a9-b95f09961dd2
+score = 0.24250575219905351
+----------------------------------
+----------------------------------
+prezzo = 6300
+marca = ford
+modello = fiesta
+km = 149000
+anno = 2016
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-titanium-75cv-diesel-grigio-c0476d67-5fb3-4fc2-adcf-e8350a7f8897
+score = 0.24262710600847778
+----------------------------------
+----------------------------------
+prezzo = 1900
+marca = ford
+modello = fiesta
+km = 193198
+anno = 2006
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-tdci-neopatentati-diesel-nero-c7373c78-3a83-4687-b6a5-8285a180c86d
+score = 0.24287970424766248
+----------------------------------
+----------------------------------
+prezzo = 4200
+marca = ford
+modello = fiesta
+km = 155000
+anno = 2010
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-titanium-82cv-benzina-nero-e84d37a8-ab80-4595-abab-4b5e0b797409
+score = 0.2429315912623662
+----------------------------------
+----------------------------------
+prezzo = 6500
+marca = ford
+modello = fiesta
+km = 54450
+anno = 2009
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-2-16v-82cv-benzina-blu-azzurro-1d46a269-c32d-4890-ac85-1d8296b29702
+score = 0.24327931379605372
+----------------------------------
+----------------------------------
+prezzo = 4800
+marca = ford
+modello = fiesta
+km = 120000
+anno = 2009
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-82cv-benzina-bianco-f7d28bfd-c1b8-4c6a-92c2-951df5301e98
+score = 0.24330324271622183
+----------------------------------
+----------------------------------
+prezzo = 5890
+marca = ford
+modello = fiesta
+km = 116000
+anno = 2012
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-16v-ikon-gpl-gpl-grigio-7a6682e4-cf2a-4345-a76c-13aa4a1e109a
+score = 0.24343780528957895
+----------------------------------
+----------------------------------
+prezzo = 5200
+marca = ford
+modello = fiesta
+km = 155849
+anno = 2013
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-gpl-92cv-gpl-nero-a56c6254-5dbf-460d-aca6-57b7aade73db
+score = 0.24379793439863745
+----------------------------------
+----------------------------------
+prezzo = 2400
+marca = ford
+modello = fiesta
+km = 138000
+anno = 2003
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-v-2003-3p-1-2-16v-zetec-benzina-euro-4-benzina-grigio-0263a3be-1d80-4395-b1bb-0365a698641b
+score = 0.24384103494174988
+----------------------------------
+----------------------------------
+prezzo = 7500
+marca = ford
+modello = fiesta
+km = 30000
+anno = 2010
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-16v-benzina-neopatentati-30000km-benzina-nero-d3cc2691-2d84-49dc-8cb7-4aecf74f4b23
+score = 0.24407419720039608
+----------------------------------
+----------------------------------
+prezzo = 3700
+marca = ford
+modello = fiesta
+km = 240000
+anno = 2015
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-5-tdci-75cv-diesel-bianco-1dcb4f15-4587-4080-8765-7241f3c7e445
+score = 0.24442765583808967
+----------------------------------
+----------------------------------
+prezzo = 7300
+marca = ford
+modello = fiesta
+km = 89000
+anno = 2014
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-0-titanium-80cv-solo-89-000-km-benzina-nero-7cf7a9e0-0ce3-495a-ba60-f2af7cca79a4
+score = 0.24458565621901524
+----------------------------------
+----------------------------------
+prezzo = 8000
+marca = ford
+modello = fiesta
+km = 100000
+anno = 2017
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-st-line-75cv-polonia-diesel-nero-b1eff6c5-d1d9-4855-be8c-342bc7f386b7
+score = 0.24470560505898392
+----------------------------------
+----------------------------------
+prezzo = 3900
+marca = ford
+modello = fiesta
+km = 157700
+anno = 2009
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-2-16v-82cv-benzina-blu-azzurro-dd038559-d628-4ffd-b670-089fd03a03d0
+score = 0.2449039165546138
+----------------------------------
+----------------------------------
+prezzo = 7500
+marca = ford
+modello = fiesta
+km = 82000
+anno = 2014
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2013-3p-1-5-tdci-titanium-75cv-neopatent-diesel-nero-fa8825f7-82c5-48fa-b603-f5d92ba40e70
+score = 0.24495997289878868
+----------------------------------
+----------------------------------
+prezzo = 3500
+marca = ford
+modello = fiesta
+km = 186000
+anno = 2010
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-2-16v-titanium-82cv-benzina-bianco-bc046fb6-f4f4-4983-b075-042fc6ec3de0
+score = 0.2450655381787915
+----------------------------------
+----------------------------------
+prezzo = 5700
+marca = ford
+modello = fiesta
+km = 128000
+anno = 2012
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-82cv-3-porte-titanium-benzina-bianco-dc506183-e1da-4a91-81a6-8ba552aef887
+score = 0.2459169268794301
+----------------------------------
+----------------------------------
+prezzo = 7900
+marca = ford
+modello = fiesta
+km = 81000
+anno = 2015
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-80cv-benzina-grigio-24217ccf-96c0-421b-b2c5-a7e176eb34d0
+score = 0.24593005018293376
+----------------------------------
+----------------------------------
+prezzo = 5400
+marca = ford
+modello = fiesta
+km = 166000
+anno = 2014
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-4-business-gpl-92cv-gpl-blu-azzurro-daeb8c1c-917b-421f-aaba-b113394b7238
+score = 0.24659312170026598
+----------------------------------
+----------------------------------
+prezzo = 8000
+marca = ford
+modello = fiesta
+km = 66000
+anno = 2014
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-titanium-100cv-benzina-nero-22429d9d-d4bc-4fa6-88e6-a969597d4f00
+score = 0.2466905465895221
+----------------------------------
+----------------------------------
+prezzo = 6800
+marca = ford
+modello = fiesta
+km = 150000
+anno = 2017
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-tdci-plus-75cv-e6-diesel-nero-eb4b6f3b-2e23-4f57-bfa4-b4526a17464b
+score = 0.24669854226727544
+----------------------------------
+----------------------------------
+prezzo = 5900
+marca = ford
+modello = fiesta
+km = 135000
+anno = 2013
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-80cv-3-porte-business-benzina-bianco-3eca54e3-4861-49d9-84de-fa2a41a9c77f
+score = 0.2470425421446682
+----------------------------------
+----------------------------------
+prezzo = 4500
+marca = ford
+modello = fiesta
+km = 139000
+anno = 2009
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-tdci-68cv-5-porte-titanium-neopatentati-diesel-argento-0ee033f5-2ad5-4385-b271-68433bc021d1
+score = 0.24724553231392715
+----------------------------------
+----------------------------------
+prezzo = 2500
+marca = ford
+modello = fiesta
+km = 217000
+anno = 2009
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2008-5p-1-4-16v-titanium-gpl-gpl-nero-7642d5fa-20a1-46fc-b255-69d6cb2bb928
+score = 0.2477412028031249
+----------------------------------
+----------------------------------
+prezzo = 5500
+marca = ford
+modello = fiesta
 km = 114000
+anno = 2010
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-2-16v-c-esp-e5-benzina-argento-aa27dfcf-5b8f-423c-81ae-95790deff31a
+score = 0.24774899565479297
+----------------------------------
+----------------------------------
+prezzo = 3900
+marca = ford
+modello = fiesta
+km = 215000
+anno = 2013
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-tdci-business-75cv-per-neopatentati-diesel-argento-bf363dde-0569-4a03-b7dc-a457b8348b31
+score = 0.248597921955599
+----------------------------------
+----------------------------------
+prezzo = 5500
+marca = ford
+modello = fiesta
+km = 141000
+anno = 2012
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-ikon-benzina-nero-3a3b157b-624e-4117-b35b-f31369af9f33
+score = 0.2487217381648558
+----------------------------------
+----------------------------------
+prezzo = 4400
+marca = ford
+modello = fiesta
+km = 159000
+anno = 2010
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-5-porte-bz-gpl-titanium-benzina-argento-cd5a8199-87d0-4788-aad4-b6c7cd0330e2
+score = 0.2491343092116714
+----------------------------------
+----------------------------------
+prezzo = 6000
+marca = ford
+modello = fiesta
+km = 98000
+anno = 2010
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-16v-titanium-gpl-gpl-bianco-ffff1730-b7f5-483f-96a5-1ef2f8c65deb
+score = 0.2494795693455264
+----------------------------------
+----------------------------------
+prezzo = 6450
+marca = ford
+modello = fiesta
+km = 156200
+anno = 2016
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-titanium-75cv-diesel-grigio-8ae5590d-54f6-4af5-81cc-bc8d85d14c05
+score = 0.2495045340460961
+----------------------------------
+----------------------------------
+prezzo = 7890
+marca = ford
+modello = fiesta
+km = 63000
+anno = 2013
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-benzina-blu-azzurro-2cd14692-9877-4069-9704-788774a399ed
+score = 0.2495218346553777
+----------------------------------
+----------------------------------
+prezzo = 10000
+marca = ford
+modello = fiesta
+km = 45000
+anno = 2018
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-5p-plus-diesel-grigio-5003e4e0-02ca-43a4-ab17-93a7d5c60a12
+score = 0.24972992510304964
+----------------------------------
+----------------------------------
+prezzo = 5000
+marca = ford
+modello = fiesta
+km = 188711
+anno = 2014
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-titanium-75cv-diesel-blu-azzurro-11292841-cc93-4e03-8874-c67f8a49d56b
+score = 0.2504600522915274
+----------------------------------
+----------------------------------
+prezzo = 8500
+marca = ford
+modello = fiesta
+km = 91806
+anno = 2017
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-tdci-titanium-75cv-e6-diesel-argento-d3cba2ff-2722-48e9-84e8-33e4a09969ed
+score = 0.2505722242324414
+----------------------------------
+----------------------------------
+prezzo = 1199
+marca = ford
+modello = fiesta
+km = 198000
+anno = 2003
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-16v-5p-ambiente-benzina-grigio-bd0bd3da-4716-4a7c-8455-3105cf93505c
+score = 0.25111210226217745
+----------------------------------
+----------------------------------
+prezzo = 9900
+marca = ford
+modello = fiesta
+km = 39000
+anno = 2017
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-85-cv-5-porte-plus-39000km-benzina-argento-c077cff6-f8fd-4d81-9fc3-67c0a636f364
+score = 0.25117581415159757
+----------------------------------
+----------------------------------
+prezzo = 4290
+marca = ford
+modello = fiesta
+km = 193000
+anno = 2012
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-16v-titanium-business-96cv-auto-benzina-grigio-1b863305-b79d-4d8c-b798-25e31115d505
+score = 0.2515702197295884
+----------------------------------
+----------------------------------
+prezzo = 7999
+marca = ford
+modello = fiesta
+km = 89000
+anno = 2015
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-4-titanium-gpl-95cv-e6-gpl-argento-f7d56758-f203-4373-9ea7-feee4c90a246
+score = 0.25219012062625634
+----------------------------------
+----------------------------------
+prezzo = 5990
+marca = ford
+modello = fiesta
+km = 155000
+anno = 2014
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-5-porte-bz-gpl-gpl-bianco-449ef7c4-f908-47c8-876c-1f2229e1c1fb
+score = 0.25281045338295965
+----------------------------------
+----------------------------------
+prezzo = 5100
+marca = ford
+modello = fiesta
+km = 127000
+anno = 2009
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2008-3p-1-2-16v-titanium-82cv-benzina-bianco-1d7e19f2-8e7a-4d3e-9f94-3106f1ed435d
+score = 0.2531371743010462
+----------------------------------
+----------------------------------
+prezzo = 7650
+marca = ford
+modello = fiesta
+km = 54000
+anno = 2011
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-neopatentati-km-54000-benzina-nero-deef3842-d458-4875-b138-826299e14569
+score = 0.25318651687390537
+----------------------------------
+----------------------------------
+prezzo = 4000
+marca = ford
+modello = fiesta
+km = 185225
+anno = 2010
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-3-porte-benzina-gpl-titanium-gpl-nero-9f83284b-49b4-42ed-be94-b6b19c6870a0
+score = 0.25486314908121777
+----------------------------------
+----------------------------------
+prezzo = 5500
+marca = ford
+modello = fiesta
+km = 128000
+anno = 2010
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-1-4-5-porte-bz-gpl-titanium-gpl-argento-a26e7d11-10ef-4633-a6e3-dce0ac23c88b
+score = 0.2551669609069243
+----------------------------------
+----------------------------------
+prezzo = 10900
+marca = ford
+modello = fiesta
+km = 34000
 anno = 2019
-link = https://www.autoscout24.it//annunci/audi-a7-full-optional-50-s-line-allestimento-s7-abt-elettrica-diesel-grigio-3d642ebb-34ea-461b-8051-eeb0bf905ac7
-score = 0.5686892175451927
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-st-line-100cv-benzina-rosso-f484c1a8-b180-4207-9fd5-c667fb21e35d
+score = 0.2556097040431272
 ----------------------------------
 ----------------------------------
-prezzo = 59900
-marca = audi
-modello = a7
-km = 53000
+prezzo = 3800
+marca = ford
+modello = fiesta
+km = 220000
+anno = 2012
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-16v-titanium-gpl-fl-gpl-bianco-97ba689a-1db8-4812-b89f-f5dacc8b7175
+score = 0.25587221227367873
+----------------------------------
+----------------------------------
+prezzo = 7900
+marca = ford
+modello = fiesta
+km = 100358
+anno = 2015
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-75cv-5-porte-titanium-series-unipro-tagli-diesel-grigio-33d96866-e02b-46d1-9404-9a4d18714eac
+score = 0.25618697670798796
+----------------------------------
+----------------------------------
+prezzo = 7500
+marca = ford
+modello = fiesta
+km = 129000
+anno = 2016
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-gpl-ufficiale-casa-madre-95cv-gpl-nero-1eaeca88-874d-4800-98b5-2f8d8f3e2b26
+score = 0.256529808626182
+----------------------------------
+----------------------------------
+prezzo = 7000
+marca = ford
+modello = fiesta
+km = 175000
+anno = 2018
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vii-2018-5p-1-5-tdci-titanium-85cv-diesel-97ecb0ec-2267-42f6-9140-fd7cd8679544
+score = 0.257361541428111
+----------------------------------
+----------------------------------
+prezzo = 4590
+marca = ford
+modello = fiesta
+km = 154710
+anno = 2009
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-82cv-5-porte-benzina-blu-azzurro-1607ab05-224f-4d9f-bb73-ff41e0f02109
+score = 0.25740703372376783
+----------------------------------
+----------------------------------
+prezzo = 8000
+marca = ford
+modello = fiesta
+km = 124500
+anno = 2017
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-5-tdci-st-line-75cv-diesel-bianco-1565877f-da96-4837-95a2-c58160a560ca
+score = 0.25768704425021377
+----------------------------------
+----------------------------------
+prezzo = 8950
+marca = ford
+modello = fiesta
+km = 88000
+anno = 2017
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-gpl-plus-gpl-579fbcc1-33a5-4829-a064-6238312b951e
+score = 0.25774302083132145
+----------------------------------
+----------------------------------
+prezzo = 6900
+marca = ford
+modello = fiesta
+km = 80000
+anno = 2010
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-2-16v-titanium-82cv-unico-proprietario-benzina-grigio-3ac390c1-2993-4ded-b8e8-444e0a16ed8b
+score = 0.25831703232620495
+----------------------------------
+----------------------------------
+prezzo = 10000
+marca = ford
+modello = fiesta
+km = 49000
+anno = 2017
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-75cv-5-porte-titanium-diesel-grigio-5dc5a2a9-096f-4c3c-aafc-1aed1788cdb0
+score = 0.2585160104131824
+----------------------------------
+----------------------------------
+prezzo = 8900
+marca = ford
+modello = fiesta
+km = 106000
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-85cv-my19-benzina-grigio-fad3fdc8-b14d-457e-a386-3750d8b7d789
+score = 0.25959291323379247
+----------------------------------
+----------------------------------
+prezzo = 8490
+marca = ford
+modello = fiesta
+km = 84900
+anno = 2015
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-0-business-80cv-benzina-bianco-f39e0dc8-28cb-48a3-b8b4-9bacd7591138
+score = 0.2600422163125386
+----------------------------------
+----------------------------------
+prezzo = 10200
+marca = ford
+modello = fiesta
+km = 47402
+anno = 2017
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-plus-85cv-benzina-grigio-32726453-023b-4377-bfbe-6c1714fa94e4
+score = 0.2617526019709568
+----------------------------------
+----------------------------------
+prezzo = 9100
+marca = ford
+modello = fiesta
+km = 91000
+anno = 2017
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-st-line-75cv-diesel-nero-22058f05-9525-4e70-b2f5-835d6f1f648b
+score = 0.26239505929330037
+----------------------------------
+----------------------------------
+prezzo = 9100
+marca = ford
+modello = fiesta
+km = 91000
+anno = 2017
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-st-line-75cv-diesel-nero-ba8cc883-b85a-467b-a7ea-eeb446b3b962
+score = 0.26239505929330037
+----------------------------------
+----------------------------------
+prezzo = 8900
+marca = ford
+modello = fiesta
+km = 86500
+anno = 2016
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5-porte-1-5-tdci-titanium-diesel-bianco-a2956859-dec0-454d-9a74-b6ad82659eda
+score = 0.26259408068022855
+----------------------------------
+----------------------------------
+prezzo = 8900
+marca = ford
+modello = fiesta
+km = 86900
+anno = 2016
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-2-titanium-60cv-e6-benzina-77ff41f3-8136-4b3d-b09f-d3b6f6bcf765
+score = 0.2628060225445752
+----------------------------------
+----------------------------------
+prezzo = 10999
+marca = ford
+modello = fiesta
+km = 45000
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-business-100cv-rate-garanzia-unipro-benzina-bianco-1b378b42-a44f-4bf6-8e3e-3faed009926e
+score = 0.26345933846904934
+----------------------------------
+----------------------------------
+prezzo = 5900
+marca = ford
+modello = fiesta
+km = 166000
+anno = 2013
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-bz-gpl-per-neopatentati-gpl-bianco-f7cf67cf-71b9-442d-8c56-261f416036dc
+score = 0.26346803663153046
+----------------------------------
+----------------------------------
+prezzo = 10500
+marca = ford
+modello = fiesta
+km = 67000
+anno = 2019
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-active-2019-active-1-5-86cv-ecoblue-my19-diesel-grigio-116513dc-6f86-47e9-ba63-998072896bbf
+score = 0.2649283092400443
+----------------------------------
+----------------------------------
+prezzo = 6500
+marca = ford
+modello = fiesta
+km = 60000
+anno = 2006
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-2-0-st-benzina-bianco-be070288-cfaf-4a54-893a-6b2e3b6fa394
+score = 0.2662200071638629
+----------------------------------
+----------------------------------
+prezzo = 6400
+marca = ford
+modello = fiesta
+km = 190106
+anno = 2016
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-titanium-100cv-e6-unico-proprieta-benzina-blu-azzurro-e92c041b-b67e-4582-87c9-31d43536fcf6
+score = 0.26644896135097673
+----------------------------------
+----------------------------------
+prezzo = 8300
+marca = ford
+modello = fiesta
+km = 130000
+anno = 2017
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-5-tdci-st-line-75cv-diesel-bianco-139d23a9-fa59-4ec6-82fd-c99a0bbc0391
+score = 0.2667261938437383
+----------------------------------
+----------------------------------
+prezzo = 10900
+marca = ford
+modello = fiesta
+km = 44500
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-plus-85cv-benzina-nero-2e08312c-3f66-4f02-91c9-ff7822a36060
+score = 0.2678398446488924
+----------------------------------
+----------------------------------
+prezzo = 7800
+marca = ford
+modello = fiesta
+km = 138973
+anno = 2016
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-5-porte-1-4-95cv-plus-5p-1-4-plus-g-gpl-blu-azzurro-19dd9c25-0dd2-4bcf-a16d-25b9ee66cf85
+score = 0.26793899811776256
+----------------------------------
+----------------------------------
+prezzo = 7800
+marca = ford
+modello = fiesta
+km = 138973
+anno = 2016
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-5-porte-1-4-95cv-plus-5p-1-4-plus-g-gpl-blu-azzurro-bb3dac1c-8d73-4e33-b7e9-c2eec77a5b1d
+score = 0.26793899811776256
+----------------------------------
+----------------------------------
+prezzo = 7900
+marca = ford
+modello = fiesta
+km = 123000
+anno = 2015
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-75cv-5-porte-titanium-diesel-blu-azzurro-1e1fd2b3-ec63-468d-932f-9da62055f7b6
+score = 0.26818394593932776
+----------------------------------
+----------------------------------
+prezzo = 7900
+marca = ford
+modello = fiesta
+km = 136200
+anno = 2016
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-black-white-100cv-benzina-nero-cb7118de-985d-4a3a-b8c2-1badcb735dcf
+score = 0.2685113607960992
+----------------------------------
+----------------------------------
+prezzo = 9690
+marca = ford
+modello = fiesta
+km = 67539
+anno = 2016
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-plus-1-5-diesel-75cv-diesel-argento-f24e09d7-68fc-40d4-8092-42ed86d7d27d
+score = 0.2686765387136029
+----------------------------------
+----------------------------------
+prezzo = 6500
+marca = ford
+modello = fiesta
+km = 105000
+anno = 2009
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-2-16v-82cv-benzina-argento-8c4080d1-dd41-45ef-aa05-fb17affce176
+score = 0.2700634669028565
+----------------------------------
+----------------------------------
+prezzo = 11000
+marca = ford
+modello = fiesta
+km = 45000
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-1-plus-70cv-my19-benzina-nero-23af7cce-af7b-4068-b317-2ae2889c9860
+score = 0.2701464216322452
+----------------------------------
+----------------------------------
+prezzo = 7800
+marca = ford
+modello = fiesta
+km = 118000
+anno = 2014
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-black-white-edition-diesel-bianco-42727215-7995-4020-886c-899bc1b352b2
+score = 0.27015968964874226
+----------------------------------
+----------------------------------
+prezzo = 10720
+marca = ford
+modello = fiesta
+km = 72300
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-plus-85cv-my19-5-benzina-blu-azzurro-f83caa7b-9216-4fa1-b9d6-06f46fee8611
+score = 0.27222816817905987
+----------------------------------
+----------------------------------
+prezzo = 12450
+marca = ford
+modello = fiesta
+km = 18267
 anno = 2020
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-2-0-tfsi-250-cv-bz-hybrid-stronic-awd-elettrica-benzina-bianco-799b5d96-1456-4789-b55a-f623a75e7379
-score = 0.5687182995776194
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-5-porte-connect-benzina-blu-azzurro-b3bca04f-198c-49d2-9709-4f281716bff6
+score = 0.2722524036173007
 ----------------------------------
 ----------------------------------
-prezzo = 60000
-marca = audi
-modello = a7
-km = 25000
+prezzo = 10690
+marca = ford
+modello = fiesta
+km = 62000
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-100-cv-5p-titanium-benzina-grigio-4e118f9d-7fe7-4cdf-8c71-042c70680105
+score = 0.2728248369429255
+----------------------------------
+----------------------------------
+prezzo = 8700
+marca = ford
+modello = fiesta
+km = 113526
+anno = 2016
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-75cv-titanium-diesel-grigio-6559a0bd-f829-4f06-84ba-df5794052e3d
+score = 0.27283063343896813
+----------------------------------
+----------------------------------
+prezzo = 9900
+marca = ford
+modello = fiesta
+km = 92600
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5-porte-1-1-titanium-benzina-rosso-0a2e9363-bbca-459f-965a-167b0362f77f
+score = 0.27290935730737664
+----------------------------------
+----------------------------------
+prezzo = 8500
+marca = ford
+modello = fiesta
+km = 122000
+anno = 2016
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-75-cv-5p-titanium-diesel-nero-a8546443-9085-4dd0-a7af-f09b12629f09
+score = 0.27323732252931193
+----------------------------------
+----------------------------------
+prezzo = 10500
+marca = ford
+modello = fiesta
+km = 71168
+anno = 2018
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-5-porte-plus-diesel-bianco-9921106d-6da1-4331-b810-02f448875248
+score = 0.27380341013320264
+----------------------------------
+----------------------------------
+prezzo = 10900
+marca = ford
+modello = fiesta
+km = 18600
+anno = 2015
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-100cv-5-porte-powershift-benzina-argento-16825254-f5ed-4daf-b91d-e6cdde51f08b
+score = 0.2741166089324494
+----------------------------------
+----------------------------------
+prezzo = 10500
+marca = ford
+modello = fiesta
+km = 59500
+anno = 2017
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-titanium-1-4-96-cv-gpl-gpl-grigio-c1cd833f-7c16-4fea-ac3e-c4527abe50ab
+score = 0.27428773261687867
+----------------------------------
+----------------------------------
+prezzo = 11890
+marca = ford
+modello = fiesta
+km = 44500
+anno = 2020
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-connected-s-s-75cv-my20-25-benzina-blu-azzurro-7fdf5e26-749c-42a2-91c5-6e862a6cf793
+score = 0.2747188428794627
+----------------------------------
+----------------------------------
+prezzo = 8500
+marca = ford
+modello = fiesta
+km = 100000
+anno = 2014
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2013-3p-1-4-titanium-gpl-92cv-gpl-lilla-1e4fe44b-b702-4ad3-940a-d8d52902c014
+score = 0.2749138533235817
+----------------------------------
+----------------------------------
+prezzo = 2200
+marca = ford
+modello = fiesta
+km = 280000
+anno = 2009
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-6-tdci-titanium-dpf-diesel-blu-azzurro-8e23402c-13f1-4c10-8dbe-2a545f2da7b4
+score = 0.27499709747895723
+----------------------------------
+----------------------------------
+prezzo = 8900
+marca = ford
+modello = fiesta
+km = 85800
+anno = 2014
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-6-serie-1-4-5-porte-bz-gpl-gpl-nero-a349df92-6b3e-4ba2-af0e-bbd38d225d2c
+score = 0.2755565157509553
+----------------------------------
+----------------------------------
+prezzo = 5700
+marca = ford
+modello = fiesta
+km = 158849
+anno = 2010
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-5-porte-bz-gpl-titanium-gpl-grigio-ec65177d-7bcc-43a5-b829-bfb29b388c10
+score = 0.27559574664583486
+----------------------------------
+----------------------------------
+prezzo = 11900
+marca = ford
+modello = fiesta
+km = 48000
+anno = 2020
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-connect-s-s-125cv-my20-75-elettrica-benzina-grigio-f552d6da-1570-4b45-82f1-28b3f4f703b7
+score = 0.2767774991577875
+----------------------------------
+----------------------------------
+prezzo = 11490
+marca = ford
+modello = fiesta
+km = 39000
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-1-titanium-85cv-benzina-grigio-88369fba-0b7d-4fae-bce3-6c70e678b833
+score = 0.2769713769663519
+----------------------------------
+----------------------------------
+prezzo = 7900
+marca = ford
+modello = fiesta
+km = 132747
+anno = 2014
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-1-5-tdci-75-cv-5p-diesel-nero-4d0ff214-3ccd-447f-91c4-eb5922d7ee5f
+score = 0.2800151059854604
+----------------------------------
+----------------------------------
+prezzo = 10890
+marca = ford
+modello = fiesta
+km = 69000
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-plus-70cv-ok-neopatentati-benzina-grigio-46b4f403-8913-4870-85b2-2857211c5ee3
+score = 0.28061711887483026
+----------------------------------
+----------------------------------
+prezzo = 13020
+marca = ford
+modello = fiesta
+km = 24682
 anno = 2021
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-45-3-0-tdi-mhev-quattro-s-tronic-elettrica-diesel-nero-93b2c4dd-fdc2-4589-a45a-e2bacf099275
-score = 0.5760968460519605
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-titanium-s-s-125cv-my20-75-elettrica-benzina-bianco-096b9739-5f7f-424c-aec5-0ea63b751d2a
+score = 0.28062215762173426
 ----------------------------------
 ----------------------------------
-prezzo = 57990
-marca = audi
-modello = a7
+prezzo = 9990
+marca = ford
+modello = fiesta
+km = 106619
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-titanium-1-1-benzina-85cv-benzina-argento-6d92ffb0-79cb-44db-8518-d4a4878fbc90
+score = 0.282174874485692
+----------------------------------
+----------------------------------
+prezzo = 9990
+marca = ford
+modello = fiesta
+km = 106619
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-titanium-1-1-benzina-85cv-benzina-argento-676c140f-6794-4458-9b0c-e8e097296f9a
+score = 0.282174874485692
+----------------------------------
+----------------------------------
+prezzo = 9990
+marca = ford
+modello = fiesta
+km = 106619
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-titanium-1-1-benzina-85cv-benzina-argento-b6dade75-ab4e-4a77-bb6e-6e21a8d07ccc
+score = 0.282174874485692
+----------------------------------
+----------------------------------
+prezzo = 10800
+marca = ford
+modello = fiesta
+km = 77000
+anno = 2018
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-titanium-e6b-neopat-unipro-rate-aut-diesel-verde-3214853c-8c59-4a36-80e6-8103cc2bd9fa
+score = 0.2830184714741349
+----------------------------------
+----------------------------------
+prezzo = 11400
+marca = ford
+modello = fiesta
+km = 54866
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-plus-70cv-my18-prezzo-reale-ok-neopat-benzina-argento-f70174f8-3f47-4e3a-be29-a9bcf03a1b0a
+score = 0.28354056632803254
+----------------------------------
+----------------------------------
+prezzo = 11990
+marca = ford
+modello = fiesta
+km = 59708
+anno = 2020
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-connect-s-s-75cv-my20-75-promo-benzina-grigio-eb077f8a-ed9a-42aa-9bda-ff05b34bee9a
+score = 0.28481852221484033
+----------------------------------
+----------------------------------
+prezzo = 9500
+marca = ford
+modello = fiesta
+km = 118000
+anno = 2017
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-75cv-5-porte-titanium-diesel-nero-c68a32de-90d0-4f49-98e9-bf9f7ac81102
+score = 0.2848677337483747
+----------------------------------
+----------------------------------
+prezzo = 12490
+marca = ford
+modello = fiesta
+km = 40665
+anno = 2020
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-ecoblue-titanium-85cv-s-s-my20-25-promo-diesel-blu-azzurro-9c1326f9-392b-405c-b89d-743f9506a01c
+score = 0.28493674817255693
+----------------------------------
+----------------------------------
+prezzo = 11900
+marca = ford
+modello = fiesta
+km = 51000
+anno = 2019
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-gpl-s-s-75cv-my20-25-gpl-argento-04f7ad01-4417-4c47-803c-1f7090440b87
+score = 0.2850337298070537
+----------------------------------
+----------------------------------
+prezzo = 13490
+marca = ford
+modello = fiesta
+km = 15000
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-connect-s-schermo-grande-benzina-bianco-f871c344-edce-4da7-bb26-8a0471e3f09d
+score = 0.2850878581639465
+----------------------------------
+----------------------------------
+prezzo = 11800
+marca = ford
+modello = fiesta
+km = 56000
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vii-2017-5p-5p-1-1-st-line-85cv-my19-5-benzina-bianco-415ed27c-24f1-42bb-b107-cba9615dc452
+score = 0.28564135345846675
+----------------------------------
+----------------------------------
+prezzo = 12500
+marca = ford
+modello = fiesta
+km = 54307
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-95cv-s-s-titanium-x-full-optional-benzina-grigio-1189fa46-bb25-4577-a37a-6d948ebb69cd
+score = 0.28570252375472327
+----------------------------------
+----------------------------------
+prezzo = 12500
+marca = ford
+modello = fiesta
+km = 54307
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-95cv-s-s-titanium-x-full-optional-benzina-grigio-b663b2aa-01cd-425c-bf3f-a70a457364fa
+score = 0.28570252375472327
+----------------------------------
+----------------------------------
+prezzo = 12500
+marca = ford
+modello = fiesta
+km = 55085
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-95cv-s-s-titanium-x-full-optional-benzina-blu-azzurro-9a62b3fd-24e8-40a9-ae0e-b512de1c8e76
+score = 0.28611475068087744
+----------------------------------
+----------------------------------
+prezzo = 12500
+marca = ford
+modello = fiesta
+km = 55085
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-95cv-s-s-titanium-x-full-optional-benzina-blu-azzurro-23596a6f-7d93-41bb-80eb-5f593cfabb7a
+score = 0.28611475068087744
+----------------------------------
+----------------------------------
+prezzo = 11500
+marca = ford
+modello = fiesta
+km = 82500
+anno = 2020
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-plus-1-1-gpl-grigio-73e8ec6d-d8bf-45bd-b3b5-0c61688d8564
+score = 0.28689088634600435
+----------------------------------
+----------------------------------
+prezzo = 11950
+marca = ford
+modello = fiesta
+km = 78700
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-1-titanium-s-benzina-bianco-d1e58ef4-d421-4a83-aa59-ba778a76c519
+score = 0.2873981954061829
+----------------------------------
+----------------------------------
+prezzo = 13000
+marca = ford
+modello = fiesta
+km = 39000
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-connect-navi-gpl-diversi-colori-benzina-blu-azzurro-f97e4c26-d9cb-451f-81d2-d0cef9322963
+score = 0.2878002867254372
+----------------------------------
+----------------------------------
+prezzo = 13020
+marca = ford
+modello = fiesta
+km = 39726
+anno = 2021
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-titanium-s-s-125cv-my20-75-elettrica-benzina-bianco-294a8a27-6b4c-486c-971c-4a2fd21426d8
+score = 0.28859329113981025
+----------------------------------
+----------------------------------
+prezzo = 8900
+marca = ford
+modello = fiesta
+km = 124349
+anno = 2015
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-4-5-porte-bz-gpl-business-gpl-bianco-88e659e6-248e-47d8-9f58-ac66915017a9
+score = 0.2893152164060323
+----------------------------------
+----------------------------------
+prezzo = 10500
+marca = ford
+modello = fiesta
+km = 89000
+anno = 2017
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-0-ecoboost-titanium-100cv-e6-benzina-grigio-4b91580d-119a-4ff3-bda4-02a2032e7934
+score = 0.28991844511244114
+----------------------------------
+----------------------------------
+prezzo = 6000
+marca = ford
+modello = fiesta
+km = 137000
+anno = 2007
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-st-2-0-3p-benzina-nero-ea2ebc0f-77bf-4f36-a540-81a783f1928e
+score = 0.2901439011193208
+----------------------------------
+----------------------------------
+prezzo = 12899
+marca = ford
+modello = fiesta
+km = 24000
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-neopatentati-pochi-km-perfette-condizioni-carplay-benzina-rosso-e5d8247b-5482-40e0-81f9-759cd0904ea8
+score = 0.2911237339963239
+----------------------------------
+----------------------------------
+prezzo = 12820
+marca = ford
+modello = fiesta
+km = 52896
+anno = 2021
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-titanium-s-s-125cv-my20-75-elettrica-benzina-blu-azzurro-29e974a7-df4d-4941-92f8-c1297bb5193e
+score = 0.29148817771758323
+----------------------------------
+----------------------------------
+prezzo = 11500
+marca = ford
+modello = fiesta
+km = 79000
+anno = 2019
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-ecoblue-plus-85cv-my19-5-diesel-blu-azzurro-e375efbc-c1f9-4623-9d38-8faefd1a84f2
+score = 0.29170306169963817
+----------------------------------
+----------------------------------
+prezzo = 13620
+marca = ford
+modello = fiesta
+km = 12864
+anno = 2020
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-titanium-s-s-125cv-my20-75-elettrica-benzina-rosso-2efbe992-e8e1-4400-a89a-f545647a4ef9
+score = 0.29327689982379773
+----------------------------------
+----------------------------------
+prezzo = 8900
+marca = ford
+modello = fiesta
+km = 145000
+anno = 2016
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-euro6-fap-neopatentati-diesel-blu-azzurro-e0dc7d34-4f9b-4a01-b8b4-5c4b028ad672
+score = 0.2935905783409202
+----------------------------------
+----------------------------------
+prezzo = 5499
+marca = ford
+modello = fiesta
+km = 87800
+anno = 2001
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-6-16v-zetec-s-sport-benzina-argento-b0c1c60b-e49f-4d37-b163-46aa091e4a18
+score = 0.2938463870435608
+----------------------------------
+----------------------------------
+prezzo = 10400
+marca = ford
+modello = fiesta
+km = 112900
+anno = 2018
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-euro-6-neopatentati-ok-2018-diesel-bianco-9c1a317e-a2bc-4c54-b936-a3af44e86e19
+score = 0.29387365518756486
+----------------------------------
+----------------------------------
+prezzo = 11700
+marca = ford
+modello = fiesta
+km = 51547
+anno = 2017
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-85-cv-start-stop-5-porte-titanium-benzina-c1cd6f82-9acf-45c6-9a0f-8e3a366e3666
+score = 0.2945735943340419
+----------------------------------
+----------------------------------
+prezzo = 9000
+marca = ford
+modello = fiesta
+km = 170000
+anno = 2018
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-x-neopatentati-bluetooth-my-18-6-marce-diesel-nero-111801d6-4cce-4629-b0b3-eb0cab1cfc7f
+score = 0.29554526118216956
+----------------------------------
+----------------------------------
+prezzo = 12820
+marca = ford
+modello = fiesta
+km = 61278
+anno = 2021
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-titanium-s-s-125cv-my20-75-elettrica-benzina-blu-azzurro-13e6fd7d-b9c0-41cd-a4a6-0070c15581ac
+score = 0.2959294194849664
+----------------------------------
+----------------------------------
+prezzo = 13990
+marca = ford
+modello = fiesta
+km = 30000
+anno = 2022
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-1-plus-75cv-benzina-blu-azzurro-2614ddf3-3283-4402-96f4-6d996796aeb9
+score = 0.2965772596748754
+----------------------------------
+----------------------------------
+prezzo = 13220
+marca = ford
+modello = fiesta
+km = 49221
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-s-s-75cv-my20-75-benzina-rosso-76d99be9-e857-4ebc-9803-2ef25d3614bd
+score = 0.297707560450577
+----------------------------------
+----------------------------------
+prezzo = 12420
+marca = ford
+modello = fiesta
+km = 68436
+anno = 2020
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-ecoblue-plus-85cv-my19-5-diesel-grigio-6ee0b988-90d5-4873-a788-6c40bc6517ca
+score = 0.2982221872024375
+----------------------------------
+----------------------------------
+prezzo = 10500
+marca = ford
+modello = fiesta
+km = 118000
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-1-st-line-85cv-benzina-grigio-1ed852f9-b5fd-4e5e-993c-088491dea16f
+score = 0.2986175636109037
+----------------------------------
+----------------------------------
+prezzo = 12020
+marca = ford
+modello = fiesta
+km = 72637
+anno = 2019
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-gpl-75cv-gpl-gpl-grigio-eb2bb77f-b4eb-4d85-8b20-6b07c1968576
+score = 0.29894817468772616
+----------------------------------
+----------------------------------
+prezzo = 12500
+marca = ford
+modello = fiesta
+km = 55227
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-active-1-0-ecoboost-s-s-benzina-argento-6f2a14f7-9006-4d66-b4ac-69498af28c08
+score = 0.29952332337605386
+----------------------------------
+----------------------------------
+prezzo = 10400
+marca = ford
+modello = fiesta
+km = 125000
+anno = 2018
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-5-tdci-neopatentati-75cv-e6-diesel-nero-ab315651-f7cd-42f0-9d25-6f92ebac736e
+score = 0.3002848965840498
+----------------------------------
+----------------------------------
+prezzo = 13900
+marca = ford
+modello = fiesta
+km = 15890
+anno = 2020
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-vii-2017-5p-5p-1-5-ecoblue-titanium-85cv-s-s-my20-diesel-blu-azzurro-ac181e72-d8d0-4769-abac-eaf0778ae4b1
+score = 0.30059685905575456
+----------------------------------
+----------------------------------
+prezzo = 12500
+marca = ford
+modello = fiesta
+km = 71000
+anno = 2020
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-connect-gpl-s-gpl-argento-a321049b-ab83-41ef-84a4-e2471a698c04
+score = 0.3012140542752349
+----------------------------------
+----------------------------------
+prezzo = 13900
+marca = ford
+modello = fiesta
+km = 30000
+anno = 2021
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-connect-s-s-125cv-my20-75-elettrica-benzina-nero-5ae157f0-1909-487e-8071-2b241134afa4
+score = 0.3014064416539145
+----------------------------------
+----------------------------------
+prezzo = 11900
+marca = ford
+modello = fiesta
+km = 83300
+anno = 2019
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-ecoblue-tdci-plus-85cv-my19-diesel-nero-09dfb0cd-5724-490c-8978-ff1e6fdb478a
+score = 0.30214803535304247
+----------------------------------
+----------------------------------
+prezzo = 14200
+marca = ford
+modello = fiesta
+km = 7323
+anno = 2020
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-5-porte-connect-benzina-blu-azzurro-2a76b145-4bb8-4737-b32a-17039b43e82e
+score = 0.3021825431348697
+----------------------------------
+----------------------------------
+prezzo = 11900
+marca = ford
+modello = fiesta
+km = 85582
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-85cv-ok-neopatentati-benzina-bianco-79273d77-2131-43a5-b5b5-b1482effb541
+score = 0.30335716368913984
+----------------------------------
+----------------------------------
+prezzo = 13800
+marca = ford
+modello = fiesta
+km = 26451
+anno = 2020
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-75-cv-5-porte-connect-benzina-grigio-15678941-d49d-43ad-a67e-b156d6e25f46
+score = 0.3041510044762464
+----------------------------------
+----------------------------------
+prezzo = 13490
+marca = ford
+modello = fiesta
+km = 51800
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-business-s-s-75-cv-carplay-navigatore-benzina-nero-529335ef-7c9d-45ad-a800-bd0857305282
+score = 0.30458650968383455
+----------------------------------
+----------------------------------
+prezzo = 12300
+marca = ford
+modello = fiesta
+km = 77119
+anno = 2019
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-5-ecoblue-5-porte-plus-diesel-blu-azzurro-8f197138-109b-4f65-9b4c-441f97105f9f
+score = 0.3070396023059047
+----------------------------------
+----------------------------------
+prezzo = 13800
+marca = ford
+modello = fiesta
+km = 32343
+anno = 2020
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-vii-1-0-ecoboost-active-95cv-diesel-grigio-c836de46-bdd6-49eb-8181-a604c699ba6c
+score = 0.3072729081380719
+----------------------------------
+----------------------------------
+prezzo = 12900
+marca = ford
+modello = fiesta
+km = 68897
+anno = 2020
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-75-cv-gpl-5-porte-titanium-gpl-grigio-6fc4096b-a74e-4ee6-89d8-aa1e2da6266e
+score = 0.30826636853511086
+----------------------------------
+----------------------------------
+prezzo = 10990
+marca = ford
+modello = fiesta
+km = 120000
+anno = 2018
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-plus-85cv-neopatentati-diesel-grigio-009682ca-1f23-45f1-b94e-f37545b4a886
+score = 0.30968135623194254
+----------------------------------
+----------------------------------
+prezzo = 13900
+marca = ford
+modello = fiesta
+km = 33500
+anno = 2020
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-vii-2017-5p-5p-1-0-ecoboost-hybrid-titanium-s-s-1-elettrica-benzina-nero-ff47b0ad-a9e1-49dc-b85f-d01a5311faa8
+score = 0.30992759963361405
+----------------------------------
+----------------------------------
+prezzo = 2300
+marca = ford
+modello = fiesta
+km = 380111
+anno = 2012
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-4-tdci-c-esp-e5-diesel-rosso-d9eacaa4-a445-4b87-9277-ca87c1848c6b
+score = 0.3100830270858854
+----------------------------------
+----------------------------------
+prezzo = 13900
+marca = ford
+modello = fiesta
+km = 22000
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-85-cv-5-porte-titanium-benzina-bianco-da697ac0-0c5e-4bf8-bf5e-90ffe6795cc7
+score = 0.31050093770031567
+----------------------------------
+----------------------------------
+prezzo = 14500
+marca = ford
+modello = fiesta
+km = 24300
+anno = 2021
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-vii-2017-5p-5p-1-1-titanium-gpl-s-s-75cv-my20-75-gpl-rosso-7113c110-a3a3-4b27-926e-0badae5a8b75
+score = 0.3106361680044927
+----------------------------------
+----------------------------------
+prezzo = 15000
+marca = ford
+modello = fiesta
+km = 10100
+anno = 2021
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-0-ecoboost-hybrid-connect-s-elettrica-benzina-bianco-f4262295-f3b7-4895-9091-6380aef33562
+score = 0.3133204800847858
+----------------------------------
+----------------------------------
+prezzo = 11000
+marca = ford
+modello = fiesta
+km = 127000
+anno = 2018
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-tdci-5p-titanium-diesel-bianco-e105566f-78c1-44f2-aa31-c8bc32b3e0a2
+score = 0.3135945038233002
+----------------------------------
+----------------------------------
+prezzo = 13000
+marca = ford
+modello = fiesta
+km = 50000
+anno = 2018
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-ecoblue-tdci-st-line-s-s-120cv-my19-diesel-grigio-ec7ff722-99e8-4b14-9b0c-8fe207205059
+score = 0.31362868799496896
+----------------------------------
+----------------------------------
+prezzo = 11900
+marca = ford
+modello = fiesta
+km = 93295
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-1-plus-85cv-benzina-bianco-67c05d29-c2b1-4509-a244-a23e5288d10d
+score = 0.31411059935507
+----------------------------------
+----------------------------------
+prezzo = 13020
+marca = ford
+modello = fiesta
+km = 75809
+anno = 2020
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-titanium-s-s-125cv-my20-75-elettrica-benzina-grigio-b665afad-3335-44c2-aafa-2d4311c92dc9
+score = 0.31437870353452374
+----------------------------------
+----------------------------------
+prezzo = 11000
+marca = ford
+modello = fiesta
+km = 130000
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-s-s-titanium-benzina-grigio-f6aa71d5-c79a-4fdb-80ce-c4e395365ce7
+score = 0.31518406780589975
+----------------------------------
+----------------------------------
+prezzo = 13600
+marca = ford
+modello = fiesta
+km = 67682
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-95cv-s-s-titanium-benzina-blu-azzurro-1d994b3e-8562-490a-ba69-38fb2f7eedbe
+score = 0.3152474760259282
+----------------------------------
+----------------------------------
+prezzo = 11500
+marca = ford
+modello = fiesta
+km = 112000
+anno = 2018
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-tdci-titanium-85cv-diesel-grigio-eda5da41-016f-4098-b314-e0cffdc40590
+score = 0.3158549321749001
+----------------------------------
+----------------------------------
+prezzo = 12800
+marca = ford
+modello = fiesta
+km = 75044
+anno = 2019
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5-porte-1-5-tdci-st-line-diesel-grigio-40f369d1-8205-45aa-af31-863007cc9367
+score = 0.3161484021492044
+----------------------------------
+----------------------------------
+prezzo = 13950
+marca = ford
+modello = fiesta
+km = 31127
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-85-cv-5-porte-titanium-benzina-nero-438c3704-5317-4dc4-a92b-5f06ab93f6bc
+score = 0.31635774601650424
+----------------------------------
+----------------------------------
+prezzo = 12973
+marca = ford
+modello = fiesta
+km = 45290
+anno = 2017
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-82cv-business-benzina-rosso-daad7c7e-8e66-406c-820d-9d52a1d8dcae
+score = 0.31724849380266607
+----------------------------------
+----------------------------------
+prezzo = 12973
+marca = ford
+modello = fiesta
+km = 45290
+anno = 2017
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-2-82cv-business-benzina-rosso-857cdcc4-cf38-4562-a61c-b8f27304a484
+score = 0.31724849380266607
+----------------------------------
+----------------------------------
+prezzo = 12990
+marca = ford
+modello = fiesta
+km = 45000
+anno = 2017
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-vignale-benzina-nero-e9ee9c4b-5288-4ce4-af00-6b4850412cb7
+score = 0.3174419163920111
+----------------------------------
+----------------------------------
+prezzo = 14200
+marca = ford
+modello = fiesta
+km = 49519
+anno = 2021
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-75-cv-gpl-5-porte-titanium-gpl-grigio-b8855ac9-e5e7-460c-99ea-8545c026d7aa
+score = 0.3178736237381269
+----------------------------------
+----------------------------------
+prezzo = 12990
+marca = ford
+modello = fiesta
+km = 84000
+anno = 2020
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-gpl-5-porte-titanium-gpl-bianco-69bc58c4-54a3-4b15-b387-aca4ca4cde1c
+score = 0.31810624816580557
+----------------------------------
+----------------------------------
+prezzo = 12500
+marca = ford
+modello = fiesta
+km = 78513
+anno = 2018
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-tdci-plus-85cv-diesel-bianco-7aa1b42c-9cd2-46f0-8725-a17ab622b3a2
+score = 0.3185281856756584
+----------------------------------
+----------------------------------
+prezzo = 14900
+marca = ford
+modello = fiesta
+km = 23900
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-0-ecoboost-hybrid-125-cv-5-porte-titani-benzina-argento-68caeb51-c588-449e-9565-b33d1c95bf2d
+score = 0.3185908247518243
+----------------------------------
+----------------------------------
+prezzo = 13900
+marca = ford
+modello = fiesta
+km = 37600
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-0-ecoboost-100cv-promo-parisi40-benzina-bianco-b146d600-f813-4d75-8ead-ae75237a97fd
+score = 0.3187666704098335
+----------------------------------
+----------------------------------
+prezzo = 14200
+marca = ford
+modello = fiesta
+km = 26500
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-85cv-neopatentati-garanz-perfetta-benzina-bianco-722c138c-70c5-4238-ba85-ac1a8627c083
+score = 0.31901023263297373
+----------------------------------
+----------------------------------
+prezzo = 13900
+marca = ford
+modello = fiesta
+km = 26000
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-st-line-100cv-benzina-blu-azzurro-75313cbd-9b6a-4060-bf14-032da8ee6c30
+score = 0.3192870230104484
+----------------------------------
+----------------------------------
+prezzo = 15400
+marca = ford
+modello = fiesta
+km = 18979
+anno = 2022
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-5-porte-titanium-benzina-bianco-a980ade2-3753-45e1-a71a-e703ba2ab2c1
+score = 0.3195249915636313
+----------------------------------
+----------------------------------
+prezzo = 9000
+marca = ford
+modello = fiesta
+km = 154400
+anno = 2013
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-4-16v-titanium-gpl-pelle-led-cruise-noleggio-gpl-rosso-4e00a17f-1b8e-4fc2-876f-23192bdcfcdd
+score = 0.3206128618059851
+----------------------------------
+----------------------------------
+prezzo = 13800
+marca = ford
+modello = fiesta
+km = 57617
+anno = 2020
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125-cv-5-porte-titanium-elettrica-benzina-blu-azzurro-555697e0-b494-4bc4-bf89-e93ea6f1e9ad
+score = 0.32066445483681244
+----------------------------------
+----------------------------------
+prezzo = 14250
+marca = ford
+modello = fiesta
+km = 27780
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-85-cv-5-porte-st-line-benzina-grigio-100a30cf-1ab4-41c6-958f-f59425d6ce9e
+score = 0.32070927142534267
+----------------------------------
+----------------------------------
+prezzo = 13950
+marca = ford
+modello = fiesta
+km = 65667
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-95cv-s-s-titanium-benzina-blu-azzurro-f4df2a1a-f129-471d-873b-d6c3f0e3b48a
+score = 0.3213255926695006
+----------------------------------
+----------------------------------
+prezzo = 13500
+marca = ford
+modello = fiesta
+km = 45576
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-85-cv-5-porte-st-line-benzina-rosso-9d9aec73-50e6-46c3-9c2b-ae67caf95947
+score = 0.3214928592398933
+----------------------------------
+----------------------------------
+prezzo = 15200
+marca = ford
+modello = fiesta
+km = 6991
+anno = 2020
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-1-connect-s-s-75cv-my20-75-benzina-04e2955a-2115-4fb3-92ca-1be958b985d6
+score = 0.32242312791665767
+----------------------------------
+----------------------------------
+prezzo = 11800
+marca = ford
+modello = fiesta
+km = 113000
+anno = 2018
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-st-line-85cv-diesel-bianco-9db124e4-202d-44ec-a84e-44483a014d4c
+score = 0.32250973579452535
+----------------------------------
+----------------------------------
+prezzo = 13800
+marca = ford
+modello = fiesta
+km = 73773
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-s-s-75cv-my20-75-benzina-blu-azzurro-0f9ef1bc-78a2-49e1-801e-789e972c1a71
+score = 0.3225581200711053
+----------------------------------
+----------------------------------
+prezzo = 14720
+marca = ford
+modello = fiesta
+km = 26713
+anno = 2020
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-0-ecoboost-h-s-s-125cv-my20-75-elettrica-benzina-grigio-650bef25-efd8-404b-85c6-5eee2fd6834c
+score = 0.32307300320425336
+----------------------------------
+----------------------------------
+prezzo = 12920
+marca = ford
+modello = fiesta
+km = 97252
+anno = 2020
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-5-ecoblue-tdci-85cv-my19-diesel-grigio-b1a72978-fac0-495c-ae42-2a58cd88e078
+score = 0.323698727374565
+----------------------------------
+----------------------------------
+prezzo = 14900
+marca = ford
+modello = fiesta
+km = 22259
+anno = 2020
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-gpl-5-porte-titanium-gpl-bianco-e45e88f0-52c1-446d-b910-c4faebd24a07
+score = 0.32438799992000905
+----------------------------------
+----------------------------------
+prezzo = 15500
+marca = ford
+modello = fiesta
+km = 12200
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vii-2017-5p-5p-1-0-ecoboost-st-line-s-benzina-rosso-34d97e4d-1057-482b-ba38-8070df09f341
+score = 0.32464142313720334
+----------------------------------
+----------------------------------
+prezzo = 14700
+marca = ford
+modello = fiesta
+km = 43315
+anno = 2021
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-0-ecoboost-hybrid-125-cv-5-porte-titani-elettrica-benzina-bianco-a4379380-56f9-407c-8495-d7b607273040
+score = 0.3247946536867088
+----------------------------------
+----------------------------------
+prezzo = 11900
+marca = ford
+modello = fiesta
+km = 114828
+anno = 2018
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-vii-2017-5p-5p-1-5-tdci-vignale-120cv-diesel-nero-12cb22d9-3a6a-457b-b0fa-03a5802e5405
+score = 0.32551995976750886
+----------------------------------
+----------------------------------
+prezzo = 13500
+marca = ford
+modello = fiesta
+km = 79000
+anno = 2020
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-gpl-5-porte-titanium-gpl-nero-f218ce79-97fa-4c99-b17a-8094eaf75e01
+score = 0.3258693880913627
+----------------------------------
+----------------------------------
+prezzo = 14520
+marca = ford
+modello = fiesta
+km = 42410
+anno = 2020
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-0-ecoboost-h-s-s-125cv-my20-75-elettrica-benzina-grigio-a7a0625d-f4e0-4596-af3f-05fa53b65a57
+score = 0.32730683251003606
+----------------------------------
+----------------------------------
+prezzo = 14700
+marca = ford
+modello = fiesta
+km = 48398
+anno = 2021
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-0-ecoboost-hybrid-125-cv-5-porte-titani-elettrica-benzina-argento-c12cf96c-928b-47bd-9d2a-676c6c5650e0
+score = 0.3274879049278933
+----------------------------------
+----------------------------------
+prezzo = 14700
+marca = ford
+modello = fiesta
 km = 50000
 anno = 2021
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-s-line-3-0-tdi-mhev-quattro-tiptro-elettrica-diesel-blu-azzurro-ce10d8bd-029a-4005-93be-99384ae700d8
-score = 0.5780939155160797
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125cv-5p-st-line-navi-fari-led-elettrica-benzina-argento-b6106df3-1c24-4fea-9e37-1777fa5142ba
+score = 0.32833673209460146
 ----------------------------------
 ----------------------------------
-prezzo = 55000
-marca = audi
-modello = a7
-km = 42666
-anno = 2022
-link = https://www.autoscout24.it//annunci/audi-a7-a7-spb-40-2-0-tdi-quattro-ultra-s-tronic-business-elettrica-diesel-bianco-4e4f3309-8ea3-4f3d-8146-61a09e141b8c
-score = 0.5781844226073454
-----------------------------------
-----------------------------------
-prezzo = 49900
-marca = audi
-modello = a7
-km = 144900
+prezzo = 13900
+marca = ford
+modello = fiesta
+km = 81000
 anno = 2021
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50tdi-286cv-quattro-tiptronic-business-plus-elettrica-diesel-nero-6f36caa4-987a-4135-8a1f-57653702a461
-score = 0.5827959786713697
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125-cv-5-porte-st-line-elettrica-benzina-argento-a0599068-a2ad-4049-b84e-0bcb1ba7eee2
+score = 0.32842902935810725
 ----------------------------------
 ----------------------------------
-prezzo = 58900
-marca = audi
-modello = a7
-km = 27640
-anno = 2022
-link = https://www.autoscout24.it//annunci/audi-a7-spb-40-2-0-tdi-quattro-ultra-s-tronic-elettrica-diesel-argento-6f383b67-8b0d-4d9f-821f-57c055c05875
-score = 0.5938293850119123
-----------------------------------
-----------------------------------
-prezzo = 59900
-marca = audi
-modello = a7
-km = 63000
+prezzo = 14900
+marca = ford
+modello = fiesta
+km = 43000
 anno = 2021
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-business-plus-elettrica-diesel-grigio-26e968fe-e062-4a69-ae94-f41df1b11e5e
-score = 0.5976252765825413
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-gpl-5-porte-connect-neop-gpl-grigio-1c542f1d-f0ce-4fa6-9b85-35fd18a8e7fd
+score = 0.32871104877437496
 ----------------------------------
 ----------------------------------
-prezzo = 62000
-marca = audi
-modello = a7
-km = 41500
+prezzo = 15000
+marca = ford
+modello = fiesta
+km = 41167
 anno = 2021
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-s-line-elettrica-diesel-grigio-97201c40-81d5-413a-a0bf-07eb0c525cc7
-score = 0.598231922949455
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-gpl-5-porte-business-gpl-blu-azzurro-ceb368ca-cbeb-457b-ba81-66821a543aa5
+score = 0.3297814748339261
 ----------------------------------
 ----------------------------------
-prezzo = 59890
-marca = audi
-modello = a7
-km = 25900
+prezzo = 13950
+marca = ford
+modello = fiesta
+km = 33590
+anno = 2017
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-100cv-titanium-benzina-grigio-d0d198f8-a726-46f7-807f-26f7dff31c6d
+score = 0.3309961113795518
+----------------------------------
+----------------------------------
+prezzo = 15920
+marca = ford
+modello = fiesta
+km = 21167
 anno = 2022
-link = https://www.autoscout24.it//annunci/audi-a7-spb-45-tdi-s-tronic-s-line-tetto-kamera-matrix-elettrica-diesel-grigio-22d6eea3-2b73-44a7-9c33-eaf6a2881781
-score = 0.5990101221470072
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-h-titanium-125cv-elettrica-benzina-nero-8863af89-1c17-4938-9950-22c9d152dfae
+score = 0.33130089175678895
 ----------------------------------
 ----------------------------------
-prezzo = 63800
-marca = audi
-modello = a7
-km = 25000
+prezzo = 16120
+marca = ford
+modello = fiesta
+km = 26930
+anno = 2023
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-0-ecoboost-h-125cv-elettrica-benzina-bianco-6d6625bd-d811-45ae-8735-ccedaa090b5d
+score = 0.3317710768065352
+----------------------------------
+----------------------------------
+prezzo = 15500
+marca = ford
+modello = fiesta
+km = 26807
 anno = 2021
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-elettrica-diesel-argento-5614be0d-d3e6-4275-8d4b-cc8b8a2890cc
-score = 0.5998762730929237
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-active-1-0-ecoboost-95-cv-benzina-blu-azzurro-0e648646-5cce-4885-b287-cd2de21b6384
+score = 0.33238101016848065
 ----------------------------------
 ----------------------------------
-prezzo = 59900
-marca = audi
-modello = a7
-km = 27500
+prezzo = 14900
+marca = ford
+modello = fiesta
+km = 37519
+anno = 2020
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-0-ecoboost-100cv-promo-parisi40-benzina-grigio-02348535-cb39-44c2-8333-4b44c23dcdb1
+score = 0.33247358204483224
+----------------------------------
+----------------------------------
+prezzo = 15920
+marca = ford
+modello = fiesta
+km = 23500
 anno = 2022
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-40-2-0-tdi-mhev-12v-quattro-s-tronic-elettrica-diesel-grigio-889bc56e-2577-4b7d-81cc-798b4f2c8474
-score = 0.6000055082150686
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-h-titanium-125cv-elettrica-benzina-nero-8f3cd5f0-86da-40d8-8d69-920485e8f92c
+score = 0.33253704268059053
 ----------------------------------
 ----------------------------------
-prezzo = 59950
-marca = audi
-modello = a7
-km = 41999
-anno = 2022
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-business-plus-elettrica-diesel-nero-3872a9e1-57fb-4915-81b6-2708f75f54f3
-score = 0.6087713906031814
-----------------------------------
-----------------------------------
-prezzo = 62500
-marca = audi
-modello = a7
-km = 18900
-anno = 2022
-link = https://www.autoscout24.it//annunci/audi-a7-45d-s-line-s-line-sline-led-pdc-navi-kamera-21-acc-elettrica-diesel-nero-dc0d43be-568a-4293-98d7-9bc7d418a611
-score = 0.6112617961281749
-----------------------------------
-----------------------------------
-prezzo = 64950
-marca = audi
-modello = a7
-km = 36999
+prezzo = 15400
+marca = ford
+modello = fiesta
+km = 31737
 anno = 2021
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50-2-0-tfsi-e-quattro-ultra-s-tronic-business-elettrica-benzina-bianco-ea5bc10c-b984-443f-87ae-8ac2aa704c58
-score = 0.614068160353
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-5-porte-titanium-benzina-grigio-a153c1db-473b-4693-90e1-f50b71a40a22
+score = 0.3329515439936331
 ----------------------------------
 ----------------------------------
-prezzo = 63500
-marca = audi
-modello = a7
-km = 52790
+prezzo = 15000
+marca = ford
+modello = fiesta
+km = 35000
+anno = 2020
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-95-cv-5-porte-titanium-benzina-beige-587f0660-5a98-4e35-88f7-71448e8a5f9f
+score = 0.333180527807029
+----------------------------------
+----------------------------------
+prezzo = 13500
+marca = ford
+modello = fiesta
+km = 81000
+anno = 2019
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-affare-unico-proprietario-diesel-blu-azzurro-685a6291-9c4d-4216-9fa3-a54edca12e6c
+score = 0.3335957640797624
+----------------------------------
+----------------------------------
+prezzo = 13290
+marca = ford
+modello = fiesta
+km = 77120
+anno = 2018
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-5-tdci-st-line-s-diesel-nero-8a917c0f-afc9-4cd5-9e29-41f9cead5919
+score = 0.33391913039113585
+----------------------------------
+----------------------------------
+prezzo = 14900
+marca = ford
+modello = fiesta
+km = 53024
 anno = 2021
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-tdi-quattro-tiptronic-s-line-elettrica-diesel-grigio-0a432a0a-00df-4402-9562-90b8af18c4fb
-score = 0.614200669771388
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-75-cv-5-porte-titanium-benzina-blu-azzurro-9fac1be6-cfd8-4a9e-9818-63ef9ae1cd51
+score = 0.33402231189490095
 ----------------------------------
 ----------------------------------
-prezzo = 70000
-marca = audi
-modello = a7
-km = 25000
+prezzo = 14900
+marca = ford
+modello = fiesta
+km = 42000
+anno = 2020
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-5-porte-titanium-benzina-rosso-bef5572f-b29f-4752-b6ef-59cb52cd8ade
+score = 0.33484786078017514
+----------------------------------
+----------------------------------
+prezzo = 16200
+marca = ford
+modello = fiesta
+km = 17993
+anno = 2022
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-0-ecoboost-hybrid-125-cv-5-porte-titani-elettrica-benzina-bianco-c4d39c9b-a8db-4545-a021-9847e48bd66f
+score = 0.3353357520913734
+----------------------------------
+----------------------------------
+prezzo = 14900
+marca = ford
+modello = fiesta
+km = 43279
+anno = 2020
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-0-ecoboost-95-cv-5-porte-st-line-benzina-argento-a602c2ff-8023-4c8c-8edb-74398e47c8de
+score = 0.3355255448914234
+----------------------------------
+----------------------------------
+prezzo = 15000
+marca = ford
+modello = fiesta
+km = 52063
 anno = 2021
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-40-2-0-tdi-s-line-quattro-s-tronic-elettrica-diesel-grigio-4a2c1032-1073-486e-bad5-1154eae30209
-score = 0.6386742856334426
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-gpl-titanium-5p-gpl-c07c25ce-b9f2-45f8-86a1-3730f400c357
+score = 0.3355547712187278
 ----------------------------------
 ----------------------------------
-prezzo = 67000
-marca = audi
-modello = a7
-km = 20784
-anno = 2022
-link = https://www.autoscout24.it//annunci/audi-a7-a7-sportback-ii-40-2-0-tdi-b-plus-quattro-s-tronic-elettrica-diesel-grigio-02e8fbbe-8b2e-4446-8d76-825ac43b1bdc
-score = 0.6405200260998768
-----------------------------------
-----------------------------------
-prezzo = 67000
-marca = audi
-modello = a7
-km = 64000
+prezzo = 14900
+marca = ford
+modello = fiesta
+km = 56000
 anno = 2021
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-45-2-0-tfsi-mhev-245cv-s-tronic-elettrica-benzina-nero-ac5e2f61-75cc-4e77-a1e2-f763a7aab773
-score = 0.6426382640781935
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125-cv-5-porte-connec-elettrica-benzina-bianco-0bc268fa-e4ed-4944-a1a4-da0be2ad3b5f
+score = 0.3355991593656397
 ----------------------------------
 ----------------------------------
-prezzo = 65900
-marca = audi
-modello = a7
-km = 18500
+prezzo = 13900
+marca = ford
+modello = fiesta
+km = 58000
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-0-ecoboost-vignale-100cv-benzina-nero-5a3f9a70-760e-4eac-af97-2316669bc489
+score = 0.3362423721581772
+----------------------------------
+----------------------------------
+prezzo = 13900
+marca = ford
+modello = fiesta
+km = 58789
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-benzina-100cv-5-porte-st-line-navi-led-benzina-bianco-8c94dd2f-3fb2-4275-a916-886ade946ac7
+score = 0.33666042748560093
+----------------------------------
+----------------------------------
+prezzo = 13990
+marca = ford
+modello = fiesta
+km = 70000
+anno = 2019
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-ecoblue-tdci-st-line-85cv-km-certificati-diesel-grigio-f9b50019-f431-4013-b981-917d1330e6fd
+score = 0.3377714461095364
+----------------------------------
+----------------------------------
+prezzo = 13820
+marca = ford
+modello = fiesta
+km = 89836
+anno = 2020
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-ecoblue-st-line-s-s-85cv-my20-25-diesel-rosso-78f9fa65-1a17-41a7-882c-79531faa1ddf
+score = 0.33814417208585495
+----------------------------------
+----------------------------------
+prezzo = 14300
+marca = ford
+modello = fiesta
+km = 89548
+anno = 2021
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-vii-2017-5p-5p-1-1-titanium-gpl-s-s-75cv-my20-75-gpl-bianco-9dc1469c-0088-472a-b22c-913101cb482f
+score = 0.34112482561087254
+----------------------------------
+----------------------------------
+prezzo = 13500
+marca = ford
+modello = fiesta
+km = 96000
+anno = 2019
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-active-1-5-tdci-neop-diesel-bianco-bae728da-4c98-4e05-8254-e2d5ef2dcae2
+score = 0.34154358399276025
+----------------------------------
+----------------------------------
+prezzo = 15950
+marca = ford
+modello = fiesta
+km = 29440
+anno = 2021
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-0-ecoboost-hybrid-125-cv-elettrica-benzina-grigio-fc996cde-4489-4e21-aa50-4495d0db6c59
+score = 0.3429635409286802
+----------------------------------
+----------------------------------
+prezzo = 13800
+marca = ford
+modello = fiesta
+km = 74730
+anno = 2018
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-active-2018-active-1-5-tdci-120cv-diesel-bianco-04c2e433-4402-4962-8c0d-84146f34432f
+score = 0.3430651909815546
+----------------------------------
+----------------------------------
+prezzo = 15500
+marca = ford
+modello = fiesta
+km = 48227
+anno = 2021
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-hybrid-st-line-s-s-125cv-my20-75-elettrica-benzina-nero-e3f93d5a-a451-4217-bb5c-cd99d64a52ce
+score = 0.34373049700424163
+----------------------------------
+----------------------------------
+prezzo = 16000
+marca = ford
+modello = fiesta
+km = 29510
+anno = 2021
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-0-ecoboost-hybrid-st-line-s-s-125cv-elettrica-benzina-ef2946a5-87fc-47fb-8592-da4595fa35e5
+score = 0.3440214555814007
+----------------------------------
+----------------------------------
+prezzo = 15300
+marca = ford
+modello = fiesta
+km = 44600
+anno = 2020
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-ecoblue-5p-titanium-diesel-nero-53fceef2-4fae-46bb-a610-f6585d106e4c
+score = 0.3443920815101063
+----------------------------------
+----------------------------------
+prezzo = 13900
+marca = ford
+modello = fiesta
+km = 86353
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-st-line-5-porte-benzina-nero-6f7cedfc-c4fd-4521-a94d-020638aeaddf
+score = 0.34459867469105915
+----------------------------------
+----------------------------------
+prezzo = 16300
+marca = ford
+modello = fiesta
+km = 20712
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-0-ecoboost-st-line-s-s-95cv-my20-75-benzina-blu-azzurro-468393b5-c06e-40c7-bbd9-66a9a1dc2e6e
+score = 0.34548474323385564
+----------------------------------
+----------------------------------
+prezzo = 13300
+marca = ford
+modello = fiesta
+km = 91400
+anno = 2017
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-tdci-st-line-85cv-diesel-blu-azzurro-22b6e346-c3bd-4344-ae23-847529fe04a1
+score = 0.34835628658026846
+----------------------------------
+----------------------------------
+prezzo = 13500
+marca = ford
+modello = fiesta
+km = 98000
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-0-ecoboost-st-line-140cv-benzina-grigio-257037e1-0339-4958-b277-88e7779fab74
+score = 0.34926995998115995
+----------------------------------
+----------------------------------
+prezzo = 17500
+marca = ford
+modello = fiesta
+km = 7822
 anno = 2023
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50tdi-quattro-hybrid-tiptronic-cockpit-elettrica-diesel-nero-c19bd115-a776-4bd6-b0ff-f2dc4f08cdad
-score = 0.6553818465056819
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-0-ecoboost-hybrid-125-cv-dct-5-porte-st-benzina-rosso-1cf78ede-2a5a-4814-85a7-b822cd441b72
+score = 0.3498213791569875
 ----------------------------------
 ----------------------------------
-prezzo = 69900
-marca = audi
-modello = a7
-km = 16650
+prezzo = 14400
+marca = ford
+modello = fiesta
+km = 77190
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-100-cv-5-porte-st-line-benzina-rosso-693d749c-46d0-43b4-a1e2-b7c7710fd9fd
+score = 0.34995186469813694
+----------------------------------
+----------------------------------
+prezzo = 15000
+marca = ford
+modello = fiesta
+km = 67700
+anno = 2020
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-ecoblue-titanium-85cv-s-s-my20-25-diesel-rosso-8577f53f-2494-4b51-bc41-3dd1f04e71e3
+score = 0.35050677521736434
+----------------------------------
+----------------------------------
+prezzo = 15500
+marca = ford
+modello = fiesta
+km = 51000
+anno = 2020
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-active-1-0-ecoboost-hybrid-s-s-125cv-elettrica-benzina-rosso-49fa2975-598b-4674-91bd-ad04f96b0b4b
+score = 0.35186645064549116
+----------------------------------
+----------------------------------
+prezzo = 15400
+marca = ford
+modello = fiesta
+km = 55000
+anno = 2020
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-active-1-5-ecoblue-diesel-grigio-4f346aee-e66d-410f-b1b3-ed20012e4f06
+score = 0.3519442196360377
+----------------------------------
+----------------------------------
+prezzo = 16900
+marca = ford
+modello = fiesta
+km = 22672
 anno = 2022
-link = https://www.autoscout24.it//annunci/audi-a7-spb-45-3-0-tdi-quattro-ultra-s-tronic-elettrica-diesel-bianco-6f866b5b-a471-4f24-9254-db6a3f953c22
-score = 0.6562573392846718
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125-cv-5-porte-st-line-elettrica-benzina-bianco-ab515d9d-7ac7-4341-98d9-e680563a208a
+score = 0.35210648962000474
 ----------------------------------
 ----------------------------------
-prezzo = 69900
-marca = audi
-modello = a7
-km = 17868
+prezzo = 14900
+marca = ford
+modello = fiesta
+km = 77600
+anno = 2020
+paese = Italia
+carburante = Diesel
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-5-ecoblue-5-porte-st-line-diesel-blu-azzurro-3c9315c3-7209-4fbc-9f29-0e3b489a1081
+score = 0.3537106867070234
+----------------------------------
+----------------------------------
+prezzo = 15900
+marca = ford
+modello = fiesta
+km = 52000
+anno = 2021
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-1-75-cv-gpl-5-porte-titanium-gpl-bianco-5fbddfa4-d387-4e70-8ae0-51e7d0eb8a82
+score = 0.3538962372513692
+----------------------------------
+----------------------------------
+prezzo = 16920
+marca = ford
+modello = fiesta
+km = 26905
 anno = 2022
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-elettrica-diesel-argento-35e974ce-f5df-4f58-9f1e-375f50a15805
-score = 0.6569674398531021
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-h-titanium-125cv-powershift-elettrica-benzina-grigio-2d3c868f-b45e-448a-9efc-5c078ccd434d
+score = 0.3547576943300367
 ----------------------------------
 ----------------------------------
-prezzo = 68500
-marca = audi
-modello = a7
-km = 18000
+prezzo = 14800
+marca = ford
+modello = fiesta
+km = 59875
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-3-porte-1-0-ecoboost-st-line-benzina-blu-azzurro-7fc8a035-f6eb-4f0b-97db-70990f3edabb
+score = 0.35561069652357796
+----------------------------------
+----------------------------------
+prezzo = 10900
+marca = ford
+modello = fiesta
+km = 150000
+anno = 2013
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-vi-2013-3p-1-6-st-182cv-benzina-blu-azzurro-bc6ee711-414e-404b-9498-518bf17f7d9c
+score = 0.35707284470364403
+----------------------------------
+----------------------------------
+prezzo = 16920
+marca = ford
+modello = fiesta
+km = 32722
+anno = 2022
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-h-titanium-125cv-powershift-elettrica-benzina-bianco-60590df6-96a8-4b05-be53-0f4b1f8fae65
+score = 0.35783985889229725
+----------------------------------
+----------------------------------
+prezzo = 16720
+marca = ford
+modello = fiesta
+km = 42205
+anno = 2022
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-0-ecoboost-h-titanium-125cv-powershift-elettrica-benzina-grigio-18b4f7f3-84b7-4356-9a52-b92b3c53b6c0
+score = 0.35878117133545534
+----------------------------------
+----------------------------------
+prezzo = 15900
+marca = ford
+modello = fiesta
+km = 49074
+anno = 2020
+paese = Italia
+carburante = GPL
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-1-75-cv-5-porte-titanium-gpl-grigio-55175630-3b6f-4a08-a1cc-62a97a7533a6
+score = 0.3590125491803405
+----------------------------------
+----------------------------------
+prezzo = 14500
+marca = ford
+modello = fiesta
+km = 53000
+anno = 2016
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-st-vetri-scuri-pack-2-pronta-consegna-benzina-nero-60edc9a3-ade7-41dd-9935-86bed954a8c5
+score = 0.3591763301046953
+----------------------------------
+----------------------------------
+prezzo = 16950
+marca = ford
+modello = fiesta
+km = 35568
+anno = 2022
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-hybrid-125cv-st-line-5p-36-x-187-43-elettrica-benzina-argento-3a807b57-d185-4aee-84bd-d16299eb43b0
+score = 0.3599603201529992
+----------------------------------
+----------------------------------
+prezzo = 15900
+marca = ford
+modello = fiesta
+km = 41400
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-1-st-line-85cv-chilometri-certificati-benzina-rosso-d61d42f0-ad0e-4289-94f4-b48af3aadb8d
+score = 0.36161311117951744
+----------------------------------
+----------------------------------
+prezzo = 17990
+marca = ford
+modello = fiesta
+km = 12975
 anno = 2023
-link = https://www.autoscout24.it//annunci/audi-a7-spb-50-3-0-tdi-quattro-tiptronic-sline-line-diesel-bianco-0f59c41d-d88f-47fc-bc59-5f546025898e
-score = 0.6713604781004673
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-1-titanium-75cv-benzina-bianco-421577c7-d6f8-4634-90bd-e4597e1547a0
+score = 0.3625558035237386
 ----------------------------------
 ----------------------------------
-prezzo = 69900
-marca = audi
-modello = a7
-km = 19954
-anno = 2023
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-nero-ccd4d0ea-f303-477f-aeb6-c5890f34af79
-score = 0.6812605121794058
+prezzo = 15750
+marca = ford
+modello = fiesta
+km = 68946
+anno = 2020
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-140cv-st-line-benzina-grigio-c0f21293-491c-4610-92ad-c901753cc9ee
+score = 0.3664793465217007
 ----------------------------------
 ----------------------------------
-prezzo = 69900
-marca = audi
-modello = a7
-km = 19954
-anno = 2023
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-nero-12ba9161-6334-4851-8357-45c6f250322b
-score = 0.6812605121794058
+prezzo = 15750
+marca = ford
+modello = fiesta
+km = 69184
+anno = 2020
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-0-ecoboost-140cv-st-line-benzina-grigio-374e3c50-fd84-4d96-a95c-abb4b5f4dda9
+score = 0.3666054519309869
 ----------------------------------
 ----------------------------------
-prezzo = 69900
-marca = audi
-modello = a7
-km = 19954
-anno = 2023
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-nero-daab5d41-7d4e-454e-8646-825a7bbeb33f
-score = 0.6812605121794058
+prezzo = 13900
+marca = ford
+modello = fiesta
+km = 94600
+anno = 2016
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-6-st-182cv-3p-e6-benzina-nero-721ffafd-3740-4b0c-926e-2e40a5c36a4f
+score = 0.3689683860792254
 ----------------------------------
 ----------------------------------
-prezzo = 69900
-marca = audi
-modello = a7
-km = 19954
-anno = 2023
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-nero-7ac719a1-88c0-4fa0-9138-4bcac29973f6
-score = 0.6812605121794058
+prezzo = 17200
+marca = ford
+modello = fiesta
+km = 18412
+anno = 2020
+paese = Italia
+carburante = Elettrica/Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-0-ecoboost-hybrid-st-line-s-elettrica-benzina-blu-azzurro-6c3d23b7-b7d7-4bf8-b473-1c7441d6d94e
+score = 0.3693075910568054
 ----------------------------------
 ----------------------------------
-prezzo = 69900
-marca = audi
-modello = a7
-km = 34502
-anno = 2023
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-50-3-0-tdi-mhev-business-plus-quattro-ti-elettrica-diesel-nero-29a20de3-6056-42f1-b0cd-960c4cd17f31
-score = 0.6897420746338584
+prezzo = 13900
+marca = ford
+modello = fiesta
+km = 100000
+anno = 2016
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-6-st-182cv-benzina-blu-azzurro-24eccb49-b505-4aed-8508-78ff5b050388
+score = 0.3718296012479046
 ----------------------------------
 ----------------------------------
-prezzo = 75900
-marca = audi
-modello = a7
-km = 8950
-anno = 2023
-link = https://www.autoscout24.it//annunci/audi-a7-sportback-40-2-0-tdi-mhev-business-plus-quattro-s-elettrica-diesel-nero-a17b0ea9-1536-41c0-aca6-4a4cb2ba3921
-score = 0.712391584585925
+prezzo = 17300
+marca = ford
+modello = fiesta
+km = 43227
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-0-ecoboost-hybrid-125-cv-5-porte-active-benzina-blu-azzurro-0a43e0f6-59cf-4ee0-9b0f-f22bc06060e7
+score = 0.377830917452461
 ----------------------------------
 ----------------------------------
-prezzo = 89900
-marca = audi
-modello = a7
-km = 25500
-anno = 2023
-link = https://www.autoscout24.it//annunci/audi-a7-50tdi-286cv-q-tiptr-business-plus-l-115-785-elettrica-diesel-b7aba0bf-7ae1-42bf-b2ca-4d607d56c72e
-score = 0.809648739250838
+prezzo = 16300
+marca = ford
+modello = fiesta
+km = 37500
+anno = 2017
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-st-sport-pack-1-2-navy-led-sens-park-cruise-benzina-nero-1fbafb92-f20a-43a2-9194-376d89cca1fd
+score = 0.3810466099471495
+----------------------------------
+----------------------------------
+prezzo = 18900
+marca = ford
+modello = fiesta
+km = 2649
+anno = 2022
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5-porte-1-0-ecoboost-hybrid-st-line-benzina-grigio-7a1700ec-2cb2-4bc1-96db-b80698463fee
+score = 0.38233020280386554
+----------------------------------
+----------------------------------
+prezzo = 16900
+marca = ford
+modello = fiesta
+km = 46700
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-st-apple-car-play-sens-park-cruise-android-auto-benzina-grigio-1f310911-c1a8-4eae-9391-4f419f1477b3
+score = 0.39150450407797227
+----------------------------------
+----------------------------------
+prezzo = 500
+marca = ford
+modello = fiesta
+km = 189000
+anno = 1978
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-900-l-benzina-blu-azzurro-02926f4b-f371-4ec9-9eb6-e15ba7b03017
+score = 0.39873894590713765
+----------------------------------
+----------------------------------
+prezzo = 15900
+marca = ford
+modello = fiesta
+km = 95000
+anno = 2016
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-3p-1-6-st-182cv-e6-benzina-giallo-97b51007-40cd-4357-9ec9-51468c73fd63
+score = 0.41001332100196314
+----------------------------------
+----------------------------------
+prezzo = 17400
+marca = ford
+modello = fiesta
+km = 50628
+anno = 2017
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-6-st-182cv-benzina-nero-d61fa012-62c3-4567-bec8-5c01974dbd67
+score = 0.41046068811712044
+----------------------------------
+----------------------------------
+prezzo = 18990
+marca = ford
+modello = fiesta
+km = 39000
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-5p-1-5-st-line-performance-navigatore-benzina-nero-1576b95c-03cb-47cc-8e5c-7522b7fdd85c
+score = 0.4234284342686521
+----------------------------------
+----------------------------------
+prezzo = 9900
+marca = ford
+modello = fiesta
+km = 123000
+anno = 1994
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-8i-16v-xr2i-126cv-tutta-originale-da-concorso-benzina-grigio-30ecd2a9-b912-4ee4-ba9e-fa90c92a7b58
+score = 0.44901693899771894
+----------------------------------
+----------------------------------
+prezzo = 21400
+marca = ford
+modello = fiesta
+km = 24600
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-st-3p-performance-benzina-grigio-47b289a5-19ea-47a4-9a3e-abf0fcc1dddc
+score = 0.4516689504542022
+----------------------------------
+----------------------------------
+prezzo = 19900
+marca = ford
+modello = fiesta
+km = 80792
+anno = 2018
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-200cv-st-navi-far-led-sedili-recaro-benzina-blu-azzurro-243a897a-d775-454f-9ed3-6157c7252e0d
+score = 0.47081779876382057
+----------------------------------
+----------------------------------
+prezzo = 20900
+marca = ford
+modello = fiesta
+km = 70800
+anno = 2020
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-st-1-5-ecoboost-benzina-blu-azzurro-6ae02ea7-67e5-4129-ba55-2e4016424f6b
+score = 0.47260665418830455
+----------------------------------
+----------------------------------
+prezzo = 20900
+marca = ford
+modello = fiesta
+km = 66000
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-st-5p-1-5-200cv-venduta-benzina-nero-0a988d97-5715-4943-9f2e-219f8798a52f
+score = 0.4767300184828119
+----------------------------------
+----------------------------------
+prezzo = 22600
+marca = ford
+modello = fiesta
+km = 38500
+anno = 2020
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-bollo-pagato-tutto-il-2024-benzina-blu-azzurro-bfbae676-1673-486e-8d08-80335e0effe2
+score = 0.4902003927419484
+----------------------------------
+----------------------------------
+prezzo = 22500
+marca = ford
+modello = fiesta
+km = 44735
+anno = 2020
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-ecoboost-200-cv-5-porte-st-benzina-bianco-d19970d5-215e-43fc-97a9-4bea40619aba
+score = 0.49146238689953153
+----------------------------------
+----------------------------------
+prezzo = 21997
+marca = ford
+modello = fiesta
+km = 61670
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-5p-1-5-st-s-benzina-nero-58ff24e1-3634-4563-baf3-223214d56aa0
+score = 0.4968326444937874
+----------------------------------
+----------------------------------
+prezzo = 23200
+marca = ford
+modello = fiesta
+km = 50831
+anno = 2019
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-fiesta-3p-1-5-st-benzina-blu-azzurro-a95bfd70-ecce-473e-884e-627fdf5b8d90
+score = 0.5156505951492775
+----------------------------------
+----------------------------------
+prezzo = 24900
+marca = ford
+modello = fiesta
+km = 41700
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-5-ecoboost-200-cv-5-porte-st-performan-benzina-blu-azzurro-7e25db8c-a957-491f-bae8-d0cddadee909
+score = 0.5321872030072043
+----------------------------------
+----------------------------------
+prezzo = 24990
+marca = ford
+modello = fiesta
+km = 40000
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-1-5-ecoboost-st-200-cv-benzina-bianco-15df0382-b54c-4e69-bc21-c38a287352a2
+score = 0.5331239347713589
+----------------------------------
+----------------------------------
+prezzo = 24900
+marca = ford
+modello = fiesta
+km = 44000
+anno = 2021
+paese = Italia
+carburante = Benzina
+link = https://www.autoscout24.it//annunci/ford-fiesta-7-serie-1-5-ecoboost-200-cv-5-porte-st-pack-perf-benzina-nero-39c78363-6350-4682-878e-5696f2df9683
+score = 0.5334058687271973
 ----------------------------------

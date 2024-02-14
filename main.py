@@ -1,11 +1,14 @@
 from collections import defaultdict
 import bs4, requests, webbrowser
 from annuncio import Annuncio
+import openpyxl
 
 totalResults=0
 annunci = []
-make = "audi"
-model = "a7"
+make = "ford"
+model = "fiesta"
+country = "I"  #Europe: D%2CA%2CB%2CE%2CF%2CI%2CL%2CN
+#fuel = "B"
 minPrice = 0
 maxPrice = 0
 minKm = 0
@@ -14,9 +17,9 @@ minYear = 0
 maxYear = 0
 
 #Create the link for the search page
-#TODO implement more search filter
-def linkCreator(make, model, page):
-    BASE_LINK = "https://www.autoscout24.it/lst/"+make+"/"+model+"?atype=C&cy=I&desc=0&page="+str(page)+"&sort=standard&source=homepage_search-mask&ustate=N%2CU"
+def linkCreator(make, model, country, page):
+    BASE_LINK = "https://www.autoscout24.it/lst/"+make+"/"+model+"?atype=C&cy="+country+"&desc=0&page="+str(page)+"&sort=standard&source=homepage_search-mask&ustate=N%2CU"
+    #BASE_LINK = f"https://www.autoscout24.it/lst/{make}/{model}?atype=C&cy={country}&desc=0&page={str(page)}&sort=standard&source=homepage_search-mask&ustate=N%2CU"
     return BASE_LINK
 
 #Take the article in the page and pass it to the list population method
@@ -38,12 +41,14 @@ def listPopulation(page):
         km = str(articolo.get('data-mileage'))
         link = str((articolo.find('a', class_='ListItem_title__ndA4s ListItem_title_new_design__QIU2b Link_link__Ajn7I')).get('href'))
         anno = str(articolo.get('data-first-registration'))
-        car = Annuncio(marca, modello, prezzo, km, link, anno)
+        fuel = str(articolo.get('data-fuel-type'))
+        region = str(articolo.get('data-listing-country'))
+        type = str(articolo.get('data-vehicle-type'))
+        car = Annuncio(marca, modello, prezzo, km, link, anno, fuel, region, type)
         annunci.append(car)
     return annunci
 
 #Print the list
-#TODO print fuel type and country also
 def printList(annunci):
     global totalResults
     totalResults += len(annunci)
@@ -55,6 +60,8 @@ def printList(annunci):
             file.write("modello = " + annuncio.model + "\n")
             file.write("km = " + str(annuncio.km) + "\n")
             file.write("anno = "+ str(annuncio.year) + "\n")
+            file.write("paese = "+ str(annuncio.region) + "\n")
+            file.write("carburante = "+ str(annuncio.fuel) + "\n")
             file.write("link = " + annuncio.link + "\n")
             file.write("score = " + str(annuncio.score) + "\n")
             file.write("----------------------------------\n")
@@ -97,6 +104,7 @@ def categorization():
     with open('lista.txt', 'a') as file:
         file.write("++++++++++++++++++++++++++++++++ OLD CARS ++++++++++++++++++++++++++++++++")
     old = sorted(old, key=lambda x: x.score, reverse=False)
+    #excelDataExport(old)
     printList(old)
 
 def minmax(list):
@@ -138,7 +146,7 @@ def scoreCalculator(price: int, km: int, year):
     km = int(km)
     normalizedPrice = normalizedValue(price, minPrice, maxPrice)
     normalizedKm = normalizedValue(km, minKm, maxKm)
-    normalizedYear = normalizedValue(year, minYear, maxYear)
+    normalizedYear = 1 - normalizedValue(year, minYear, maxYear)
     convenience_score = (0.5 * normalizedPrice) + (0.2 * normalizedKm) + (0.3 * normalizedYear)
     return convenience_score
 
@@ -148,16 +156,53 @@ def normalizedValue(value, min, max):
 
 
 
+
+#EXCEL DATA EXPORT
+def excelDataExport(lista_auto):
+
+    # Creare un nuovo foglio di lavoro
+    wb = openpyxl.Workbook()
+
+    # Creare fogli per prezzi, chilometraggio e anni
+    foglio_prezzi = wb.create_sheet(title='Prezzi')
+    foglio_km = wb.create_sheet(title='Chilometraggio')
+    foglio_anni = wb.create_sheet(title='Anni')
+
+    # Scrivere l'intestazione delle colonne
+    colonne_prezzi = ['prezzo']
+    colonne_km = ['km']
+    colonne_anni = ['anno']
+
+    for colonna_index, colonna in enumerate(colonne_prezzi, start=1):
+        foglio_prezzi.cell(row=1, column=colonna_index, value=colonna)
+
+    for colonna_index, colonna in enumerate(colonne_km, start=1):
+        foglio_km.cell(row=1, column=colonna_index, value=colonna)
+
+    for colonna_index, colonna in enumerate(colonne_anni, start=1):
+        foglio_anni.cell(row=1, column=colonna_index, value=colonna)
+
+    # Scrivere i dati nelle celle
+    for riga_index, auto in enumerate(lista_auto, start=2):
+        foglio_prezzi.cell(row=riga_index, column=1, value=auto.price)
+        foglio_km.cell(row=riga_index, column=1, value=auto.km)
+        foglio_anni.cell(row=riga_index, column=1, value=auto.year)
+
+    # Salva il file Excel
+    wb.save('mio_file_excel.xlsx')
+
+
 #Start the program
 #TODO implemente the possibility tho choice wich make and model you want to search for
 def start():
     global make
     global model
-    link = linkCreator(make, model, page=1)
+    global country
+    link = linkCreator(make, model, country, page=1)
     soup = linkCall(link)
     pages = pageCalculator(soup)
     for n in range(pages+1):
-        link = linkCreator(make, model, page=n)
+        link = linkCreator(make, model, country, page=n)
         soup = linkCall(link)
         pageResearch(soup)
     categorization()

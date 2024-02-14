@@ -3,16 +3,17 @@ from datetime import date
 
 
 class Annuncio:
-    def __init__(self, make="", model = "", price = 0, km = 0, link = "", year = 0, fuel = "", region = ""):
+    def __init__(self, make="", model = "", price = 0, km = 0, link = "", year = 0, fuel = "", region = "", type = ""):
         self.make = make
         self.model = model
         self.price = Annuncio.numberReturn(price)
         self.km = Annuncio.numberReturn(km)
         self.link = "https://www.autoscout24.it/"+link
         self.year = int(Annuncio.yearFormatter(year))
-        self.fuel = fuel
-        self.region = region
+        self.fuel = Annuncio.fuelType(fuel)
+        self.region = Annuncio.countryCode(region)
         self.score = 0 #Annuncio.scoreCalculator(self.price, self.km, self.year)
+        self.type = type
         self.category = Annuncio.categorization(self.km)
 
 #This method return a string with only numbers
@@ -55,3 +56,49 @@ class Annuncio:
         else:
             category = "used"
         return category
+    
+    @staticmethod
+    def fuelType(fuel):
+        match fuel:
+            case 'b':
+                return "Benzina"
+            case 'd':
+                return "Diesel"
+            case 'm':
+                return "Etanolo"
+            case 'e':
+                return "Elettrico"
+            case 'h':
+                return "Idrogeno"
+            case 'l':
+                return "GPL"
+            case 'c':
+                return "Metano"
+            case '2':
+                return "Elettrica/Benzina"
+            case '3':
+                return "Elettrica/Diesel"
+            case 'o':
+                return "Altro"
+        return "Unknow"
+    
+    @staticmethod
+    def countryCode(country):
+        match country:
+            case 'i':
+                return "Italia"
+            case 'd':
+                return "Germania"
+            case 'a':
+                return "Austria"
+            case 'b':
+                return "Belgio"
+            case 'e':
+                return "Spagna"
+            case 'f':
+                return "Francia"
+            case 'l':
+                return "Lussemburgo"
+            case 'nl':
+                return "Olanda"
+        return "Unknow"
